@@ -1,0 +1,84 @@
+,Date,NERC,Event,Area,Disturbance,Loss,Affected Customers,Restoration Date
+0,2005-01-04 00:00:00,SPP,6:00 p.m. ,Eastern one third of the state of Kansas,Winter Storm,200,211000,2005-01-14 00:00:00
+1,2005-01-05 00:00:00,ECAR,4:00 p.m.,Akron and Mansfield areas,Ice Storm,250,246990,2005-01-13 00:00:00
+2,2005-01-05 00:00:00,ECAR,9:10 p.m.,Indiana Michigan Region - Muncie District,Winter Ice Storm,545,114791,2005-01-16 00:00:00
+3,2005-01-07 00:00:00,WECC,1:00 p.m.,Northern California,Winter Storm,120,442000,2005-01-10 00:00:00
+4,2005-01-23 00:00:00,PR,10:42 a.m.,Island of Puerto Rico,Voltage Reduction,140,,2005-01-23 00:00:00
+5,2005-01-24 00:00:00,PR,6:38 a.m.,Island of Puerto Rico,Voltage Reduction/Shed Load,225,70717,2005-01-24 00:00:00
+6,2005-01-24 00:00:00,PR,12:27 p.m.,Island of Puerto Rico,Voltage Reduction/Shed Load,385,,2005-01-24 00:00:00
+7,2005-01-29 00:00:00,SERC,10:00 a.m.,Parts of Alabama and Georgia,Ice Storm,100,150000,2005-01-31 00:00:00
+8,2005-01-29 00:00:00,SERC,4:00 p.m.,Georgia,Ice Storm,65 to 100,82000,2005-01-30 00:00:00
+9,2005-02-01 00:00:00,PR,5:78 p.m.,Island of Puerto Rico,Voltage Reduction,460,,2005-02-01 00:00:00
+10,2005-02-15 00:00:00,PR,1:12 p.m.,Island of Puerto Rico,Generator Loss,380,,2005-02-15 00:00:00
+11,2005-02-16 00:00:00,PR,1:26 p.m. ,Island of Puerto Rico,Load Shedding,325,139438,2005-02-16 00:00:00
+12,2005-02-18 00:00:00,PR,8:16 a.m.,Island of Puerto Rico,Generator Loss/Voltage Reduction,648,372288,2005-02-18 00:00:00
+13,2005-02-24 00:00:00,PR,12:58 a.m.,Island of Puerto Rico,Voltage Reduction,200,,2005-02-24 00:00:00
+14,2005-03-08 00:00:00,SERC,11:00 a.m.,Eastern and Central North Carolina,Wind Storms,180,51600,2005-03-08 00:00:00
+15,2005-04-01 00:00:00,ECAR,Midnight,"Cleveland, Ohio and northeast Ohio ",Winter Storm,,211000,2005-04-06 00:00:00
+16,2005-04-22 00:00:00,WECC,3:51 p.m.,"San Francisco Bay area, California",Lightning Strike,126,PG&E,2005-04-22 00:00:00
+17,2005-04-23 00:00:00,PR,4:22 a.m.,Island of Puerto Rico,Voltage Reduction,345,116552,2005-04-23 00:00:00
+18,2005-04-23 00:00:00,ECAR,6:00 a.m,"Cleveland, Ohio and northeast Ohio ",Winter Storm,,150000,2005-04-27 00:00:00
+19,2005-04-30 00:00:00,SERC,8:00 a.m.,Alabama and Georgia,Thunderstorms,100,51808,2005-04-30 00:00:00
+20,2005-05-08 00:00:00,ERCOT,3:00 p.m.,"Houston, Texas and surrounding suburban areas",Strong Thunderstorms,672,243000,2005-05-08 00:00:00
+21,2005-05-11 00:00:00,PR,7:00 p.m.,Island of Puerto Rico,Voltage Reduction,529,,2005-05-11 00:00:00
+22,2005-05-29 00:00:00,ERCOT,8:00 p.m.,"Houston, Texas and surrounding suburban areas",Strong Thunderstorms,328,123000,2005-05-30 00:00:00
+23,2005-06-05 00:00:00,ECAR,2:00 p.m.,Southeast  Michigan,Strong Thunderstorm/High Winds,1826,201580,2005-06-10 00:00:00
+24,2005-06-05 00:00:00,ECAR,2:00 p.m.,Portions of  the southern 2/3 of  Michigan's Lower Peninsula,Strong Thunderstorm,50-60 ,105000,2005-06-07 00:00:00
+25,2005-06-06 00:00:00,NPCC,12:00 p.m.,Central/Eastern New York state,Strong Thunderstorms,,65000,2005-06-08 00:00:00
+26,2005-06-06 00:00:00,MAAC,4:43  p.m.,"Bucks, Montgomery, Delaware, Chester, Philadelphia counties, Pennsylvania",Strong Thunderstorm,,143000,2005-06-07 00:00:00
+27,2005-06-08 00:00:00,MRO,4:00 a.m.,Minnesota,Strong Thunderstorm,50-100,300000,2005-06-10 00:00:00
+28,2005-06-20 00:00:00,PR,11:16 a.m.,Island of Puerto Rico,Voltage Reduction,35,600000,2005-06-20 00:00:00
+29,2005-06-24 00:00:00,MAIN,8:37 p.m.,"Chicago, Illinois",Transmission Equipment Failure,350,51500,2005-06-24 00:00:00
+30,2005-06-28 00:00:00,WECC,11:30 a.m.,Denver Metropolitan area of Colorado,Fuel Supply Deficiency/Coal Rail Transportation Interruption,0,0,2005-06-28 00:00:00
+31,2005-06-29 00:00:00,ECAR,4:30 p.m.,Southeast  Michigan,Strong Thunderstorm/High Winds,1000,114711,2005-07-04 00:00:00
+32,2005-07-02 00:00:00,PR,1:27 a.m.,Island of Puerto Rico,Load Shedding,226,132290,2005-07-02 00:00:00
+33,2005-07-05 00:00:00,SPP,9:00 p.m.,"Southeast and Northeast, Louisiana including the New Orleans area",Tropical Storm Cindy,unknown,287000,2005-07-06 00:00:00
+34,2005-07-10 00:00:00,SERC,8:00 a.m.,"Alabama, Mississippi, Florida, Georgia",Hurricane Dennis,45,228102,2005-07-12 00:00:00
+35,2005-07-10 00:00:00,SERC,12:53 p.m.,Southwest Alabama and Western Panhandle of Florida,Hurricane Dennis,51.2,50000,2005-07-11 00:00:00
+36,2005-07-21 00:00:00,WECC,2:39 p.m.,Southern California,CA ISO  Stage 2 -Initiated interruption of Air Conditioner Cycling Interruptible Load Program,197,128050,2005-07-21 00:00:00
+37,2005-07-22 00:00:00,WECC,1:55 p.m.,Southern California ,CA ISO Stage 2 -Initiated interruption of Air Conditioner Cycling Interruptible Load Program,206,133900,2005-07-22 00:00:00
+38,2005-07-23 00:00:00,MAAC,1:02 a.m.,"Washington, DC, Montgomery and Prince Georges Counties, Maryland",Severe Thunderstorms,,55118,2005-07-26 00:00:00
+39,2005-07-27 00:00:00,MAAC,4:50 p.m,"Bucks, Chester, Delaware, Montgomery and Philadelphia counties, Pennsylvania",Severe Thunderstorms,,93837,2005-07-28 00:00:00
+40,2005-07-27 00:00:00,MAAC,5:50 p.m.,"Washington, DC, Montgomery and Prince Georges Counties, Maryland",Severe Thunderstorm,  N/A,64943,2005-07-30 00:00:00
+41,2005-07-27 00:00:00,MAAC,6:00 p.m.,"Baltimore County, Anne Arundel County and Prince Georges County, Maryland",Severe Thunderstorms,,87600,2005-07-29 00:00:00
+42,2005-07-28 00:00:00,SERC,8:30 p.m.,Piedmont North and South Carolina,Severe Thunderstorm,300,52200,2005-08-01 00:00:00
+43,2005-08-01 00:00:00,PR,10:28 a.m.,Island of Puerto Rico,Voltage Reduction/Load Shed,175,47116,2005-08-01 00:00:00
+44,2005-08-08 00:00:00,WECC,12:38 p.m.,"San Francisco Bay area, California",Plant Tripped,240,PG&E,2005-08-08 00:00:00
+45,2005-08-19 00:00:00,PR,7:37 p.m.,Island of Puerto Rico,Voltage Reduction/Load Shed,259,71864,2005-08-19 00:00:00
+46,2005-08-20 00:00:00,ECAR,2:15 p.m.,Northwest Arkansas,Severe Thunderstorms,650,50797,2005-08-20 00:00:00
+47,2005-08-25 00:00:00,WECC,3:50 p.m.,Southern California,CAISO determined there was  inadequate electric resources to serve load.  Public appeals and a shedding of interruptible and firm load occurred.,-,-,2005-08-25 00:00:00
+48,2005-08-25 00:00:00,WECC,3:51 p.m.,Southern California,CAISO initiated interruption of  interruptible and firm load due to declaration of  Transmission Emergency in Southern California,864,409000,2005-08-25 00:00:00
+49,2005-08-29 00:00:00,SPP,1:10 a.m.,East and Southeast Louisiana,Hurricane Katrina,300,143000,2005-08-29 00:00:00
+50,2005-08-29 00:00:00,SPP,6:00 a.m.,"Buras, Louisiana",Hurricane Katrina,,"1.1 million and 100,000 gas customers",2005-08-30 00:00:00
+51,2005-08-29 00:00:00,FRCC,7:10 a.m.,"Counties of Alachua, Bay, Citrus, Columbia, Dixie, Franklin, Gilchrist, Gulf, Hamilton, Hardee, Hernando, Highlands, Jefferson, Lafayette, Lake, Levy, Madison, Marion, Orange, Osceola, Pasco, Pinellas, Polk, Seminole, Sumter, Suwannee, Taylor, Volusia and Wakulla",Hurricane Katrina disrupted fuel supply in the Gulf of Mexico. Public appeals for conservation were issued.,0,0,2005-09-07 00:00:00
+52,2005-08-29 00:00:00,SERC,7:10 a.m.,"Alabama, Florida, Mississippi",Hurricane Katrina ,5120,512049,2005-08-29 00:00:00
+53,2005-08-29 00:00:00,SERC,3:50 p.m.,"Alabama, Mississippi,  Tennessee",Hurricane Katrina,118.5,323529,2005-09-10 00:00:00
+54,2005-08-29 00:00:00,FRCC,5:00 p.m.,"City of Lakeland, Florida",Hurricane Katrina  disrupted normal gas allotment through natural gas pipelines (FGT & Gulf stream). Public appeals for conservation were issued.,0,0,2005-09-08 00:00:00
+55,2005-08-31 00:00:00,FRCC,4:00 p.m.,Member Service Territory is located in the West coast of Florida from Tallahassee to Fort Myers,Hurricane Katrina disrupted normal gas supplies distribution. Public appeals for conservation were issued.,0,0,2005-09-12 00:00:00
+56,2005-09-12 00:00:00,WECC,12:32 p.m.," Los Angeles, California",Breaker protection cable accidentally cut,2578,900000,2005-09-12 00:00:00
+57,2005-09-13 00:00:00,PR,2:14 p.m.,Island of Puerto Rico,Voltage Reduction/Load Shed,249,66480,2005-09-13 00:00:00
+58,2005-09-13 00:00:00,MAIN,6:30 p.m.,Southeast Wisconsin and Fox Valley,Severe Storm,600,110000,2005-09-16 00:00:00
+59,2005-09-14 00:00:00,SERC,3:00 p.m.,Eastern North Carolina,Hurricane Ophelia,215,60000,2005-09-15 00:00:00
+60,2005-09-21 00:00:00,MRO,7:00 p.m.,Minnesota,High Winds/Tornados,,200000,2005-09-27 00:00:00
+61,2005-09-22 00:00:00,ECAR,11:00 a.m.,Southeast Michigan,Severe Thunderstorm,366,53000,2005-09-26 00:00:00
+62,2005-09-22 00:00:00,FRCC,12:00 p.m.,"Counties of Alachua, Bay, Citrus, Columbia, Dixie, Franklin, Gilchrist, Gulf, Hamilton, Hardee, Hernando, Highlands, Jefferson, Lafayette, Lake, Levy, Madison, Marion, Orange, Osceola, Pasco, Pinellas, Polk, Seminole, Sumter, Suwannee, Taylor, Volusia and Wakulla",Hurricane Rita disrupted fuel supply in the Gulf of Mexico. Public Appeals for conservation were issued.,0,0,2005-09-29 00:00:00
+63,2005-09-23 00:00:00,FRCC,7:00 a.m.," Lakeland, Florida",Hurricane Rita  disrupted normal gas allotment through natural gas pipelines (FGT & Gulf stream). Public Appeals for conservation were issued.,0,0,2005-09-28 00:00:00
+64,2005-09-23 00:00:00,SPP,1:06 p.m.,West and Southwest Louisiana,Hurricane Rita,350,125000,2005-10-06 00:00:00
+65,2005-09-23 00:00:00,ERCOT,5:00 p.m.,"Houston, Texas and the surrounding suburban areas",Hurricane Rita,1950,715000,2005-09-24 00:00:00
+66,2005-09-23 00:00:00,SPP,9:00 p.m.,"Texas, Louisiana, Arkansas, and Mississippi",Hurricane Rita,,766000,2005-09-25 00:00:00
+67,2005-09-24 00:00:00,ERCOT,6:00 a.m.,"Nacogdoches, Lufkin, Tyler, Jacksonville, Rusk, Paris, Commerce, Huntington",Hurricane Rita,260,200000,2005-09-24 00:00:00
+68,2005-09-24 00:00:00,ECAR,10:00 a.m.,"Shreveport, Louisiana",Hurricane Rita,700,190000,2005-09-28 00:00:00
+69,2005-10-02 00:00:00,PR,5:40 p.m.,Island of Puerto Rico,Voltage Reduction/Load Shed,312,71240,2005-10-02 00:00:00
+70,2005-10-18 00:00:00,PR,3:19 p.m.,Island of Puerto Rico,Voltage Reduction/Load Shed,460,142591,2005-10-18 00:00:00
+71,2005-10-22 00:00:00,PR,9:44 a.m.,Island of Puerto Rico,Voltage Reduction/Load Shed,360,85682,2005-10-22 00:00:00
+72,2005-10-23 00:00:00,FRCC,8:00 p.m..,"South Florida, Naples, Ft. Myers, Miami, Ft. Lauderdale, West Palm Beach and Martin county",Hurricane Wilma,10000,3241437,2005-10-24 00:00:00
+73,2005-10-24 00:00:00,FRCC,4:00 a.m.,"Florida counties of Collier, Charlotte and Lee",Hurricane Wilma,280,105000,2005-10-24 00:00:00
+74,2005-10-24 00:00:00,FRCC,7:00 a.m.,"South Florida - Cities of Key West, Clewiston, Lake Worth, and Ft. Pierce",Hurricane Wilma ,148,84900,2005-11-10 00:00:00
+75,2005-10-24 00:00:00,MAAC,8:00 p.m.,"Maryland, North Central West Virginia, Southwestern Pennsylvania, and Northern Pennsylvania",Hurricane Wilma,400,303795,2005-11-02 00:00:00
+76,2005-11-03 00:00:00,WECC,6:47 p.m.,"San Francisco Bay area, California",Plant Tripped,136,--,2005-11-03 00:00:00
+77,2005-11-06 00:00:00,ECAR,7:30 a.m.,Southeast Michigan,Severe Thunderstorm,212,118000,2005-11-11 00:00:00
+78,2005-11-12 00:00:00,WeEnergiesMAIN,4:00 p.m.,Southeast Wisconsin ,Severe Thunderstorms,10,48000,2005-11-14 00:00:00
+79,2005-11-12 00:00:00,ECAR,11:00 p.m.,Western and Central portions of Michigan's Lower Peninsula,Severe Thunderstorm,408,272355,2005-11-14 00:00:00
+80,2005-12-15 00:00:00,SERC,4:00 a.m.,Piedmont North Carolina and South Carolina,Ice Storm,3500,683000,2005-12-21 00:00:00
+81,2005-12-15 00:00:00,SERC,5:05 a.m.,Northeast Georgia,Ice Storm,75,52659,2005-12-16 00:00:00
+82,2005-12-31 00:00:00,WECC,6:00 a.m.,Northern and Central California,Severe Storms,800,1667316,2006-01-05 00:00:00

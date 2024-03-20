@@ -1,0 +1,308 @@
+,Date,Event,Restoration Date,Restoration Time,Area,NERC,Disturbance,Loss,Affected Customers
+0,2011-01-11 00:00:00,23:08:00,2011-01-11 00:00:00,23:08:00,"Athens, New York",NPCC,Electrical Fault at Generator,0,0
+1,2011-01-12 00:00:00,06:00:00,2011-01-12 00:00:00,14:00:00,Massachusetts,NPCC,Winter Storm,,80000
+2,2011-01-13 00:00:00,07:21:00,2011-01-13 00:00:00,08:13:00,North Florida,FRCC,Firm System Load Shed,150,20900
+3,2011-01-18 00:00:00,14:00:00,2011-01-18 00:00:00,14:00:00,"Whitman, Auburn St Substation, Massachusetts",NPCC,Vandalism,0,0
+4,2011-01-23 00:00:00,07:00:00,2011-01-23 00:00:00,13:00:00,"Franklin County, Idaho",WECC,Vandalism,0,0
+5,2011-01-24 00:00:00,13:20:00,2011-01-24 00:00:00,13:30:00,"Newman Power Plant, Texas",WECC,Suspicious Activity,0,0
+6,2011-01-25 00:00:00,03:23:00,2011-01-25 00:00:00,11:00:00,"Newark, Delaware",RFC,Vandalism,0,0
+7,2011-01-26 00:00:00,09:25:00,2011-01-27 00:00:00,17:00:00,"Carson City, Nevada",WECC,Suspected Telecommunications Attack,0,0
+8,2011-01-26 00:00:00,09:33:00,2011-01-27 00:00:00,15:03:00,Michigan,RFC,Vandalism,0,0
+9,2011-01-26 00:00:00,17:00:00,2011-01-31 00:00:00,08:00:00,"Montgomery and Prince George's County, Maryland and District of Columbia",RFC,Winter Storm,,210000
+10,2011-01-26 00:00:00,18:28:00,2011-01-29 00:00:00,17:00:00,Maryland,RFC,Winter Storm,,234326
+11,2011-01-26 00:00:00,19:43:00,2011-01-27 00:00:00,18:18:00,Northern Virginia,SERC,Winter Storm,600,150084
+12,2011-01-27 00:00:00,09:30:00,2011-01-27 00:00:00,09:30:00,"Hockessin, Delaware",RFC,Vandalism,0,0
+13,2011-01-27 00:00:00,17:00:00,2011-01-30 00:00:00,05:00:00,Central New York,NPCC,Fuel Supply Deficiency (Coal),108,
+14,2011-01-31 00:00:00,22:00:00,2011-02-03 00:00:00,12:00:00,Southwestern Ohio and Indiana,RFC,Ice Storm,996,272880
+15,2011-02-01 00:00:00,15:00:00,2011-02-03 00:00:00,12:00:00,"Indiana, Ohio",RFC,Winter Storm,UNK,158013
+16,2011-02-01 00:00:00,21:00:00,2011-02-02 00:00:00,14:00:00,Northern Illinois,RFC,Winter Storm,UNK,190000
+17,2011-02-02 00:00:00,03:00:00,2011-02-04 00:00:00,23:59:00,"Philadelphia area, Pennsylvania",RFC,Winter Storm,UNK,213000
+18,2011-02-02 00:00:00,05:43:00,2011-02-03 00:00:00,10:00:00,Texas,TRE,Generation Inadequacy/Load Shed,4000,1069730
+19,2011-02-02 00:00:00,06:22:00,2011-02-02 00:00:00,09:57:00,Central Arizona,WECC,Generation Inadequacy/Load Shed,3963,69000
+20,2011-02-02 00:00:00,07:24:00,2011-02-02 00:00:00,22:23:00,"Dona Ana and El Paso Counties, Texas and Hudspeth County, New Mexico",WECC,Generation Inadequacy/Load Shed,280,178000
+21,2011-02-02 00:00:00,17:00:00,2011-02-03 00:00:00,22:00:00,"Texas Panhandle, Southeastern New Mexico",SPP,Fuel Supply Deficiency (Natural Gas),UNK,UNK
+22,2011-02-03 00:00:00,15:00:00,2011-02-04 00:00:00,12:00:00,"San Diego area, California",WECC,Fuel Supply Deficiency (Natural Gas),,UNK
+23,2011-02-03 00:00:00,14:30:00,2011-02-03 00:00:00,14:30:00,"Bowie, Maryland",RFC,Suspected Cyber Attack,,0
+24,2011-02-03 00:00:00,22:04:00,2011-02-04 00:00:00,12:32:00,Texas,TRE,Generation Inadequacy/Load Shed,400,86013
+25,2011-02-09 00:00:00,03:45:00,2011-02-09 00:00:00,09:12:00,"Western Houston, Texas",TRE,Winter Storm,399,60000
+26,2011-02-09 00:00:00,14:54:00,2011-02-09 00:00:00,17:00:00,"University Place, Washington",WECC,Vandalism,0,0
+27,2011-02-09 00:00:00,16:30:00,2011-02-10 00:00:00,12:33:00,Texas,TRE,Cold Weather Event,,
+28,2011-02-10 00:00:00,13:00:00,2011-02-10 00:00:00,13:00:00,"LaGrande, Washington",WECC,Vandalism,0,0
+29,2011-02-17 00:00:00,01:25:00,2011-02-19 00:00:00,10:13:00,Northern and Central California,WECC,Major Storm,91,80000
+30,2011-02-17 00:00:00,13:00:00,2011-02-23 00:00:00,16:53:00,"Roseville, California",WECC,Suspected Cyber Attack,0,0
+31,2011-02-19 00:00:00,12:30:00,2011-02-20 00:00:00,04:00:00,"Philadelphia area, Pennsylvania",RFC,Major Storm,UNK,118000
+32,2011-02-19 00:00:00,16:34:00,2011-02-19 00:00:00,16:34:00,"Harrington, Delaware",RFC,Vandalism,0,0
+33,2011-02-20 00:00:00,16:00:00,2011-02-23 00:00:00,16:00:00,"Southern Lower Peninsula, Michigan",RFC,Winter Storm,262,160000
+34,2011-02-24 00:00:00,16:51:00,2011-02-24 00:00:00,16:54:00,Arkansas,SPP,Electrical System Separation (Islanding),4,UNK
+35,2011-02-25 00:00:00,15:20:00,2011-02-25 00:00:00,18:00:00,Virginia,SERC,Severe Weather,UNK,50000
+36,2011-02-25 00:00:00,15:23:00,2011-02-27 00:00:00,18:00:00,Maryland,RFC,Severe Weather,UNK,93000
+37,2011-02-25 00:00:00,08:00:00,2011-02-28 00:00:00,17:30:00,Northern and Central California,WECC,Winter Storm,91,80000
+38,2011-02-25 00:00:00,10:30:00,2011-02-25 00:00:00,10:45:00,"Salt Lake City, Utah",WECC,Vandalism,0,0
+39,2011-03-01 00:00:00,08:00:00,2011-03-05 00:00:00,09:30:00,Western New York,NPCC,Fuel Supply Deficiency (Coal),675,UNK
+40,2011-03-06 00:00:00,02:54:00,2011-03-08 00:00:00,08:00:00,"Salt Lake City Region, Utah",WECC,Vandalism,UNK,0
+41,2011-03-08 00:00:00,08:00:00,2001-03-18 00:00:00,09:00:00,Western New York,NPCC,Fuel Supply Deficiency (Coal),676,UNK
+42,2011-03-10 00:00:00,12:03:00,2011-03-11 00:00:00,06:00:00,Texas,TRE,Suspected Physical Attack,,
+43,2011-03-11 00:00:00,07:02:00,2011-03-11 00:00:00,09:15:00,"Humboldt and Eureka, California",WECC,Generation Inadequacy/Load Shed,15,6800
+44,2011-03-13 00:00:00,14:20:00,2011-03-14 00:00:00,15:46:00,Oregon,WECC,Severe Weather,UNK,9000
+45,2011-03-14 00:00:00,07:30:00,2011-03-14 00:00:00,16:55:00,"Baltimore, Maryland",RFC,Suspected Cyber Attack,,
+46,2011-03-15 00:00:00,18:00:00,2011-03-15 00:00:00,19:14:00,"The Woodlands, Texas",TRE,Suspected Physical Attack,,
+47,2011-03-17 00:00:00,07:40:00,2011-03-17 00:00:00,11:00:00,"Deerfield, New Hampshire",NPCC,Vandalism,,
+48,2011-03-18 00:00:00,09:54:00,2011-03-18 00:00:00,15:34:00,"Greene County, Ohio",RFC,Vandalism,,
+49,2011-03-19 00:00:00,23:56:00,2011-03-24 00:00:00,19:10:00,Northern and Central California,WECC,Major Storm,91,128000
+50,2011-03-20 00:00:00,09:44:00,2011-03-21 00:00:00,10:00:00,"Los Angeles, California",WECC,Major Storm,UNK,79000
+51,2011-03-21 00:00:00,12:35:00,2011-03-21 00:00:00,14:45:00,Southern California,WECC,Major Storm,150,54332
+52,2011-03-21 00:00:00,00:57:00,2011-03-21 00:00:00,02:29:00,"Deerfield, New Hampshire",NPCC,Vandalism,,
+53,2011-03-23 00:00:00,18:30:00,2011-03-24 00:00:00,04:55:00,"Indiana. Kentucky, Michigan, Ohio, Tennessee, Virginia, West Virginia",RFC,Major Storm,UNK,60596
+54,2011-03-27 00:00:00,13:27:00,2011-03-27 00:00:00,17:00:00,"Sonoma and Central Valley, California",WECC,Transmission Level Outage,295,165000
+55,2011-03-31 00:00:00,14:30:00,2011-04-01 00:00:00,23:59:00,Central and Western Florida,FRCC,Severe Weather,UNK,50000
+56,2011-03-31 00:00:00,11:30:00,2011-03-31 00:00:00,20:30:00,"Greater Tampa Bay, Florida",FRCC,Severe Weather,206,87000
+57,2011-04-03 00:00:00,20:23:00,2011-04-05 00:00:00,15:00:00,Unknown,SERC,Suspected Cyber Attack,0,0
+58,2011-04-04 00:00:00,11:47:00,2011-04-08 00:00:00,00:01:00,"Memphis, Tennessee",SERC,Severe Weather,359,63000
+59,2011-04-04 00:00:00,13:00:00,2011-04-05 00:00:00,00:00:00,"Shelby County, Tennessee",SERC,Severe Weather,300,63000
+60,2011-04-04 00:00:00,14:00:00,2011-04-08 00:00:00,00:01:00,"Davidson County, Tennessee",SERC,Severe Weather,300,73000
+61,2011-04-04 00:00:00,19:00:00,2011-04-05 00:00:00,20:00:00,"Southeast Arkansas, Southeast Louisiana, Western Mississippi, Eastern Texas",SERC,Severe Weather,UNK,74645
+62,2011-04-04 00:00:00,19:00:00,2011-04-05 00:00:00,12:00:00,"Kentucky, West Virginia",RFC,Severe Weather,UNK,52920
+63,2011-04-04 00:00:00,21:00:00,2011-04-05 00:00:00,23:30:00,"Alabama, Florida, Georgia, Mississippi",SERC,Severe Weather,674,303434
+64,2011-04-05 00:00:00,02:00:00,2011-04-07 00:00:00,23:00:00,"North Carolina, South Carolina",SERC,Severe Weather,1200,256000
+65,2011-04-06 00:00:00,10:50:00,2011-04-06 00:00:00,10:50:00,"Felton, Delaware",RFC,Vandalism,0,0
+66,2011-04-11 00:00:00,17:40:00,2011-04-11 00:00:00,17:51:00,"Salt Lake City, Utah",WECC,Suspicious Activity,0,0
+67,2011-04-16 00:00:00,14:16:00,2011-04-17 00:00:00,16:30:00,Central and Eastern North Carolina,SERC,Severe Weather,UNK,220000
+68,2011-04-19 00:00:00,20:00:00,2011-04-19 00:00:00,22:00:00,Illinois,SERC,Severe Weather,UNK,80000
+69,2011-04-19 00:00:00,14:01:00,2011-04-19 00:00:00,16:04:00,"Graham, Washington",WECC,Vandalism,0,0
+70,2011-04-19 00:00:00,22:44:00,2011-04-20 00:00:00,02:00:00,"Memphis, Tennessee",SERC,Severe Weather,100,64000
+71,2011-04-19 00:00:00,23:02:00,2011-04-21 00:00:00,17:32:00,"Memphis, Tennessee",SERC,Severe Weather,300,105000
+72,2011-04-19 00:00:00,23:13:00,2011-04-20 00:00:00,19:14:00,"Osceola, Arkansas",SERC,Severe Weather,22,UNK
+73,2011-04-20 00:00:00,02:00:00,2011-04-21 00:00:00,12:00:00,"Indiana, Kentucky, Ohio",RFC,Severe Weather - High Winds,UNK,165711
+74,2011-04-20 00:00:00,08:07:00,2011-04-20 00:00:00,08:14:00,"Ruston, Louisiana",SERC,Equipment Malfunction,33,11000
+75,2011-04-21 00:00:00,07:15:00,2011-04-21 00:00:00,16:50:00,"Oquirrh Substation, Salt Lake City, Utah",WECC,Vandalism,0,0
+76,2011-04-21 00:00:00,19:00:00,2011-04-29 00:00:00,19:05:00,"Trenton, Michigan",RFC,Suspicious Activity,UNK,UNK
+77,2011-04-22 00:00:00,21:00:00,2011-04-22 00:00:00,23:00:00,"Metro St. Louis area, Missouri",SERC,Severe Weather,0,55000
+78,2011-04-25 00:00:00,16:33:00,2011-04-25 00:00:00,17:19:00,Northeast Tennessee,SERC,Equipment Malfunction,140,UNK
+79,2011-04-25 00:00:00,17:30:00,2011-04-27 00:00:00,18:00:00,"Arkansas, Louisiana, Mississippi",SPP,Severe Weather,UNK,141700
+80,2011-04-26 00:00:00,05:49:00,2011-04-27 00:00:00,09:59:00,Southern Louisiana,SPP,Severe Weather,120,UNK
+81,2011-04-26 00:00:00,09:51:00,2011-04-28 00:00:00,09:51:00,"Alabama, Georgia, Mississippi, Tennessee",SERC,Severe Weather,UNK,55000
+82,2011-04-26 00:00:00,13:04:00,2011-04-26 00:00:00,14:00:00,"Salt Lake City, Utah",WECC,Vandalism,0,0
+83,2011-04-26 00:00:00,18:14:00,2011-04-28 00:00:00,17:00:00,Eastern Arkansas,SPP,Severe Weather,50,13000
+84,2011-04-27 00:00:00,08:00:00,2011-05-02 00:00:00,16:03:00,"Alabama, Florida, Georgia, Mississippi",SERC,Severe Weather,1422,426640
+85,2011-04-27 00:00:00,10:00:00,2011-04-29 00:00:00,16:29:00,"Alabama, Georgia, Mississippi, Tennessee",SERC,Severe Weather,UNK,612000
+86,2011-04-27 00:00:00,22:00:00,2011-04-28 00:00:00,10:00:00,"Ohio, Tennessee, Virginia",SERC,Severe Weather,0,69000
+87,2011-04-28 00:00:00,05:00:00,2011-04-30 00:00:00,18:30:00,"Cleveland area, Ohio",RFC,Severe Weather,UNK,86000
+88,2011-04-28 00:00:00,16:09:00,2011-04-28 00:00:00,16:10:00,"Phoenix, Arizona",WECC,Equipment Malfunction,960,UNK
+89,2011-05-02 00:00:00,17:06:00,2011-05-02 00:00:00,20:00:00,Hawaii,,Severe Weather,220,62000
+90,2011-05-02 00:00:00,14:00:00,2011-05-02 00:00:00,14:00:00,"West River Substation, New Haven, Connecticut",NPCC,Suspected Physical Attack,0,0
+91,2011-05-02 00:00:00,08:52:00,2011-05-02 00:00:00,10:46:00,"N. Ogden Substation, Ogden, Utah",WECC,Vandalism,0,0
+92,2011-05-03 00:00:00,12:00:00,2011-05-05 00:00:00,12:00:00,"St. Lawrence Power Dam, New York",NPCC,Suspected Physical Attack,0,0
+93,2011-05-04 00:00:00,13:08:00,2011-05-04 00:00:00,13:25:00,Maryland,RFC,Suspected Physical Attack,0,0
+94,2011-05-04 00:00:00,12:20:00,2011-05-04 00:00:00,15:40:00,Michigan,RFC,Suspected Sabotage,0,0
+95,2011-05-05 00:00:00,09:15:00,2011-05-05 00:00:00,09:15:00,New Hampshire,NPCC,Vandalism,0,0
+96,2011-05-06 00:00:00,06:56:00,2011-05-06 00:00:00,10:30:00,"Alderwood Substation, Portland, Oregon",WECC,Vandalism,0,0
+97,2011-05-08 00:00:00,19:35:00,2011-05-08 00:00:00,19:35:00,New York,NPCC,Vandalism,UNK,0
+98,2011-05-09 00:00:00,13:11:00,2011-05-09 00:00:00,13:11:00,"Milton, New Hampshire",NPCC,Vandalism,0,0
+99,2011-05-09 00:00:00,04:08:00,2011-05-09 00:00:00,06:40:00,"Holtwood, Pennsylvania",RFC,Suspected Physical Attack,630,UNK
+100,2011-05-10 00:00:00,22:21:00,2011-05-11 00:00:00,14:25:00,"Kentucky, West Virginia",RFC,Severe Weather,UNK,58000
+101,2011-05-10 00:00:00,13:45:00,2011-05-10 00:00:00,15:00:00,New Hampshire,NPCC,Vandalism,0,0
+102,2011-05-10 00:00:00,03:25:00,2011-05-11 00:00:00,14:10:00,"Upper Peninsula, Michigan",RFC,Generation Inadequacy; Load Shed; Electrical System Separation (Islanding),585,78213
+103,2011-05-11 00:00:00,15:55:00,2011-05-12 00:00:00,13:57:00,"Colbyville, Haines Road and Arrowhead Substations, Minnesota",MRO,Vandalism,0,0
+104,2011-05-11 00:00:00,13:35:00,2011-05-11 00:00:00,13:35:00,"Green River, Wyoming",WECC,Vandalism,0,0
+105,2011-05-11 00:00:00,11:00:00,2011-05-11 00:00:00,11:30:00,"North Chelsea Substation, New York",NPCC,Vandalism,0,0
+106,2011-05-11 00:00:00,00:15:00,2011-05-11 00:00:00,17:20:00,"Charlotte, North Carolina",SERC,Severe Weather,300,71000
+107,2011-05-13 00:00:00,06:00:00,2011-05-13 00:00:00,06:00:00,"Salt Lake, Utah",WECC,Vandalism,0,0
+108,2011-05-21 00:00:00,17:00:00,2011-05-22 00:00:00,18:34:00,"Dixie Valley Area, Nevada",WECC,Physical Attack,56,UNK
+109,2011-05-22 00:00:00,17:09:00,2011-05-31 00:00:00,12:01:00,"Joplin, Sarcoxie, and Wentworth, Missouri",SPP,Severe Weather,200,20000
+110,2011-05-23 00:00:00,16:45:00,2011-05-25 00:00:00,23:59:00,"Central, Indiana",RFC,Severe Weather,1024,215387
+111,2011-05-23 00:00:00,12:30:00,2011-05-25 00:00:00,12:30:00,"St. Louis County, Missouri",SERC,Severe Weather,UNK,70000
+112,2011-05-24 00:00:00,16:45:00,2011-05-26 00:00:00,17:00:00,Central Oklahoma,SPP,Severe Weather,UNK,54000
+113,2011-05-24 00:00:00,16:35:00,2011-05-25 00:00:00,12:40:00,Eastern Virginia,SERC,Severe Weather,790,175000
+114,2011-05-24 00:00:00,09:00:00,2011-05-25 00:00:00,09:10:00,"Chicago, Illinois",RFC,Physical Attack,0,0
+115,2011-05-25 00:00:00,22:14:00,2011-05-28 00:00:00,11:00:00,Central Indiana,RFC,Severe Weather,200,141000
+116,2011-05-26 00:00:00,19:56:00,2011-05-27 00:00:00,18:00:00,Central Pennsylvania,RFC,Severe Weather,150,120001
+117,2011-05-26 00:00:00,18:30:00,2011-05-28 00:00:00,04:44:00,"Southern Balancing Area, Georgia",SERC,Severe Weather,729,218783
+118,2011-05-26 00:00:00,01:00:00,2011-05-26 00:00:00,06:00:00,"Greenwood, Mississippi",SERC,Transmission Level Interruption,30,10000
+119,2011-05-29 00:00:00,18:30:00,2011-05-31 00:00:00,22:00:00,"Mid and Southern Lower Peninsula, Michigan",RFC,Severe Weather,250,113000
+120,2011-06-02 00:00:00,23:45:00,2011-06-04 00:00:00,16:00:00,"Greater Columbia, South Carolina",SERC,Severe Weather,0,50465
+121,2011-06-04 00:00:00,01:17:00,2011-06-04 00:00:00,03:25:00,"Midway, California",WECC,Vandalism,UNK,420
+122,2011-06-05 00:00:00,05:30:00,2011-06-06 00:00:00,01:30:00,"Houston Metro-Area, Texas",TRE,Severe Thunderstorms,473,78000
+123,2011-06-05 00:00:00,20:02:00,2011-06-05 00:00:00,20:55:00,"Melones, California",WECC,Electrical System Separation (Islanding),10,5314
+124,2011-06-06 00:00:00,00:13:00,2011-06-06 00:00:00,03:15:00,"El Paso County, Texas; Dona Ana County, New Mexico",SPP,Load Shed/ Automatic undervoltage relay action,450,162000
+125,2011-06-06 00:00:00,15:00:00,2011-06-08 00:00:00,15:00:00,"Eastern, Arkansas",SPP,Public Appeal to Reduce Electricity Usage,UNK,13000
+126,2011-06-07 00:00:00,14:00:00,2011-06-08 00:00:00,06:00:00,Ohio,RFC,Severe Weather,UNK,52747
+127,2011-06-08 00:00:00,12:58:00,2011-06-08 00:00:00,12:58:00,"Fredrickson Substation, Washington",WECC,Vandalism,,
+128,2011-06-09 00:00:00,04:30:00,2011-06-09 00:00:00,12:00:00,Illinois,RFC,Severe Thunderstorms,UNK,169000
+129,2011-06-09 00:00:00,14:15:00,2011-06-09 00:00:00,14:15:00,"San Antonio Dam Area, Los Angeles County, California",WECC,Suspected Physical Attack,0,0
+130,2011-06-09 00:00:00,17:51:00,2011-06-10 00:00:00,12:00:00,"Western, Massachusetts; Connecticut",NPCC,Severe Thunderstorms,0,100000
+131,2011-06-12 00:00:00,19:00:00,2011-06-12 00:00:00,20:30:00,Virginia,RFC,Severe Thunderstorms,250,56000
+132,2011-06-15 00:00:00,16:00:00,2011-06-16 00:00:00,06:30:00,"Bingham County, Idaho",WECC,Vandalism,,
+133,2011-06-15 00:00:00,19:15:00,2011-06-16 00:00:00,06:00:00,Georgia,SERC,Severe Thunderstorms,563,169000
+134,2011-06-15 00:00:00,19:17:00,2011-06-16 00:00:00,01:45:00,"Piedmont, North Carolina",SERC,Severe Thunderstorms,300,70135
+135,2011-06-18 00:00:00,15:30:00,2011-06-19 00:00:00,15:42:00,"Northern, Georgia",SERC,Severe Thunderstorms,312,93828
+136,2011-06-18 00:00:00,16:45:00,2011-06-20 00:00:00,23:59:00,"Eastern, Arkansas",SPP,Public Appeal to Reduce Electricity Usage,UNK,UNK
+137,2011-06-18 00:00:00,17:00:00,2011-06-18 00:00:00,21:33:00,North Carolina; South Carolina,SERC,Severe Thunderstorms,300,70000
+138,2011-06-20 00:00:00,10:36:00,2011-06-20 00:00:00,10:36:00,"Collins Substation, Washington",WECC,Vandalism,0,0
+139,2011-06-21 00:00:00,18:30:00,2011-06-22 00:00:00,07:00:00,AEP Region,RFC,Severe Weather,UNK,56000
+140,2011-06-21 00:00:00,21:45:00,2011-06-23 00:00:00,02:00:00,Illinois,RFC,Severe Thunderstorms,UNK,300000
+141,2011-06-22 00:00:00,09:46:00,2011-06-22 00:00:00,09:46:00,"Knoxville, Tennessee",SERC,Severe Weather,UNK,106300
+142,2011-06-22 00:00:00,19:00:00,2011-06-23 00:00:00,01:00:00,Alabama; Georgia,SERC,Severe Thunderstorms,316,75101
+143,2011-06-22 00:00:00,20:12:00,2011-06-22 00:00:00,20:12:00,"Knoble Substation, Spanaway, Washington",WECC,Vandalism,0,0
+144,2011-06-23 00:00:00,08:10:00,2011-06-23 00:00:00,09:00:00,"Highgate, Vermont",NPCC,Vandalism,0,0
+145,2011-06-24 00:00:00,18:30:00,2011-06-25 00:00:00,01:30:00,North/North Central Alabama; Georgia,SERC,Severe Thunderstorms,340,102275
+146,2011-06-26 00:00:00,16:46:00,2011-06-27 00:00:00,07:59:00,Southwest Kansas,SPP,Public Appeal to Reduce Electricity Usage,UNK,UNK
+147,2011-06-26 00:00:00,18:00:00,2011-06-27 00:00:00,13:00:00,Alabama; Georgia,SERC,Severe Thunderstorms,300,90160
+148,2011-06-27 00:00:00,00:00:00,2011-06-29 00:00:00,01:00:00,Illinois; Missouri,SERC,Severe Thunderstorms,UNK,80000
+149,2011-06-27 00:00:00,15:00:00,2011-06-27 00:00:00,19:00:00,Texas,TRE,Public Appeal to Reduce Electricity Usage,0,0
+150,2011-06-27 00:00:00,18:55:00,2011-06-27 00:00:00,18:55:00,"Olympic Pipeline Substation, Washington",WECC,Vandalism,UNK,UNK
+151,2011-06-29 00:00:00,11:30:00,2011-06-29 00:00:00,18:04:00,"Panhandle and Muleshoe, Texas",SPP,Public Appeal to Reduce Electricity Usage,0,0
+152,2011-06-30 00:00:00,14:11:00,2011-06-30 00:00:00,23:25:00,"Phoenix, Arizona",WECC,Major System Interruption/Load Shed,5299,160000
+153,2011-06-30 00:00:00,22:30:00,2011-07-01 00:00:00,17:00:00,Illinois,RFC,Severe Weather,UNK,121000
+154,2011-06-30 00:00:00,22:31:00,2011-06-30 00:00:00,22:31:00,"Olympic Pipeline Substation, Washington",WECC,Vandalism,0,0
+155,2011-07-01 00:00:00,08:00:00,2011-07-01 00:00:00,08:01:00,"CONVEX Local Control Center, Connecticut",NPCC,Vandalism,0,0
+156,2011-07-01 00:00:00,16:38:00,2011-07-01 00:00:00,22:38:00,Greene County Ohio,RFC,Vandalism,,0
+157,2011-07-01 00:00:00,17:00:00,2011-07-03 00:00:00,20:00:00,Southwest and South Central Minnesota,MRO,Severe Weather,UNK,70000
+158,2011-07-02 00:00:00,20:15:00,2011-07-06 00:00:00,22:00:00,"South East, Lower Peninsula, Michigan",RFC,Severe Weather,UNK,182000
+159,2011-07-04 00:00:00,18:00:00,2011-07-04 00:00:00,21:00:00,Virginia,SERC,Severe Weather,150,51580
+160,2011-07-05 00:00:00,10:40:00,2011-07-05 00:00:00,11:37:00,West Valley Substation Utah,WECC,Vandalism,0,0
+161,2011-07-06 00:00:00,09:51:00,2011-07-06 00:00:00,09:52:00,Vermont,NPCC,Vandalism,,
+162,2011-07-08 00:00:00,10:00:00,2011-07-08 00:00:00,10:00:00,"Saginaw, Minnesota",MRO,Vandalism,0,0
+163,2011-07-08 00:00:00,10:00:00,2011-07-11 00:00:00,09:00:00,"PJM Corporate Office, Pennsylvania",RFC,Suspected Cyber Attack,UNK,UNK
+164,2011-07-11 00:00:00,09:00:00,2011-07-11 00:00:00,09:00:00,Illinois,RFC,Severe Weather,UNK,500000
+165,2011-07-11 00:00:00,09:00:00,2011-07-11 00:00:00,10:25:00,Michigan,RFC,Severe Weather,254,103000
+166,2011-07-11 00:00:00,11:15:00,2011-07-12 00:00:00,08:15:00,Western and Southern Lower Peninsula Michigan,RFC,Severe Weather,UNK,85000
+167,2011-07-11 00:00:00,13:13:00,2011-07-11 00:00:00,13:13:00,Southwest Ohio,RFC,Vandalism,0,0
+168,2011-07-11 00:00:00,13:30:00,2011-07-11 00:00:00,13:30:00,Maine,NPCC,Vandalism,,0
+169,2011-07-11 00:00:00,14:27:00,2011-07-12 00:00:00,15:50:00,"Indiana, Michigan, Ohio",RFC,Severe Weather,UNK,120000
+170,2011-07-12 00:00:00,12:00:00,2011-07-12 00:00:00,12:00:00,Maine,NPCC,Vandalism,,0
+171,2011-07-12 00:00:00,20:20:00,2011-07-12 00:00:00,21:30:00,California,WECC,Suspected Physical Attack,UNK,UNK
+172,2011-07-13 00:00:00,17:19:00,2011-07-13 00:00:00,22:03:00,"Pueblo, Colorado",WECC,Load Shed,580,
+173,2011-07-14 00:00:00,11:00:00,2011-07-14 00:00:00,19:00:00,Texas,TRE,Public Appeal to Reduce Electricity Usage,0,0
+174,2011-07-18 00:00:00,17:00:00,2011-07-24 00:00:00,13:30:00,Southeast Michigan,RFC,Severe Weather,,197166
+175,2011-07-19 00:00:00,11:45:00,2011-07-19 00:00:00,15:00:00,Maine,NPCC,Vandalism,,
+176,2011-07-20 00:00:00,09:10:00,2011-07-20 00:00:00,16:30:00,"Frederickson Substation, Washington",WECC,Vandalism,,
+177,2011-07-21 00:00:00,12:32:00,2011-07-22 00:00:00,06:30:00,"Lower Peninsula, Michigan",RFC,Public Appeal to Reduce Electricity Usage,8881,
+178,2011-07-21 00:00:00,13:00:00,2011-07-21 00:00:00,15:00:00,"Springfield, Illinois",SERC,Public Appeal to Reduce Electricity Usage,,
+179,2011-07-22 00:00:00,11:00:00,2011-07-22 00:00:00,18:00:00,"Upstate, New York",NPCC,Public Appeal to Reduce Electricity Usage,,
+180,2011-07-22 00:00:00,11:34:00,2011-07-22 00:00:00,17:26:00,Ohio,RFC,Load Shed,206,23000
+181,2011-07-23 00:00:00,02:30:00,2011-07-24 00:00:00,09:00:00,Illinois,RFC,Severe Weather,UNK,169000
+182,2011-07-24 00:00:00,14:34:00,2011-07-24 00:00:00,15:47:00,"Southern, New Hampshire",NPCC,Vandalism,0,0
+183,2011-07-26 00:00:00,12:01:00,2011-07-26 00:00:00,12:01:00,"Backup Control Center, Oklahoma",SPP,Vandalism,0,0
+184,2011-07-27 00:00:00,12:07:00,2011-07-27 00:00:00,12:08:00,"Fife, Washington",WECC,Vandalism,,
+185,2011-07-28 00:00:00,07:26:00,2011-07-29 00:00:00,07:26:00,"Daviess County, Kentucky",SERC,Fuel Supply Deficiency (Coal),,
+186,2011-07-28 00:00:00,00:14:00,2011-07-29 00:00:00,12:00:00,"Entire ComEd Territory, Indiana",RFC,Severe Weather,UNK,201000
+187,2011-07-28 00:00:00,13:32:00,2011-07-28 00:00:00,13:32:00,Indiana  ,RFC,Vandalism,,
+188,2011-07-28 00:00:00,19:25:00,2011-07-28 00:00:00,19:25:00,"Spanaway, Washington",WECC,Vandalism,,
+189,2011-07-29 00:00:00,11:46:00,2011-07-29 00:00:00,17:00:00,"Fredrickson, Washington",WECC,Vandalism,,
+190,2011-07-29 00:00:00,20:45:00,2011-08-01 00:00:00,04:24:00,Central New Jersey,RFC,Severe Weather,,67900
+191,2011-08-01 00:00:00,15:00:00,2011-08-05 00:00:00,19:00:00,Texas,TRE,Public Appeal to Reduce Electricity Usage,0,0
+192,2011-08-01 00:00:00,14:18:00,2011-08-01 00:00:00,14:18:00,"Jefferson, Oregon",WECC,Vandalism,,
+193,2011-08-02 00:00:00,21:30:00,2011-08-03 00:00:00,19:00:00,"Northeast, Illinois",RFC,Severe Weather,UNK,71500
+194,2011-08-02 00:00:00,10:15:00,2011-08-03 00:00:00,09:16:00,Oklahoma,SPP,Public Appeal to Reduce Electricity Usage,,
+195,2011-08-03 00:00:00,10:00:00,2011-08-19 00:00:00,10:00:00,Western New York,NPCC,Fuel Supply Deficiency (Coal),675,UNK
+196,2011-08-03 00:00:00,16:30:00,2011-08-03 00:00:00,21:00:00,Central Arkansas,SPP,Public Appeal to Reduce Electricity Usage,0,0
+197,2011-08-03 00:00:00,16:29:00,2011-08-03 00:00:00,23:40:00,Northeast Oklahoma,SPP,Public Appeal to Reduce Electricity Usage,300,
+198,2011-08-04 00:00:00,10:30:00,2011-08-04 00:00:00,16:00:00,"Arkansas, Oklahoma, Texas",SPP,Public Appeal to Reduce Electricity Usage,,
+199,2011-08-08 00:00:00,09:30:00,2011-08-08 00:00:00,09:30:00,"Greene County, Ohio",RFC,Suspected Physical Attack,0,0
+200,2011-08-08 00:00:00,20:58:00,2011-08-10 00:00:00,16:30:00,Northern and Central Oklahoma,SPP,Severe Weather,,54000
+201,2011-08-08 00:00:00,19:36:00,2011-08-09 00:00:00,12:00:00,Oklahoma,SPP,Electrical System Separation (Islanding),92,14500
+202,2011-08-08 00:00:00,09:35:00,2011-08-08 00:00:00,16:00:00,"Collins Substation, Washington",WECC,Vandalism,,
+203,2011-08-09 00:00:00,10:26:00,2011-08-09 00:00:00,17:00:00,"Polk Substation, Tacoma, Washington",WECC,Vandalism,,
+204,2011-08-13 00:00:00,16:41:00,2011-08-14 00:00:00,19:00:00,Kentucky,SERC,Severe Weather,UNK,181700
+205,2011-08-15 00:00:00,02:05:00,2011-08-15 00:00:00,03:40:00,Utah,WECC,Vandalism,0,0
+206,2011-08-18 00:00:00,09:51:00,2011-08-18 00:00:00,16:00:00,"Collins Substation, Washington",WECC,Suspected Physical Attack,,
+207,2011-08-20 00:00:00,17:42:00,2011-08-23 00:00:00,20:00:00,Southeastern Michigan,RFC,Severe Weather,254,65000
+208,2011-08-21 00:00:00,22:45:00,2011-08-23 00:00:00,22:45:00,Puerto Rico,,Severe Weather,2200,931000
+209,2011-08-22 00:00:00,10:05:00,2011-08-22 00:00:00,16:00:00,"Collins Substation, Washington",WECC,Suspected Physical Attack,,
+210,2011-08-23 00:00:00,13:51:00,2011-08-23 00:00:00,13:51:00,Virginia,RFC,Earthquake,0,0
+211,2011-08-23 00:00:00,10:30:00,2011-08-23 00:00:00,16:54:00,"Southeastern New Mexico,  Texas Panhandle",SPP,Public Appeal to Reduce Electricity Usage,0,0
+212,2011-08-23 00:00:00,15:43:00,2011-08-23 00:00:00,19:00:00,Texas,TRE,Public Appeal to Reduce Electricity Usage,0,0
+213,2011-08-24 00:00:00,13:20:00,2011-08-29 00:00:00,19:00:00,Texas,TRE,Public Appeal to Reduce Electricity Usage,0,0
+214,2011-08-24 00:00:00,07:45:00,2011-08-25 00:00:00,06:00:00,"Houston area, Texas",TRE,Severe Weather,485,79000
+215,2011-08-24 00:00:00,14:51:00,2011-08-24 00:00:00,22:00:00,"Arkansas, Louisiana, Texas",SPP,Severe Weather,,53064
+216,2011-08-25 00:00:00,00:01:00,2011-08-25 00:00:00,00:01:00,Maine,NPCC,Suspected Physical Attack,0,0
+217,2011-08-25 00:00:00,00:30:00,2011-08-28 00:00:00,20:00:00,"Cleveland area, Ohio",RFC,Severe Weather,,107833
+218,2011-08-26 00:00:00,00:30:00,2011-08-28 00:00:00,00:30:00,Pennsylvania,RFC,Severe Weather,,200717
+219,2011-08-27 00:00:00,23:05:00,2077-08-29 00:00:00,15:30:00,District of Columbia; Maryland,RFC,Severe Weather,,220000
+220,2011-08-27 00:00:00,23:00:00,2011-08-29 00:00:00,08:00:00,Maryland,RFC,Severe Weather,UNK,108000
+221,2011-08-27 00:00:00,22:00:00,2011-08-29 00:00:00,16:00:00,Southern New Jersey,RFC,Severe Weather,320,140000
+222,2011-08-27 00:00:00,22:00:00,2011-08-29 00:00:00,22:00:00,Pennsylvania,RFC,Severe Weather,,264000
+223,2011-08-27 00:00:00,20:30:00,2011-09-04 00:00:00,23:30:00,Maryland,RFC,Severe Weather,1114,760113
+224,2011-08-27 00:00:00,13:00:00,2011-08-29 00:00:00,13:00:00,Delaware; Maryland,RFC,Severe Weather,,165000
+225,2011-08-27 00:00:00,19:00:00,2011-08-29 00:00:00,13:31:00,Eastern North Carolina,SERC,Severe Weather,200,136000
+226,2011-08-27 00:00:00,10:33:00,2011-08-29 00:00:00,14:00:00,North Carolina; Virginia,SERC,Severe Weather,UNK,1000000
+227,2011-08-27 00:00:00,02:57:00,2011-08-29 00:00:00,23:30:00,Eastern North Carolina,SERC,Severe Weather,UNK,285465
+228,2011-08-27 00:00:00,02:00:00,2011-08-27 00:00:00,05:15:00,Wilson County North Carolina,SERC,Distribution System Interruption,2,1200
+229,2011-08-28 00:00:00,12:30:00,2011-08-28 00:00:00,12:31:00,New York,NPCC,Severe Weather,,116000
+230,2011-08-28 00:00:00,12:10:00,2011-08-28 00:00:00,12:11:00,Eastern Massachusetts,NPCC,Severe Weather,,50000
+231,2011-08-28 00:00:00,09:42:00,2011-08-30 00:00:00,00:01:00,Eastern New York,NPCC,Severe Weather,,100000
+232,2011-08-28 00:00:00,07:40:00,2011-08-29 00:00:00,07:40:00,Southwest Connecticut,NPCC,Severe Weather,,158000
+233,2011-08-28 00:00:00,07:00:00,2011-09-03 00:00:00,00:01:00,New York,NPCC,Severe Weather,UNK,99700
+234,2011-08-28 00:00:00,05:01:00,2011-09-03 00:00:00,05:01:00,Borough's and Westshester County New York,NPCC,Severe Weather,,50000
+235,2011-08-28 00:00:00,05:00:00,2011-08-30 00:00:00,05:00:00,"Long Island, New York",NPCC,Severe Weather,UNK,152261
+236,2011-08-28 00:00:00,00:01:00,2011-08-30 00:00:00,00:01:00,"Mid-Hudson, New York",NPCC,Severe Weather,,180000
+237,2011-08-28 00:00:00,02:58:00,2011-08-30 00:00:00,02:58:00,Eastern and Northeastern Pennsylvania,RFC,Severe Weather,110,284000
+238,2011-08-28 00:00:00,00:30:00,2011-08-30 00:00:00,00:30:00,Northern and Central New Jersey,RFC,Severe Weather,,650000
+239,2011-08-28 00:00:00,00:23:00,2011-08-30 00:00:00,00:23:00,New Jersey,RFC,Severe Weather,500,665000
+240,2011-08-28 00:00:00,20:55:00,2011-08-28 00:00:00,23:39:00,"Calapooya Substation, Oregon",WECC,Suspected Physical Attack,0,0
+241,2011-08-31 00:00:00,12:52:00,2011-08-31 00:00:00,12:52:00,Southwest Ohio,RFC,Suspected Physical Attack,0,0
+242,2011-09-01 00:00:00,08:13:00,2011-09-01 00:00:00,16:00:00,"Graham Substaion, Washington",WECC,Vandalism,,
+243,2011-09-03 00:00:00,14:00:00,2011-09-08 00:00:00,18:00:00,"Southeast Lower Peninsula, Michigan",RFC,Severe Weather,UNK,105000
+244,2011-09-05 00:00:00,16:30:00,2011-09-07 00:00:00,15:45:00,Alabama; Georgia,SERC,Severe Weather,177,53295
+245,2011-09-07 00:00:00,00:08:00,2011-09-07 00:00:00,10:50:00,Western Connecticut; New York,NPCC,Actual Physical Attack,0,0
+246,2011-09-08 00:00:00,15:28:00,2011-09-10 00:00:00,15:30:00,Arizona; California,WECC,Transmission/Distribution Interruption; Load Shed; Generation Inadequacy,7000,2000000
+247,2011-09-08 00:00:00,19:53:00,2011-09-09 00:00:00,16:00:00,"Collins Substation, Tacoma, Washington",WECC,Vandalism,,
+248,2011-09-12 00:00:00,09:15:00,2011-09-12 00:00:00,15:30:00,"English Creek, New Jersey",RFC,Vandalism,0,0
+249,2011-09-13 00:00:00,11:43:00,2011-09-14 00:00:00,16:00:00,"Lacamas Substation, Roy, Washington",WECC,Vandalism,,
+250,2011-09-13 00:00:00,14:03:00,2011-09-13 00:00:00,18:21:00,"Saranac, New York",NPCC,Vandalism,,0
+251,2011-09-14 00:00:00,09:00:00,2011-09-14 00:00:00,14:00:00,"Salt Lake County, Utah",WECC,Vandalism,0,0
+252,2011-09-20 00:00:00,12:55:00,2011-09-20 00:00:00,17:00:00,"Lacamas Substaion, Washington",WECC,Vandalism,,
+253,2011-09-21 00:00:00,10:30:00,2011-09-21 00:00:00,10:30:00,"Hockessin, Delaware",RFC,Suspected Physical Attack,0,0
+254,2011-09-21 00:00:00,14:37:00,2011-09-21 00:00:00,15:47:00,Puerto Rico,,Generation Inadequacy; Load Shed,600,319616
+255,2011-09-22 00:00:00,14:50:00,2011-09-22 00:00:00,14:51:00,"Montgomery County, Ohio",RFC,Vandalism,,0
+256,2011-09-23 00:00:00,09:04:00,2011-09-23 00:00:00,09:04:00,"North Haven, Connecticut",NPCC,Vandalism,0,0
+257,2011-09-24 00:00:00,16:17:00,2011-09-25 00:00:00,16:00:00,"Collins Substation, Tacoma, Washington",WECC,Vandalism,,
+258,2011-09-26 00:00:00,10:15:00,2011-09-26 00:00:00,10:15:00,"McKee City, New Jersey",RFC,Vandalism,0,0
+259,2011-09-29 00:00:00,05:00:00,2011-09-30 00:00:00,06:00:00,"Houston metro area, Texas",TRE,Severe Weather,,65000
+260,2011-09-28 00:00:00,09:30:00,2011-09-28 00:00:00,13:00:00,"Watertown, Connecticut",NPCC,Vandalism,,
+261,2011-09-28 00:00:00,14:59:00,2011-09-28 00:00:00,14:59:00,"Dorothy, New Jersey",RFC,Vandalism,0,0
+262,2011-09-28 00:00:00,16:41:00,2011-09-28 00:00:00,16:41:00,"Bethany Beach, Delaware",RFC,Suspected Physical Attack,0,0
+263,2011-09-29 00:00:00,18:44:00,2011-09-30 00:00:00,16:00:00,"Collins Substation, Tacoma, Washington",WECC,Vandalism,,
+264,2011-09-30 00:00:00,08:22:00,2011-09-30 00:00:00,08:22:00,"Wilmington, Delaware",RFC,Suspected Physical Attack,0,0
+265,2011-10-06 00:00:00,11:07:00,2011-10-06 00:00:00,11:07:00,"Oquirrh Substation, Utah",WECC,Vandalism,0,0
+266,2011-10-07 00:00:00,08:04:00,2011-10-07 00:00:00,16:00:00,"Olympic Pipeline, Spanaway, Washington",WECC,Suspected Physical Attack,,
+267,2011-10-14 00:00:00,14:20:00,2011-10-14 00:00:00,14:20:00,"English Creek, New Jersey",RFC,Vandalism,0,0
+268,2011-10-17 00:00:00,03:34:00,2011-10-17 00:00:00,10:42:00,"Seat Pleasant, Maryland",RFC,Vandalism,0,0
+269,2011-10-17 00:00:00,15:44:00,2011-10-17 00:00:00,15:44:00,Southwest Ohio,RFC,Vandalism,7,2000
+270,2011-10-18 00:00:00,03:45:00,2011-10-18 00:00:00,05:25:00,"Holmesburg Substation, Philadelphia, Pennsylvania",RFC,Suspected Physical Attack,0,0
+271,2011-10-20 00:00:00,07:15:00,2011-10-20 00:00:00,07:15:00,"McKee, New Jersey",RFC,Vandalism,0,0
+272,2011-10-24 00:00:00,23:37:00,2011-10-26 00:00:00,23:00:00,"Holmesburg Substation, Philadelphia, Pennsylvania",RFC,Suspected Physical Attack,0,0
+273,2011-10-26 00:00:00,05:00:00,2011-10-27 00:00:00,15:00:00,"Denver; Ft. Collins, Colorado",WECC,Severe Weather,UNK,204000
+274,2011-10-27 00:00:00,01:00:00,2011-10-27 00:00:00,02:36:00,"Munster, Indiana",RFC,Vandalism,,
+275,2011-10-29 00:00:00,08:59:00,2011-11-07 00:00:00,19:58:00,Pennsylvania,RFC,Severe Weather,UNK,312359
+276,2011-10-29 00:00:00,08:59:00,2011-11-07 00:00:00,15:00:00,Pennsylvania,RFC,Severe Weather,UNK,50000
+277,2011-10-29 00:00:00,09:59:00,2011-11-07 00:00:00,13:00:00,Northwest and Central New Jersey,RFC,Severe Weather,UNK,379000
+278,2011-10-29 00:00:00,11:18:00,2011-11-04 00:00:00,00:00:00,Southeast New York,NPCC,Severe Weather,UNK,161151
+279,2011-10-29 00:00:00,12:57:00,2011-11-03 00:00:00,23:00:00,"Harrisburg, Lehigh Valley, Lancaster Region Pennsylvania",RFC,Severe Weather,UNK,146721
+280,2011-10-29 00:00:00,14:00:00,2011-10-31 00:00:00,14:00:00,Southeast Pennsylvania,RFC,Severe Weather,UNK,109335
+281,2011-10-29 00:00:00,14:30:00,2011-11-06 00:00:00,12:00:00,New Jersey,RFC,Severe Weather,125,197000
+282,2011-10-29 00:00:00,15:00:00,2011-11-02 00:00:00,08:15:00,"Mid-Hudson Valley Region, New York",NPCC,Severe Weather,,145000
+283,2011-10-29 00:00:00,16:14:00,2011-11-07 00:00:00,16:00:00,Connecticut; Maine; Massachusetts; New Hampshire; Rhode Island,NPCC,Severe Weather,UNK,1418100
+284,2011-10-29 00:00:00,16:16:00,2011-11-02 00:00:00,21:30:00,New York City area,NPCC,Severe Weather,UNK,50000
+285,2011-10-29 00:00:00,20:00:00,2011-10-31 00:00:00,20:00:00,New Jersey; New York,"NPCC, RFC",Severe Weather,,74000
+286,2011-11-04 00:00:00,10:46:00,2011-11-04 00:00:00,10:46:00,"Sweetwater County, Wyoming",WECC,Vandalism,0,0
+287,2011-11-13 00:00:00,11:30:00,2011-11-13 00:00:00,12:00:00,"Cate Road, Deerfield, New Hampshire",NPCC,Vandalism,0,0
+288,2011-11-14 00:00:00,14:24:00,2011-11-14 00:00:00,14:24:00,"McKee, New Jersey",RFC,Vandalism,0,0
+289,2011-11-22 00:00:00,23:16:00,2011-11-22 00:00:00,23:16:00,Indiana,RFC,Suspected Physical Attack,0,0
+290,2011-11-30 00:00:00,10:00:00,2011-11-30 00:00:00,11:00:00,"Orchard Substation, Washington",WECC,Vandalism,0,0
+291,2011-11-30 00:00:00,16:56:00,2011-12-02 00:00:00,10:00:00,"City of Los Angeles, California",WECC,Severe Weather,UNK,150000
+292,2011-12-01 00:00:00,00:45:00,2011-12-07 00:00:00,21:00:00,Southern California,WECC,Severe Weather,UNK,91690
+293,2011-12-01 00:00:00,03:29:00,2011-12-02 00:00:00,13:05:00,Northern California,WECC,Severe Weather,300,100000
+294,2011-12-01 00:00:00,10:00:00,2011-12-02 00:00:00,13:11:00,Wasatch Front Area Utah,WECC,Severe Weather,UNK,60000
+295,2011-12-02 00:00:00,16:15:00,2011-12-02 00:00:00,20:30:00,Rusk County Texas,TRE,Suspected Physical Attack,,
+296,2011-12-05 00:00:00,14:00:00,2011-12-06 00:00:00,17:00:00,"Tacoma, Washington",WECC,Suspected Physical Attack,,
+297,2011-12-06 00:00:00,08:00:00,2011-12-06 00:00:00,20:00:00,"Bismarck-Mandan, North Dakota",MRO,Public Appeal to Reduce Electricity Usage,155,34500
+298,2011-12-06 00:00:00,17:38:00,2011-12-07 00:00:00,11:04:00,"Montague, Michigan",RFC,Suspected Physical Attack,0,0
+299,2011-12-07 00:00:00,19:29:00,2011-12-07 00:00:00,22:57:00,Central Virginia,SERC,Severe Weather,240,60000
+300,2011-12-08 00:00:00,08:45:00,2011-12-08 00:00:00,16:30:00,"Tacoma, Washington",WECC,Suspected Physical Attack,,
+301,2011-12-13 00:00:00,03:19:00,2011-12-14 00:00:00,03:19:00,Clinton County Ohio,RFC,Suspected Physical Attack,,0
+302,2011-12-19 00:00:00,08:48:00,2011-12-19 00:00:00,16:00:00,"Croft Substation, Tacoma, Washington",WECC,Suspected Physical Attack,,
+303,2011-12-20 00:00:00,07:45:00,2011-12-20 00:00:00,08:45:00,"Sweet Home, Oregon",WECC,Suspected Physical Attack,12,2500
+304,2011-12-20 00:00:00,09:30:00,2011-12-20 00:00:00,09:31:00,"Tacoma, Washington",WECC,Suspected Physical Attack,,
+305,2011-12-21 00:00:00,10:30:00,2011-12-21 00:00:00,10:30:00,"Boise, Idaho",WECC,Suspected Cyber Attack,0,0
+306,2011-12-31 00:00:00,21:26:00,2011-12-31 00:00:00,21:26:00,"Tacoma, Washington",WECC,Suspected Physical Attack,,

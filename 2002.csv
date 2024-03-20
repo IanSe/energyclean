@@ -1,0 +1,24 @@
+,Date,NERC,Event,Area,Disturbance,Loss,Affected Customers,Restoration Date
+0,2002-01-30 00:00:00,SPP,06:00:00,Oklahoma,Ice Storm,500,1881134,2002-02-07 12:00:00
+1,2002-01-29 00:00:00,SPP,Evening,Metropolitan Kansas City Area,Ice Storm,500-600,270000,
+2,2002-01-30 00:00:00,SPP,16:00:00,Missouri,Ice Storm,210,95000,2002-02-10 21:00:00
+3,2002-02-27 00:00:00,WSCC,10:48:00,California,Interruption of Firm Load,300,255000,2002-02-27 11:35:00
+4,2002-03-09 00:00:00,ECAR,00:00:00,Lower Peninsula of Michigan,Severe Weather,190,190000,2002-03-11 12:00:00
+5,2002-04-08 00:00:00,WSCC,15:00:00,Arizona,Vandalism/,0,0,2002-04-09 00:00:00
+6,2002-07-09 00:00:00,WSCC,12:27:00,California,Interruption of Firm Power,240,1 PG&E,2002-07-09 19:54:00
+7,2002-07-19 00:00:00,WSCC,11:51:00,California,Interruption of Firm Power (Unit Tripped),240,1 PG&E,2002-07-19 16:30:00
+8,2002-07-20 00:00:00,NPCC,12:40:00,New York,Fire,278,63500,2002-07-20 20:12:00
+9,2002-08-02 00:00:00,MAIN,12:43:00,Illinois,Interruption of Firm Power,232,53565,2002-08-02 18:36:00
+10,2002-08-09 00:00:00,SERC,08:23:00,Florida,Interruption of Firm Power,51,25000,2002-08-09 12:13:00
+11,2002-08-25 00:00:00,WSCC,03:41:00,California,Interruption of Firm Power,120,1 PG&E,2002-08-25 09:17:00
+12,2002-08-28 00:00:00,SERC,14:09:00,Florida,Severe Weather,67.6,25000,2002-08-28 15:38:00
+13,2002-10-03 00:00:00,SPP,03:33:00,Coastal Areas of Southern Louisiana,Hurricane Lily,,242910,2002-10-12 00:00:00
+14,2002-11-06 00:00:00,WSCC,22:00:00,Northern and Central California,Winter Storm,270,939000,Noon November 10
+15,2002-11-17 00:00:00,NPPC,15:48:00,"Northport, NY",Cable Tripped,0,0,Unknown
+16,2002-11-17 00:00:00,NPCC,06:00:00,Northwest and North Central Connecticut,Ice Storm,,224912,2002-11-21 08:00:00
+17,2002-12-03 00:00:00,SPP,18:30:00,Arkansas,Ice Storm,,43000,2002-12-09 22:30:00
+18,2002-12-11 00:00:00,SERC,13:09:00,Northern Virginia to Fredericksburg,Winter Storm,63,130000,2002-12-13 22:00:00
+19,2002-12-14 00:00:00,WSCC,11:00:00,Northern and Central California,Winter Storm,180,1.5 million,2002-12-19 16:00:00
+20,2002-12-19 00:00:00,WSCC,06:00:00,Northern and Central California,Winter Storm,56,385000,2002-12-21 17:00:00
+21,2002-12-25 00:00:00,MAAC,17:00:00,Eastern Pennsylvania,Winter Storm,250,106000,2002-12-26 05:00:00
+22,2002-12-25 00:00:00,MAAC,10:00:00,"Reading, York, Hanover, Hamburg Pennsylvania",Winter Storm,,95630,2002-12-27 08:30:00

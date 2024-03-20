@@ -1,0 +1,197 @@
+,Date,Event,Restoration Date,Restoration Time,Area,NERC,Disturbance,Loss,Affected Customers
+0,2012-01-04 00:00:00,12:14:00,2012-01-04 00:00:00,12:14:00,"Tacoma, Washington",WECC,Suspected physical attack,,
+1,2012-01-05 00:00:00,10:35:00,2012-01-05 00:00:00,12:25:00,"CSWS/AEP West territory, Oklahoma",SPP,Sabotage,0,0
+2,2012-01-05 00:00:00,10:28:00,2012-01-05 00:00:00,12:25:00,"Creek County, Oklahoma",SPP,Suspected physical attack,,
+3,2012-01-09 00:00:00,14:30:00,2012-01-09 00:00:00,15:30:00,"Watertown, Connecticut",NPCC,Vandalism,,
+4,2012-01-09 00:00:00,13:36:00,2012-01-11 00:00:00,01:05:00,Louisiana,SERC,Load Shed,150,1
+5,2012-01-10 00:00:00,21:30:00,2012-01-10 00:00:00,21:30:00,"Rusk County, Texas",TRE,Load Shed,,
+6,2012-01-11 00:00:00,07:19:00,2012-01-11 00:00:00,09:07:00,Nevada,WECC,Suspected Physical Attack,0,0
+7,2012-01-12 00:00:00,08:26:00,2012-01-12 00:00:00,08:26:00,"Newark, Delaware",RFC,Physical Attack,0,0
+8,2012-01-13 00:00:00,09:20:00,2012-01-13 00:00:00,09:20:00,"Newark, Delaware",RFC,Physical Attack,0,0
+9,2012-01-15 00:00:00,09:35:00,2012-01-15 00:00:00,09:35:00,"Tacoma, Washington",WECC,Vandalism,,
+10,2012-01-17 00:00:00,10:31:00,2012-01-17 00:00:00,17:21:00,"Austin, Texas",TRE,Suspected Cyber Attack,,0
+11,2012-01-19 00:00:00,07:00:00,2012-01-20 00:00:00,15:00:00,"King, Pierce and Thurston Counties, Washington",WECC,Severe Weather - Winter Storm,1600,426000
+12,2012-01-24 00:00:00,11:22:00,2012-01-24 00:00:00,11:22:00,"Tacoma, Washington",WECC,Vandalism,,
+13,2012-01-27 00:00:00,09:40:00,2012-01-27 00:00:00,09:40:00,"Frederickson Substation, Spanaway, Washington",WECC,Vandalism,,
+14,2012-01-29 00:00:00,12:45:00,2012-01-29 00:00:00,12:45:00,"Roosevelt Substation, Tacoma, Washington",WECC,Vandalism,,
+15,2012-02-11 00:00:00,08:47:00,2012-02-11 00:00:00,10:30:00,"Lamar, Colorado",WECC,Suspected Physical Attack,0,0
+16,2012-02-11 00:00:00,08:55:00,2012-02-11 00:00:00,08:55:00,"Tacoma, Washington",WECC,Suspected Physical Attack,,
+17,2012-02-13 00:00:00,07:02:00,2012-02-13 00:00:00,16:25:00,"Asheville, North Carolina",SERC,Suspected Physical Attack,,
+18,2012-02-14 00:00:00,19:20:00,2012-02-15 00:00:00,16:00:00,"Tacoma, Washington",WECC,Suspected Physical Attack,,
+19,2012-02-15 00:00:00,05:33:00,2012-02-15 00:00:00,17:30:00,"Port Orchard, Washington",WECC,Suspected Physical Attack,0,0
+20,2012-02-17 00:00:00,03:00:00,2012-02-17 00:00:00,11:33:00,"Little Rock, Arkansas",SERC,Suspected Cyber Attack,UNK,UNK
+21,2012-02-19 00:00:00,17:00:00,2012-02-21 00:00:00,07:33:00,"Kentucky, Virginia, West Virginia",SERC,Severe Weather - Winter Storm,UNK,90000
+22,2012-02-23 00:00:00,05:45:00,2012-02-23 00:00:00,15:02:00,"South East College Station, Texas",TRE,Suspected Physical Attack,0,0
+23,2012-02-23 00:00:00,23:12:00,2012-02-24 00:00:00,01:00:00,"Londonderry, New Hampshire",NPCC,Suspected Physical Attack,0,0
+24,2012-02-24 00:00:00,11:24:00,2012-02-24 00:00:00,11:49:00,"Spanaway, Washington",WECC,Suspected Physical Attack,,
+25,2012-02-28 00:00:00,02:59:00,2012-02-28 00:00:00,06:12:00,"Sacramento, California",WECC,Electrical System Separation (Islanding),1,1
+26,2012-02-28 00:00:00,07:00:00,2012-02-28 00:00:00,07:00:00,Coos County Oregon,WECC,Suspected Physical Attack,UNK,UNK
+27,2012-03-02 00:00:00,12:37:00,2012-03-05 00:00:00,12:01:00,Northern Alabama; Southeast Tennessee,SERC,Severe Weather - Tornadoes ,500,UNK
+28,2012-03-02 00:00:00,13:45:00,2012-03-02 00:00:00,15:30:00,"Piggott, Arkansas",SERC,Operational Failure/Equipment Malfunction,,
+29,2012-03-02 00:00:00,21:00:00,2012-03-05 00:00:00,16:30:00,"Southeastern, Michigan",RFC,Severe Weather - Winter Storm,371,130000
+30,2012-03-02 00:00:00,21:00:00,2012-03-04 00:00:00,17:30:00,"Lower Peninsula, Michigan",RFC,Severe Weather - Winter Storm,50,140000
+31,2012-03-04 00:00:00,01:27:00,2012-03-04 00:00:00,06:58:00,"Prince Georges County, Maryland",RFC,Suspected Physical Attack,,
+32,2012-03-04 00:00:00,13:38:00,2012-03-05 00:00:00,11:00:00,Texas,SERC,Suspected Physical Attack,UNK,UNK
+33,2012-03-16 00:00:00,16:00:00,2012-03-16 00:00:00,16:00:00,"New Castle, Delaware",RFC,Suspected Physical Attack,0,0
+34,2012-03-20 00:00:00,08:00:00,2012-03-20 00:00:00,13:00:00,"Houston, Texas",TRE,Severe Weather - Thunderstorms,,96000
+35,2012-03-23 00:00:00,19:34:00,2012-03-23 00:00:00,19:34:00,"Newark, Delaware",RFC,Suspected Physical Attack,0,0
+36,2012-03-26 00:00:00,13:24:00,2012-03-26 00:00:00,13:24:00,"Tacoma, Washington",WECC,Suspected Physical Attack,,
+37,2012-03-28 00:00:00,10:17:00,2012-03-28 00:00:00,10:17:00,"Graham, Washington",WECC,Suspected Physical Attack,,
+38,2012-03-29 00:00:00,12:01:00,2012-03-29 00:00:00,12:02:00,"Lansing, Michigan",RFC,Electrical System Separation (Islanding),UNK,0
+39,2012-03-30 00:00:00,11:10:00,2012-03-30 00:00:00,11:30:00,Vermont,NPCC,Suspected Physical Attack,,
+40,2012-04-01 00:00:00,20:27:00,2012-04-03 00:00:00,08:28:00,"Council Bluffs, Iowa",MRO,Vandalism,0,0
+41,2012-04-03 00:00:00,11:10:00,2012-04-03 00:00:00,11:25:00,"West Rutland, Vermont",NPCC,Vandalism,0,0
+42,2012-04-03 00:00:00,15:33:00,2012-04-03 00:00:00,20:25:00,"Seattle, Washington",WECC,Physical Attack,0,0
+43,2012-04-04 00:00:00,15:32:00,2012-04-06 00:00:00,15:30:00,"WAPA-SNR Regional Office, California",WECC,Suspected Physical Attack,,
+44,2012-04-07 00:00:00,14:35:00,2012-04-07 00:00:00,14:36:00,"Newark, Delaware",RFC,Physical Attack,0,0
+45,2012-04-07 00:00:00,12:25:00,2012-04-07 00:00:00,12:26:00,"Newark, Delaware",RFC,Physical Attack,0,0
+46,2012-04-07 00:00:00,09:31:00,2012-04-07 00:00:00,09:32:00,"Newark, Delaware",RFC,Physical Attack,0,0
+47,2012-04-11 00:00:00,09:00:00,2012-04-11 00:00:00,09:00:00,"North Attleboro, Massachusetts ",NPCC,Vandalism,0,0
+48,2012-04-12 00:00:00,08:08:00,2012-04-12 00:00:00,16:30:00,"Tacoma, Washington",WECC,Suspected Physical Attack,,
+49,2012-04-15 00:00:00,19:38:00,2012-04-15 00:00:00,21:26:00,Georgia,SERC,Suspected Physical Attack,UNK,UNK
+50,2012-04-16 00:00:00,15:46:00,2012-04-19 00:00:00,02:00:00,"Southeast, Michigan",RFC,Severe Weather - High Winds,218,111393
+51,2012-04-17 00:00:00,06:11:00,2012-04-17 00:00:00,17:48:00,"San Diego County, California",WECC,Suspected Physical Attack,0,0
+52,2012-04-19 00:00:00,07:53:00,2012-04-19 00:00:00,16:00:00,"Tacoma, Washington",WECC,Suspected Physical Attack,,
+53,2012-04-20 00:00:00,14:27:00,2012-04-21 00:00:00,04:27:00,"Metropolitan Houston, Texas",TRE,Severe Weather - Thunderstorms,,120377
+54,2012-04-21 00:00:00,15:02:00,2012-04-21 00:00:00,20:09:00,"East Bridgewater, Massachusetts",NPCC,Physical Attack,,
+55,2012-04-21 00:00:00,20:55:00,2012-04-23 00:00:00,16:30:00,"Tacoma, Washington",WECC,Suspected Physical Attack,,
+56,2012-04-23 00:00:00,08:11:00,2012-04-23 00:00:00,12:47:00,Northwest Indiana,RFC,Suspected Physical Attack,,
+57,2012-04-23 00:00:00,11:56:00,2012-04-23 00:00:00,15:35:00,"Snohomish County, Washington",WECC,Suspected Physical Attack,,
+58,2012-05-07 00:00:00,12:50:00,2012-05-07 00:00:00,14:00:00,"Williston, Vermont",NPCC,Vandalism,0,0
+59,2012-05-07 00:00:00,17:45:00,2012-05-07 00:00:00,18:06:00,Eastern Ohio,RFC,Load Shed/Severe Weather  - Lightning Storm,420,1
+60,2012-05-11 00:00:00,11:05:00,2012-05-11 00:00:00,11:20:00,"Lakewood, Washington",WECC,Vandalism,,
+61,2012-05-24 00:00:00,15:20:00,2012-05-25 00:00:00,17:29:00,"Tyngsborough, Massachusetts",NPCC,Physical Attack,UNK,UNK
+62,2012-05-29 00:00:00,18:30:00,2012-05-29 00:00:00,19:40:00,"Alder Dam, Pierce County, Washington",WECC,Physical Attack,,
+63,2012-05-29 00:00:00,20:35:00,2012-05-31 00:00:00,10:00:00,"Oklahoma City Metro Area, Oklahoma",SPP,Severe Weather - Thunderstorms,UNK,112000
+64,2012-05-31 00:00:00,23:45:00,2012-06-01 00:00:00,04:30:00,"Columbus, Ohio",RFC,Physical Attack,0,0
+65,2012-06-02 00:00:00,07:30:00,2012-06-02 00:00:00,11:35:00,"San Francisco, California",WECC,Vandalism,,
+66,2012-06-06 00:00:00,08:00:00,2012-06-06 00:00:00,08:00:00,"Delhi, New York",NPCC,Vandalism,,
+67,2012-06-06 00:00:00,12:37:00,2012-06-06 00:00:00,12:37:00,"Columbia Heights, NW, Washington DC",RFC,Vandalism,0,0
+68,2012-06-08 00:00:00,17:20:00,2012-06-08 00:00:00,17:25:00,"Denver Metro Area, Colorado",WECC,Load Shed,120,30379
+69,2012-06-11 00:00:00,19:50:00,2012-06-12 00:00:00,15:00:00,North/Central Alabama; North/Central Georgia,SERC,Severe Weather - Thunderstorms,368,110591
+70,2012-06-12 00:00:00,15:57:00,2012-06-14 00:00:00,04:57:00,"Houston, Texas",TRE,Severe Weather - Thunderstorms,920,175000
+71,2012-06-13 00:00:00,16:55:00,2012-06-13 00:00:00,22:09:00,"San Juan County, New Mexico",WECC,Vandalism,0,0
+72,2012-06-19 00:00:00,04:30:00,2012-06-20 00:00:00,23:00:00,"Minneapolis/St. Paul, Minnesota",MRO,Severe Weather - Thunderstorms,UNK,68200
+73,2012-06-19 00:00:00,05:30:00,2012-06-21 00:00:00,05:30:00,CAISO Territory California,WECC,Fuel Supply Deficiency (Water),UNK,UNK
+74,2012-06-23 00:00:00,18:57:00,2012-06-23 00:00:00,19:28:00,"North Shore, Massachusetts",NPCC,Load Shed,51,29250
+75,2012-06-25 00:00:00,16:04:00,2012-06-26 00:00:00,13:45:00,Central Virginia,SERC,Severe Weather - Wind & Rain,600,190000
+76,2012-06-29 00:00:00,10:45:00,2012-06-29 00:00:00,10:45:00,"New Castle, Delaware",RFC,Physical Attack,0,0
+77,2012-06-29 00:00:00,12:10:00,2012-06-29 00:00:00,17:02:00,Puerto Rico,,Equipment Trip & Failure,1800,900000
+78,2012-06-29 00:00:00,14:10:00,2012-07-04 00:00:00,18:00:00,"Dayton, Ohio",RFC,Severe Weather - Thunderstorms,500,175000
+79,2012-06-29 00:00:00,16:00:00,2012-07-02 00:00:00,16:00:00,Indiana; Michigan; Ohio; West Virginia,RFC,Severe Weather - Thunderstorms,UNK,1355919
+80,2012-06-29 00:00:00,16:00:00,2012-06-29 00:00:00,21:00:00,"Eastern, Arkansas",SERC,Public Appeal to Reduce Electricity Usage,45,7935
+81,2012-06-29 00:00:00,17:15:00,2012-07-02 00:00:00,23:59:00,Eastern Indiana; Northern Kentucky; Greater Cincinnati area Ohio,RFC,Severe Weather - Thunderstorms,2946,4645572
+82,2012-06-29 00:00:00,18:24:00,2012-07-06 00:00:00,10:00:00,West Virginia,RFC,Severe Weather - Thunderstorms,700,265000
+83,2012-06-29 00:00:00,19:00:00,2012-07-07 00:00:00,19:43:00,Maryland; West Virginia,RFC,Severe Weather - Thunderstorms,UNK,145000
+84,2012-06-29 00:00:00,22:15:00,2012-07-05 00:00:00,12:52:00,"Montgomery and Prince Georges Counties, Maryland; District of Columbia",RFC,Severe Weather - Thunderstorms,3000,425000
+85,2012-06-29 00:00:00,22:29:00,2012-07-04 00:00:00,15:36:00,Virginia,SERC,Severe Weather - Thunderstorms,5000,880000
+86,2012-06-29 00:00:00,22:43:00,2012-07-05 00:00:00,11:50:00,"Greater Baltimore area, Maryland",RFC,Severe Weather - Thunderstorms,1465,600000
+87,2012-06-29 00:00:00,23:30:00,2012-06-30 00:00:00,02:00:00,Northeast Illinois,RFC,Severe Weather - Thunderstorms,UNK,109000
+88,2012-06-30 00:00:00,01:00:00,2012-07-03 00:00:00,01:00:00,Delaware; Maryland,RFC,Severe Weather - Thunderstorms,0,86390
+89,2012-06-30 00:00:00,01:15:00,2012-07-07 00:00:00,17:33:00,Atlantic City Electric Service Territory New Jersey,RFC,Severe Weather - Thunderstorms,UNK,205000
+90,2012-06-30 00:00:00,15:00:00,2012-07-02 00:00:00,12:00:00,Northeast Tennessee,SERC,Public Appeal to Reduce Electricity Usage,UNK,UNK
+91,2012-06-30 00:00:00,22:30:00,2012-07-02 00:00:00,08:11:00,"Calvert, Charles, St. Mary's, Prince Georges Counties Maryland",RFC,Severe Weather - Thunderstorms,354,60000
+92,2012-07-01 13:00:00,2012-07-01 13:00:00,2012-07-03 15:00:00,2012-07-03 15:00:00,Illinois,RFC,Severe Weather - Thunderstorms,Unknown,320000
+93,2012-07-01 16:47:00,2012-07-01 16:47:00,2012-07-01 23:00:00,2012-07-01 23:00:00,"Tarboro, North Carolina",SERC,Operational Failure; Storm Damage,48,6100
+94,2012-07-01 17:45:00,2012-07-01 17:45:00,2012-07-01 22:15:00,2012-07-01 22:15:00,"Northern, Central and Eastern North Carolina",SERC,Severe Weather  ,Unknown,69106
+95,2012-07-05 04:30:00,00:00:00,2012-07-06 20:30:00,2012-07-06 20:30:00,Lower Peninsula Michigan,RFC,Severe Weather - Thunderstorms,Unknown,111000
+96,2012-07-05 19:00:00,2012-07-05 19:00:00,2012-07-06 16:00:00,2012-07-06 16:00:00,Northeast Tennessee,SERC,Severe Weather - Wind & Storms,,50001
+97,2012-07-06 15:05:00,2012-07-06 15:05:00,2012-07-06 15:06:00,2012-07-06 15:06:00,"Tacoma, Washington",WECC,Vandalism,,
+98,2012-07-07 04:00:00,2012-07-07 04:00:00,2012-07-10 04:00:00,2012-07-10 04:00:00,CAISO California,WECC,Fuel Supply Deficiency (Water),Unknown,0
+99,2012-07-07 06:06:00,2012-07-07 06:06:00,2012-07-09 23:00:00,2012-07-09 23:00:00,"Lower Valley, Central, Susquehanna Regions Pennsylvania",RFC,Severe Weather - Thunderstorms,,64500
+100,2012-07-07 18:00:00,2012-07-07 18:00:00,2012-07-09 19:01:00,2012-07-09 19:01:00,Central and Northern New Jersey,RFC,Severe Weather - Thunderstorms,,95400
+101,2012-07-09 12:15:00,2012-07-09 12:15:00,2012-07-09 16:14:00,2012-07-09 16:14:00,"Alberta, Canada",WECC,Energy Deficiency Alert,9896,Unknown
+102,2012-07-16 11:27:00,2012-07-16 11:27:00,2012-07-16 12:29:00,2012-07-16 12:29:00,"Little Rock, Arkansas",SPP,Public Appeal to Reduce Energy Usage,,
+103,2012-07-18 14:16:00,2012-07-18 14:16:00,2012-07-19 23:58:00,2012-07-19 23:58:00,"Southeast Ohio, Northern Kentucky, Southern Indiana",RFC,Severe Weather - Thunderstorms,480,103000
+104,2012-07-18 16:20:00,2012-07-18 16:20:00,2012-07-18 19:05:00,2012-07-18 19:05:00,Eastern Ohio,RFC,Severe Weather - Thunderstorms,Unknown,67000
+105,2012-07-18 23:00:00,2012-07-18 23:00:00,2012-07-19 06:00:00,2012-07-19 06:00:00,Northern Illinois,RFC,Severe Weather - Thunderstorms,Unknown,181000
+106,2012-07-19 10:30:00,2012-07-19 10:30:00,2012-07-31 11:00:00,2012-07-31 11:00:00,"Niagara County, New York",NPCC,Fuel Supply Deficiency (Coal),675,Unknown
+107,2012-07-19 12:32:00,2012-07-19 12:32:00,2012-07-19 12:33:00,2012-07-19 12:33:00,"Newark, Delaware",RFC,Vandalism,,
+108,2012-07-21 02:19:00,2012-07-21 02:19:00,2012-07-21 05:20:00,2012-07-21 05:20:00,"City of Lubbock, Texas",SPP,Severe Weather; Equipment Failure,220,70000
+109,2012-07-24 07:01:00,2012-07-24 07:01:00,2012-07-24 16:30:00,2012-07-24 16:30:00,Northern Indiana,RFC,Severe Weather - Thunderstorms,,82621
+110,2012-07-24 07:30:00,2012-07-24 07:30:00,2012-07-24 22:00:00,2012-07-24 22:00:00,Northern Illinois,RFC,Severe Weather - Thunderstorms,Unknown,330000
+111,2012-07-26 18:14:00,2012-07-26 18:14:00,2012-07-27 18:14:00,2012-07-27 18:14:00,Western Pennsylvania,RFC,Severe Weather - Thunderstorms,,65112
+112,2012-07-26 18:21:00,2012-07-26 18:21:00,2012-07-28 23:30:00,2012-07-28 23:30:00,North/Central Pennsylvania,RFC,Severe Weather - Thunderstorms,,65000
+113,2012-07-26 18:30:00,2012-07-26 18:30:00,2012-07-27 17:22:00,2012-07-27 17:22:00,Eastern Ohio,RFC,Severe Weather - Thunderstorms,Unknown,57054
+114,2012-07-27 17:19:00,2012-07-27 17:19:00,2012-07-28 17:19:00,2012-07-28 17:19:00,Central Indiana,RFC,Severe Weather - Thunderstorms,Unknown,52702
+115,2012-08-01 12:00:00,2012-08-01 12:00:00,2012-08-01 12:00:00,2012-08-01 12:00:00,"Oklahoma, Arkansas",SPP,Public Appeal to Reduce Electricity Usage,Unknown,Unknown
+116,2012-08-04 03:55:00,2012-08-04 03:55:00,2012-08-04 04:21:00,2012-08-04 04:21:00,"Temblor Substation in McKittrick, California",WECC,Electrical System Separation (Islanding),5,127
+117,2012-08-04 04:00:00,2012-08-04 04:00:00,2012-08-04 07:20:00,2012-08-04 07:20:00,Northern Indiana,RFC,Severe Weather - Thunderstorms,,61413
+118,2012-08-04 17:30:00,2012-08-04 17:30:00,2012-08-05 12:10:00,2012-08-05 12:10:00,Northeast Illinois,RFC,Severe Weather - Thunderstorms,Unknown,325000
+119,2012-08-11 12:45:00,2012-08-11 12:45:00,2012-08-11 17:00:00,2012-08-11 17:00:00,"Tacoma, Washington",WECC,Suspected Physical Attack,,
+120,2012-08-13 13:15:00,2012-08-13 13:15:00,2012-08-13 00:00:00,13:15:00,"Knoxville, Tennessee",SERC,Vandalism,Unknown,Unknown
+121,2012-08-13 15:52:00,2012-08-13 15:52:00,2012-08-13 00:00:00,19:44:00,CFE (Mexico & U.S.),WECC,Severe Weather - Dust Storm; Load Shed Event,655,Unknown
+122,2012-08-16 13:13:00,2012-08-16 13:13:00,2012-08-16 13:14:00,2012-08-16 13:13:00,Northern Indiana,RFC,Vandalism,0,0
+123,2012-08-19 08:42:00,2012-08-19 08:42:00,2012-08-19 12:08:00,2012-08-19 12:08:00,"El Paso, Texas",WECC,Suspected Physical Attack,12,3314
+124,2012-08-26 22:04:00,2012-08-26 22:04:00,2012-08-27 00:00:00,02:04:00,Florida,FRCC,Severe Weather - TS Isaac,,440000
+125,2012-08-28 06:00:00,2012-08-28 06:00:00,2012-09-04 08:00:00,2012-09-04 08:00:00,"Arkansas, Louisiana, Mississippi",SERC,Severe Weather - Hurricane Isaac,Unknown,770000
+126,2012-08-29 06:53:00,2012-08-29 06:53:00,2012-08-30 14:00:00,2012-08-30 14:00:00,Louisiana,SERC,Severe Weather - Hurricane Isaac,150,68018
+127,2012-08-29 09:00:00,2012-08-29 09:00:00,2012-08-31 12:00:00,2012-08-31 12:00:00,Louisiana,SERC,Severe Weather - Hurricane Isaac,300,50000
+128,2012-08-29 09:48:00,2012-08-29 09:48:00,2012-08-31 12:55:00,2012-08-31 12:55:00,Louisiana,SPP,Severe Weather - Hurricane Isaac,Unknown,95000
+129,2012-09-05 10:56:00,2012-09-05 10:56:00,2012-09-05 11:27:00,2012-09-05 11:27:00,"Alberta, Canada",WECC,Electrical System Separation (Islanding),0,0
+130,2012-09-06 04:45:00,2012-09-06 04:45:00,Ongoing,Ongoing,"Oroville, California",WECC,Fuel Supply Deficiency (Water),,
+131,2012-09-07 21:30:00,2012-09-07 21:30:00,2012-09-08 01:00:00,2012-09-08 01:00:00,Arkansas,SERC,Severe Weather - Thunderstorms,UNK ,64951
+132,2012-09-08 15:40:00,2012-09-08 15:40:00,2012-09-08 18:45:00,2012-09-08 18:45:00,"Prince George's County, Montgomery County Maryland; D.C.",RFC,Severe Weather - Thunderstorms,UNK,65000
+133,2012-09-08 15:53:00,2012-09-08 15:53:00,2012-09-09 19:46:00,2012-09-09 19:46:00,Virginia,SERC,Severe Weather - Thunderstorms,475,119000
+134,2012-09-11 13:00:00,2012-09-11 13:00:00,2012-09-11 13:58:00,2012-09-11 13:58:00,"Alberta, Canada",WECC,Electrical System Separation (Islanding),0,0
+135,2012-09-24 00:00:00,2012-09-24 00:00:00,2012-09-25 00:00:00,2012-09-25 00:00:00,"Brighton, Maryland",RFC,Suspected Physical Attack,0,0
+136,2012-09-26 21:16:00,2012-09-26 21:16:00,2012-09-26 22:18:00,2012-09-26 22:18:00,Puerto Rico,,Voltage Reduction,600,371526
+137,2012-10-05 17:30:00,2012-10-05 17:30:00,2012-10-05 17:50:00,2012-10-05 17:50:00,"Greater Sacramento, California",WECC,Suspected Physical Attack,,
+138,2012-10-09 00:00:00,2012-10-09 00:00:00,2012-10-09 00:01:00,2012-10-09 00:01:00,"Seat Pleasant, Maryland",RFC,Vandalsim,0,0
+139,2012-10-11 00:00:00,2012-10-11 00:00:00,2012-10-11 00:01:00,2012-10-11 00:01:00,"Seat Pleasant, Maryland",RFC,Vandalsim,0,0
+140,2012-10-14 10:36:00,2012-10-14 10:36:00,2012-10-14 10:50:00,2012-10-14 10:50:00,Northern California,WECC,Electrical System Separation (Islanding),3,2035
+141,2012-10-15 14:15:00,2012-10-15 14:15:00,2012-10-15 14:16:00,2012-10-15 14:16:00,Southeast Vermont,NPCC,Vandalism; Theft,0,0
+142,2012-10-22 00:00:00,2012-10-22 00:00:00,2012-10-22 00:01:00,2012-10-22 00:01:00,"Norbeck, Maryland",RFC,Physical Attack; Vandalism,0,0
+143,2012-10-23 09:10:00,2012-10-23 09:10:00,2012-10-23 09:16:00,2012-10-23 09:16:00,"Crawfordsville, Indiana",RFC,Transmission System Interruption,49,9800
+144,2012-10-24 00:00:00,2012-10-24 00:00:00,2012-10-24 00:01:00,2012-10-24 00:01:00,"Kingswood, Maryland",RFC,Physical Attack; Vandalism,0,0
+145,2012-10-24 00:00:00,2012-10-24 00:00:00,2012-10-24 00:01:00,2012-10-24 00:01:00,"Brighton, Maryland",RFC,Suspected Physical Attack,0,0
+146,2012-10-24 15:15:00,2012-10-24 15:15:00,2012-10-24 15:16:00,2012-10-24 15:16:00,"Frankford, Delaware",RFC,Physical Attack; Vandalism,0,0
+147,2012-10-25 00:00:00,2012-10-25 00:00:00,2012-10-25 00:01:00,2012-10-25 00:01:00,"West Lanham, Maryland",RFC,Physical Attack; Vandalism,,
+148,2012-10-25 14:39:00,2012-10-25 14:39:00,2012-10-25 18:00:00,2012-10-25 18:00:00,"Pueblo, Colorado",WECC,Physical Attack; Vandalism,0,0
+149,2012-10-25 18:51:00,2012-10-25 18:51:00,2012-10-25 19:30:00,2012-10-25 19:30:00,"Newark, Delaware",RFC,Physical Attack; Vandalism,0,0
+150,2012-10-29 00:00:00,2012-10-29 00:00:00,2012-11-09 23:59:00,2012-11-09 23:59:00,West Virginia,RFC,Severe Weather - Hurricane Sandy,0,208000
+151,2012-10-29 08:00:00,2012-10-29 08:00:00,2012-11-04 23:00:00,2012-11-04 23:00:00,New Jersey,RFC,Severe Weather - Hurricane Sandy,Unknown,Unknown
+152,2012-10-29 09:00:00,2012-10-29 09:00:00,2012-10-29 09:00:00,2012-10-29 09:01:00,"LaGrande, Washington",WECC,Physical Attack; Vandalism,0,0
+153,2012-10-29 09:00:00,2012-10-29 09:00:00,2012-11-02 00:00:00,18:00:00,"Delaware, Maryland",RFC,Severe Weather - Hurricane Sandy,Unknown,70000
+154,2012-10-29 12:00:00,2012-10-29 12:00:00,2012-11-04 00:00:00,23:00:00,New Jersey,RFC,Severe Weather - Hurricane Sandy,Unknown,217000
+155,2012-10-29 13:00:00,2012-10-29 13:00:00,2012-11-12 14:00:00,2012-11-12 14:00:00,"Long Island, New York",NPCC,Severe Weather - Hurricane Sandy,0,632816
+156,2012-10-29 14:40:00,2012-10-29 14:40:00,2012-10-30 18:16:00,2012-10-30 18:16:00,"Boston, Southeast Massachusetts",NPCC,Severe Weather - Hurricane Sandy,Unknown,50000
+157,2012-10-29 14:45:00,2012-10-29 14:45:00,2012-11-01 01:30:00,2012-11-01 01:30:00,Eastern Massachusetts,NPCC,Severe Weather - Hurricane Sandy,Unknown,50000
+158,2012-10-29 15:00:00,2012-10-29 15:00:00,2012-10-29 15:00:00,2012-10-29 15:01:00,"Las Vegas, Nevada",WECC,Suspected Physical Attack,,
+159,2012-10-29 15:15:00,2012-10-29 15:15:00,2012-11-04 00:00:00,20:00:00,"Connecticut, Western Massachusetts",NPCC,Severe Weather - Hurricane Sandy,0,649075
+160,2012-10-29 16:00:00,2012-10-29 16:00:00,2012-11-07 23:48:00,2012-11-07 23:48:00,Eastern Pennsylvania,RFC,Severe Weather - Hurricane Sandy,0,270000
+161,2012-10-29 16:00:00,2012-10-29 16:00:00,2012-11-08 17:08:00,2012-11-08 17:08:00,Maryland; West Virginia,RFC,Severe Weather - Hurricane Sandy,Unknown,150000
+162,2012-10-29 16:00:00,2012-10-29 16:00:00,2012-11-05 23:59:00,2012-11-05 23:59:00,Greater Cleveland Ohio,RFC,Severe Weather - Hurricane Sandy,0,346000
+163,2012-10-29 16:01:00,2012-10-29 16:01:00,2012-11-08 00:00:00,2012-10-29 19:00:00,"Greater New York City, New York",NPCC,Severe Weather - Hurricane Sandy,0,818000
+164,2012-10-29 16:03:00,2012-10-29 16:03:00,2012-11-06 00:00:00,12:00:00,New Jersey,NPCC,Severe Weather - Hurricane Sandy,Unknown,50000
+165,2012-10-29 16:45:00,2012-10-29 16:45:00,2012-10-31 11:00:00,2012-10-31 11:00:00,New Hampshire,NPCC,Severe Weather - Hurricane Sandy,,50000
+166,2012-10-29 17:13:00,2012-10-29 17:13:00,2012-10-31 00:00:00,11:00:00,Greater Baltimore Maryland,RFC,Severe Weather - Hurricane Sandy,0,219000
+167,2012-10-29 17:30:00,2012-10-29 17:30:00,2012-11-06 00:00:00,2012-11-06 00:00:00,Greater Philadelphia Pennsylvania,RFC,Severe Weather - Hurricane Sandy,Unknown,850000
+168,2012-10-29 18:11:00,2012-10-29 18:11:00,2012-11-04 00:00:00,2012-10-29 22:50:00,Central Pennsylvania,RFC,Severe Weather - Hurricane Sandy,Unknown,400000
+169,2012-10-29 18:12:00,2012-10-29 18:12:00,2012-10-30 19:35:00,2012-10-30 19:35:00,Virginia,RFC,Severe Weather - Hurricane Sandy,520,156000
+170,2012-10-29 18:46:00,2012-10-29 18:46:00,2012-11-03 00:00:00,2012-10-29 10:45:00,Southeast New York; New Jersey,NPCC; RFC,Severe Weather - Hurricane Sandy,Unknown,200000
+171,2012-10-29 18:48:00,2012-10-29 18:48:00,2012-11-04 00:00:00,2012-10-29 11:36:00,New York,NP,Severe Weather - Hurricane Sandy,Unknown,371000
+172,2012-10-29 19:00:00,2012-10-29 19:00:00,2012-11-02 00:00:00,2012-10-29 05:00:00,Indiana; Kentucky; Michigan; Ohio,RFC; SERC,Severe Weather - Nor'easter,Unknown,173273
+173,2012-10-29 19:15:00,2012-10-29 19:15:00,2012-10-30 15:02:00,2012-10-30 15:02:00,Southeast and Seacoast Maine,NPCC,Severe Weather - Hurricane Sandy,Unknown,50000
+174,2012-10-30 00:00:00,2012-10-30 00:00:00,2012-10-30 00:02:00,2012-10-30 00:02:00,"Hyattsville, Maryland",RFC,Physical Attack; Vandalism,0,0
+175,2012-10-30 02:00:00,2012-10-30 02:00:00,2012-11-01 22:00:00,2012-11-01 22:00:00,Greater Detroit Michigan,RFC,Severe Weather - Nor'easter,Unknown,133777
+176,2012-10-30 13:20:00,2012-10-30 13:20:00,2012-10-30 13:25:00,2012-10-30 13:25:00,"Fitzwilliam, New Hampshire",NPCC,Vandalism   ,0,0
+177,2012-10-30 15:00:00,2012-10-30 15:00:00,2012-10-30 15:01:00,2012-10-30 15:01:00,"Pueblo, Colorado",WECC,Physical Attack; Vandalism,Unknown,Unknown
+178,2012-11-02 00:00:00,09:30:00,2012-11-02 00:00:00,12:10:00,"Concord, Vermont",NPCC,Physical Attack; Vandalism,0,0
+179,2012-11-07 00:00:00,14:21:00,2012-11-07 00:00:00,14:48:00,New Hampshire,NPCC,Physical Attack; Vandalism,0,0
+180,2012-11-08 00:00:00,09:34:00,2012-11-08 00:00:00,09:35:00,"Bishopville, Maryland",RFC,Physical Attack; Vandalism,0,0
+181,2012-11-15 00:00:00,05:38:00,2012-11-15 00:00:00,05:39:00,Southeast Massachusetts,NPCC,Physical Attack; Vandalism,0,0
+182,2012-11-15 00:00:00,21:09:00,2012-11-15 00:00:00,21:26:00,Iowa; Michigan,MRO,Suspected Cyber Attack,Unknown,Unknown
+183,2012-11-17 00:00:00,10:00:00,2012-11-18 00:00:00,10:00:00,"Comanche Peak, Texas",TRE,Fuel Supply Deficiency,1231,0
+184,2012-11-21 00:00:00,14:50:00,2012-11-21 00:00:00,14:51:00,"Bethany Beach, Delaware",RFC,Physical Attack; Vandalism,,
+185,2012-11-26 00:00:00,12:37:00,2012-11-26 00:00:00,12:38:00,"Frankfort, Delaware",RFC,Physical Attack; Vandalism,0,0
+186,2012-11-26 00:00:00,15:07:00,2012-11-26 00:00:00,15:08:00,"Georgetown, Delaware",RFC,Physical Attack; Vandalism,,
+187,2012-11-27 00:00:00,13:07:00,2012-11-27 00:00:00,13:40:00,New Hampshire,NPCC,Physical Attack; Vandalism,0,0
+188,2012-12-02 00:00:00,05:20:00,2012-12-04 00:00:00,09:00:00,Northern California,WECC,Severe Weather - Winter Storm,250,125000
+189,2012-12-03 00:00:00,12:02:00,2012-12-03 00:00:00,12:30:00,"Tacoma, Washington",WECC,Suspected Physical Attack,0,0
+190,2012-12-06 00:00:00,21:18:00,2012-12-06 00:00:00,21:31:00,"Greater San Jose, California",WECC,Load Shed,390,Unknown
+191,2012-12-17 00:00:00,06:55:00,2012-12-17 00:00:00,07:00:00,"Tacoma, Washington",WECC,Suspected Physical Attack,0,0
+192,2012-12-25 00:00:00,00:45:00,2012-12-28 00:00:00,16:15:00,Arkansas; Louisiana; Mississippi; Texas ,SPP,Severe Weather - Winter Storm,Unknown,242509
+193,2012-12-25 00:00:00,09:28:00,2012-12-26 00:00:00,16:28:00,"Houston, Texas",TRE,"Severe Weather - Cold Front, High Winds",294,262000
+194,2012-12-26 00:00:00,14:50:00,2012-12-26 00:00:00,19:40:00,"Stantonsburg, North Carolina",SERC,Severe Weather - Thunderstorm,3,1200
+195,2012-12-31 00:00:00,14:21:00,2012-12-31 00:00:00,16:30:00,North Carolina,SERC,Transmission Interruption,40,12000

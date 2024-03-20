@@ -1,0 +1,150 @@
+,Date,NERC,Event,Area,Disturbance,Loss,Affected Customers,Restoration Date
+0,2008-01-04 00:00:00,WECC,4:00 a.m.,Northern California,Winter Storm,500,2606931,2008-01-14 17:00:00
+1,2008-01-04 00:00:00,WECC,7:47 a.m.,Sacramento County,Severe Storm,300,150000,2008-01-04 16:30:00
+2,2008-01-29 00:00:00,WECC,5:00 a.m.,"San Francisco Bay Area, California",Exciter Faulted,,-,2008-01-29 12:17:00
+3,2008-01-29 00:00:00,SERC,4:00 p.m.,"Arkansas, Mississippi, North Louisiana",Severe Thunderstorms,,110000,2008-02-03 08:00:00
+4,2008-01-29 00:00:00,RFC,10:00 p.m.,Southeastern Michigan,Wind/Ice Storm,,86915,2008-02-01 18:30:00
+5,2008-01-29 00:00:00,RFC,11:23 p.m.,"South Metropolitan Areas of Dayton, OHio",High Winds,380,45000,2008-01-30 00:48:00
+6,2008-01-30 00:00:00,NPCC,3:06 a.m.,"Western, New York",High Winds,50,54316,2008-02-01 14:50:00
+7,2008-02-01 00:00:00,WECC,6:00 a.m.,"San Francisco Bay Area, California",Equipment Faulted,,-,2008-02-01 07:49:00
+8,2008-02-02 00:00:00,WECC,3:58 a.m.,"San Francisco Bay Area, California",Equipment Faulted,,-,2008-02-02 16:27:00
+9,2008-02-05 00:00:00,SERC,10:00 p.m.,State of Kentucky,Severe Weather,,76000,2008-02-06 03:00:00
+10,2008-02-06 00:00:00,SERC,9:00 a.m.,Mid to West Tennessee,Severe Weather,,57000,2008-02-06 11:00:00
+11,2008-02-09 00:00:00,WECC,11:59 a.m.,"Near Arnold, California",Electrical System Separation,0,0,2008-02-09 15:33:00
+12,2008-02-10 00:00:00,RFC,4:00 a.m.,"Southwestern Pennsylvania, West Virginia, Virginia, Maryland",Severe Weather,412,100969,2008-02-12 20:43:00
+13,2008-02-10 00:00:00,RFC,11:00 a.m.,"Virginia, West Virginia, Ohio, Pennsylvania",High Winds,,212560,2008-02-10 23:36:00
+14,2008-02-10 00:00:00,RFC,11:00 a.m.,Virginia and West Virginia Area of AEP,High Winds,,97342,2008-02-14 17:05:00
+15,2008-02-10 00:00:00,SERC,2:06 p.m.,Dominion Service Territory,High Winds,170,114618,2008-02-10 23:36:00
+16,2008-02-10 00:00:00,SERC,6:02 p.m.,"Greenboro, North Carolina and I-40 Corridor",High Winds,300,50718,2008-02-11 04:00:00
+17,2008-02-12 00:00:00,SERC,3:00 p.m.,"Arkansas, Mississippi, Louisiana",Severe Weather,,54000,2008-02-15 17:00:00
+18,2008-02-13 00:00:00,NPCC,6:43 p.m.,State of Maine,Ice Storm,50,50462,2008-02-14 12:00:00
+19,2008-02-14 00:00:00,WECC,8:15 a.m.,Utah,Load Shedding,2818,74031,2008-02-14 10:46:00
+20,2008-02-15 00:00:00,WECC,3:06 p.m.,"Antioch, California",Electrical System Separation,10,10008,2008-02-15 19:36:00
+21,2008-02-25 00:00:00,RFC,8:00 a.m.,Restricted Coal Capability,Fuel Supply Deficiency,,0,2008-03-12 08:00:00
+22,2008-02-26 00:00:00,SERC,5:00 a.m.,Southern Service Area/Alabama and Georgia,Thunderstorms,484,145380,2008-02-26 15:00:00
+23,2008-02-26 00:00:00,FRCC,1:09 p.m.,Various Cities in Florida,Under Frequency/Load Shedding,140,47661,2008-02-26 14:10:00
+24,2008-02-26 00:00:00,FRCC,1:09 p.m.,Tampa Electric Service Territory,Under Frequency/Load Shedding,318,53965,2008-02-26 14:40:00
+25,2008-02-26 00:00:00,FRCC,1:09 p.m.,Primary Dade County Florida,Transmission Equipment Failure,3200,584384,2008-02-26 16:11:00
+26,2008-02-26 00:00:00,FRCC,1:09 p.m.,FRCC Region-West Coast Florida,Shed Firm Load,120,56000,2008-02-26 13:47:00
+27,2008-02-26 00:00:00,FRCC,1:10 p.m.,"The entire PEF system was affected, including the following counties: Alachua, Bay, Citrus, Columbia, Dixie, Franklin, Gilchrist, Gulf, Hamilton, Hardee, Hernando, Highlands, Jefferson, Lafayette, Lake, Levy, Madison, Marion, Orange, Osecola, Pasco, Pinellas, Polk, Seminole, Sumter, Suwannee, Taylor, Volusia, Wakulla.",Under Frequency/Load Shedding,500,150000,2008-02-26 15:45:00
+28,2008-03-04 00:00:00,SERC,9:30 p.m.,North and South Carolina,Thunderstorms,300,55267,2008-03-04 22:45:00
+29,2008-03-08 00:00:00,SERC,2:14 p.m.,Virginia and Eastern Part of North Carolina,Windstorm,210,141130,2008-03-08 21:59:00
+30,2008-03-08 00:00:00,RFC,4:00 p.m.,"Chester, Montgomery, Delaware, Philadelphia and Bucks County, Pennsylvania",Severe Weather,,168449,2008-03-10 13:44:00
+31,2008-03-15 00:00:00,SERC,8:55 p.m.,Parts of Alabama and Georgia,Major Storm,200,157744,2008-03-16 20:30:00
+32,2008-04-04 00:00:00,SERC,12:31 p.m.,"Arkansas, North Louisiana, Mississippi",Severe Thunderstorms,,122600,2008-04-04 17:00:00
+33,2008-04-09 00:00:00,TRE,4:00 p.m.,"North, Central and East Texas",Severe Weather,,488689,2008-04-13 01:15:00
+34,2008-05-08 00:00:00,WECC,10:21 a.m.,California,Load Shedding,483,0,2008-05-08 00:56:00
+35,2008-05-11 00:00:00,SERC,6:00 a.m.,Georgia,Severe Thunderstorms,100,80539,2008-05-12 14:30:00
+36,2008-05-11 00:00:00,RFC,4:50 p.m.,"City of Crawfordsville, Indiana",Electric System Separation,47,9700,2008-05-11 20:43:00
+37,2008-05-12 00:00:00,RFC,12:01 a.m.,"Cape May, Cumberland, Gloucester, Salem, Camden, Atlantic, Burliington  Counties, New Jersey",Severe Storm,55,135000,2008-05-14 00:00:00
+38,2008-05-27 00:00:00,NPCC,2:02 p.m.,South West Connecticut,Lightning Storm,130,56400,2008-05-27 15:52:00
+39,2008-05-30 00:00:00,RFC,9:30 a.m.,Northern and Western Counties of Illinois,Severe Storms,,109000,2008-05-30 23:00:00
+40,2008-05-30 00:00:00,SERC,2:05 p.m.,South Louisiana,"Load Shedding, Inadequate Electric Resources to Serve Load",200-250,,2008-05-30 20:00:00
+41,2008-05-30 00:00:00,RFC,10:00 p.m.,"Northeastern Marion County, Indiana",Severe Thunderstorms,,70000,2008-06-04 23:59:00
+42,2008-06-03 00:00:00,RFC,5:00 p.m.,"Maryland, West Virginia, Virginia",Severe Weather,634,157168,2008-06-07 23:00:00
+43,2008-06-04 00:00:00,RFC,3:00 p.m.,"Montgomery, Prince Georges,  Maryland, Washington, D.C.",Lightning Storm,,249408,2008-06-05 01:00:00
+44,2008-06-04 00:00:00,RFC,3:00 p.m.,Entire BGE Service Territory,Severe Storms,,108000,2008-06-07 05:30:00
+45,2008-06-04 00:00:00,SERC,3:04 p.m.,Northern Virginia,Thunderstorms,850,253800,2008-06-05 21:30:00
+46,2008-06-04 00:00:00,PR,3:14 p.m.,Island of Puerto Rico,Load Shedding/Voltage Reduction,90,100948,2008-06-04 15:46:00
+47,2008-06-06 00:00:00,RFC,3:18 p.m.,Lower 2/3 of Michigan's Lower Peninsula,Lightning Storm,100,358000,2008-06-12 08:00:00
+48,2008-06-08 00:00:00,RFC,9:30 a.m.,The Entire ComEd Territory,Severe Weather,,125000,2008-06-09 07:00:00
+49,2008-06-08 00:00:00,RFC,6:00 p.m.,Southwestern Michigan (DECO Service Territory),Severe Storm,500,150000,2008-06-16 23:30:00
+50,2008-06-09 00:00:00,SERC,2:00 p.m.,Entergy System,Indequate Electric Resources to Serve Load,300,19,2008-06-09 19:00:00
+51,2008-06-09 00:00:00,RFC,2:52 p.m.,"Area Around West Orange Switching Station, New Jersey",Fire/Breaker Failure,215,75654,2008-06-09 20:25:00
+52,2008-06-10 00:00:00,NPCC,11:00 a.m.,Upstate New York,Severe Storm,400,68000,2008-06-13 17:30:00
+53,2008-06-10 00:00:00,SERC,2:00 p.m.,Entergy System,Inadequate Electric Resources to Serve Load,300,19,2008-06-10 18:00:00
+54,2008-06-10 00:00:00,RFC,6:00 p.m.,"Bergen, Essex and Hudson Counties, New Jersey",Severe Storms,,248800,2008-06-14 11:30:00
+55,2008-06-10 00:00:00,RFC,7:00 p.m.,"Chester, Montgomery, Delaware, Philadelphia and Bucks County, Pennsylvania",Severe Thunderstorms,,198000,2008-06-14 15:59:00
+56,2008-06-10 00:00:00,NPCC,11:00 p.m.,All Six New England States,Storm,50,60000,2008-06-11 09:00:00
+57,2008-06-11 00:00:00,NPCC,1:15 p.m.,New York State,Uncontrolled Loss,200,61000,2008-06-11 14:05:00
+58,2008-06-12 00:00:00,RFC,3:30 p.m.,East Central Iowa,Flooding and Uncontrolled Loss,200,21000,2008-06-18 16:00:00
+59,2008-06-15 00:00:00,RFC,8:00 a.m.,The Entire ComEd Territory,Severe Weather,,165000,2008-06-15 20:00:00
+60,2008-06-15 00:00:00,RFC,7:06 p.m.,"City of Crawfordsville, Indiana",Electrical System Separation,57,9700,2008-06-15 20:42:00
+61,2008-06-16 00:00:00,SERC,4:15 p.m.,Northern Virginia,Thunderstorms,"800-1,000",115000,2008-06-16 23:19:00
+62,2008-06-17 00:00:00,TRE,9:01 a.m.,"North, Central and East Texas",Severe Thunderstorms,,234393,2008-06-19 20:30:00
+63,2008-06-17 00:00:00,SPP,8:35 p.m.,Southwestern Public Service Company Operating in the Panhandle of Texas and New Mexico,Electrical System Separation/Severe Thunderstorms,560,18000,2008-06-18 01:55:00
+64,2008-06-17 00:00:00,TRE,8:40 p.m.,"Texas Panhandle and Texas South Plains Regions, and Oklahoma Panhandle",Thunderstorms/Uncontrolled Loss of Load,276,37330,2008-06-17 23:00:00
+65,2008-06-21 00:00:00,WECC,3:09 p.m.,"Near Rogers Flat, California",Electrical System Separation/Severe Lightning Storms,3,477,2008-06-21 18:53:00
+66,2008-06-22 00:00:00,RFC,4:55 p.m.,Northwest Indiana,Lightning Stirke/Uncontrolled Loss of Load,650,,2008-06-22 17:05:00
+67,2008-06-23 00:00:00,RFC,1:44 p.m.,Northcentral Indiana,Fire/Breaker Failure,425,,2008-06-23 13:45:00
+68,2008-06-23 00:00:00,FRCC,4:52 p.m.,"Pinellas County, Florida",Transmission Equipment Failure/Load Shedding,113,32593,2008-06-23 23:28:00
+69,2008-06-26 00:00:00,RFC,5:00 p.m.,Southeastern Michigan (DTE Service Territory),Thunderstorms,,53000,2008-06-26 21:30:00
+70,2008-06-27 00:00:00,MRO,4:30 p.m.,"Omaha, Nebraska (Metro Area)",Severe Wind Storm,650,126000,2008-06-27 17:30:00
+71,2008-07-01 00:00:00,WECC,7:31 a.m.,"San Francisco Bay Area, California",Unit Tripped,160,-,2008-07-01 12:00:00
+72,2008-07-02 00:00:00,RFC,3:00 p.m.,Lower 2/3 of Michigan's Lower Peninsula,Severe Weather,125,239663,2008-07-06 12:00:00
+73,2008-07-02 00:00:00,WECC,4:00 p.m.,Restricted Hydroelectric Capability,Fuel Supply Deficiency,-,-,2008-07-02 00:00:00
+74,2008-07-02 00:00:00,WECC,7:16 p.m.,"Santa Barbara County, California, near Goleta",Wild Land Fire,208,200000,2008-07-02 23:28:00
+75,2008-07-02 00:00:00,WECC,7:36 p.m.,Goleta and Santa Barbara Areas of Southern California,Brush Fire/Lines Loss/Transmission Emergency Declared,119,37784,2008-07-03 01:10:00
+76,2008-07-02 00:00:00,RFC,8:00 p.m.,Southeastern Michigan (DTE Service Territory),Thunderstorms,,56000,2008-07-03 03:00:00
+77,2008-07-07 00:00:00,WECC,12:15 p.m.,ISO Balancing Area,Heat Wave/Potential Fire Threat/Made Public Appeals,0,0,2008-07-10 17:00:00
+78,2008-07-10 00:00:00,WECC,2:22 p.m.,"San Francisco Bay Area, California",Unit Tripped,240,-,2008-07-10 17:21:00
+79,2008-07-21 00:00:00,MRO,12:49 a.m.,"Sioux City, Carroll, Des Moines, Iowa City, and Davenport Iowa, Rock Island, Moline, and Surrounding Area of Illinois",Storm,170,185000,2008-07-22 18:00:00
+80,2008-07-22 00:00:00,RFC,3:00 a.m.,Indiana,Severe Thunderstorms,,58000,2008-07-24 19:32:00
+81,2008-07-22 00:00:00,RFC,3:00 a.m.,Southwest Ohio,Severe Thunderstorms,,56000,2008-07-23 03:30:00
+82,2008-07-22 00:00:00,SPP,2:00 p.m.,Texas Panhandle and Southeastern New Mexico,Indequate Electric Resources to Serve Load/Public Appeal,,-,2008-07-24 05:09:00
+83,2008-07-23 00:00:00,TRE,5:56 a.m.,"Port Isabel, Harlingen, Weslaco, Pharr, San Benito, Mission, McAllen, Edinburg, Texas",Hurricane Dolly,703,211266,2008-07-31 04:00:00
+84,2008-07-24 00:00:00,NPCC,7:23 a.m.,"Bangor Hydro System, northern Maine",Electric System Separation/Severe Lightning Storms,180,110000,2008-07-24 17:41:00
+85,2008-08-02 00:00:00,SERC,8:00 p.m.,Georgia and Alabama,Severe Thunderstorms,400,131115,2008-08-03 05:30:00
+86,2008-08-03 00:00:00,SERC,1:30 a.m.,"Mississippi, Louisiana, Texas",Severe Thunderstorms,,59500,2008-08-03 04:15:00
+87,2008-08-04 00:00:00,RFC,6:00 p.m.,The ComEd Territory,Severe Weather,,653000,2008-08-06 08:00:00
+88,2008-08-05 00:00:00,RFC,3:00 a.m.,Northwest Indiana,Severe Storms,0,63000,2008-08-05 09:50:00
+89,2008-08-09 00:00:00,SPP,12:00 p.m.,Texas Panhandle and Eastern New Mexico,Declared Energy Emergency Alert 1/Made Public Appeals,0,0,2008-08-09 20:46:00
+90,2008-08-15 00:00:00,WECC,12:52 p.m.,Part of Seattle's Downtown,Made Public Appeals,100,8000,2008-08-15 17:00:00
+91,2008-08-16 00:00:00,TRE,5:23 a.m.,City of Lubbock,Lightning/Transmission Equipment Damage,153,71823,2008-08-16 07:30:00
+92,2008-08-16 00:00:00,PR,8:14 a.m.,Island of Puerto Rico,Shed Firm Load/Voltage Reduction,300,200000,2008-08-16 15:00:00
+93,2008-08-18 00:00:00,PR,7:22 p.m.,North Part of Island,Shed Firm Load,225,100000,2008-08-19 18:44:00
+94,2008-08-19 00:00:00,FRCC,9:29 a.m.,Florida,Tropical Storm Fay,,101950,2008-08-22 22:00:00
+95,2008-08-21 00:00:00,FRCC,7:00 p.m.,"Alachua, Bay, Brevard, Citrus, Columbia, Dixie, Flagler, Franklin, Gilchrist, Gulf, Hamilton, Hardee, Hernando, Highlands, Jefferson, Lafayette, Lake, Leon, Levy, Madison, Marion, Orange, Osceola, Pasco, Pinellas, Polk, Seminole, Sumter,  Suwannee, Taylor, Volusia and Wakulla Counties in Florida",Tropical Storm Fay,,430000,2008-08-25 08:00:00
+96,2008-08-22 00:00:00,RFC,12:00 p.m.,-,Fuel Supply Emergency-Low Coal Inventory Levels,0,0,2008-08-23 12:00:00
+97,2008-08-24 00:00:00,SERC,4:30 a.m.,Georgia and Alabama,Tropical Storm Fay,110,87390,2008-08-24 14:00:00
+98,2008-08-31 00:00:00,SERC,7:30 a.m.,"Plaquemine, Louisiana",Fuel Supply Curtailed,200,0,2008-09-19 09:00:00
+99,2008-08-31 00:00:00,SERC,7:00 p.m.,"Louisiana, Mississippi, Arkansas",Hurricane Gustav,,964000,2008-09-03 09:00:00
+100,2008-09-01 00:00:00,SERC,10:30 a.m.,Primarily South and Central Louisiana,Hurricane Gustav,400,150000,2008-09-13 19:22:00
+101,2008-09-01 00:00:00,SERC,11:45 a.m.,"Bayou Division and North Lake Division, Louisiana",Hurricane Gustav,,246092,2008-09-10 16:00:00
+102,2008-09-06 00:00:00,SERC,7:45 a.m.,Eastern North Carolina,Tropical Storm Hanna,,57000,2008-09-06 10:30:00
+103,2008-09-06 00:00:00,SERC,2:15 p.m.,North East North Carolina and Virginia,Tropical Storm Hanna,220,64463,2008-09-06 16:06:00
+104,2008-09-08 00:00:00,WECC,10:03 p.m.,A.D. Edmonston Pumping Plant,Fuel Supply Deficiency,300,0,2008-09-09 00:28:00
+105,2008-09-12 00:00:00,SERC,5:45 a.m.,"Primarily Southeast Texas, Louisiana, and Arkansas",Hurricane Ike,,705000,2008-09-14 13:00:00
+106,2008-09-12 00:00:00,TRE,6:21 p.m.,Greater Houston-Galveston Metro Area,Hurricane Ike,8087,2142678,2008-10-01 23:59:00
+107,2008-09-12 00:00:00,TRE,6:21 p.m.,Greater Houston Area-Eastern Region of ERCOT,Hurricane Ike,,2504366,2008-10-01 23:59:00
+108,2008-09-12 00:00:00,TRE,8:00 p.m.,Galveston and Brazoria Counties,Hurricane Ike,650,113247,2008-09-27 19:00:00
+109,2008-09-13 00:00:00,SERC,10:24 a.m.,Southwest Louisiana,Hurricane Ike,40,50000,2008-09-27 14:40:00
+110,2008-09-13 00:00:00,TRE,12:00 p.m.,"North, Central and East Texas",Hurricane Ike,,238392,2008-09-15 08:00:00
+111,2008-09-13 00:00:00,SPP,4:00 p.m.,Texas and Louisana,Hurricane Ike,,184501,2008-09-16 19:44:00
+112,2008-09-14 00:00:00,RFC,6:30 a.m.,"Ohio, Kentucky, Indiana",Tropical Depression Ike,,875000,2008-09-14 14:38:00
+113,2008-09-14 00:00:00,MRO,7:30 a.m.,Missouri and Illinois,Hurricane Ike,,107000,2008-09-18 15:00:00
+114,2008-09-14 00:00:00,RFC,10:01 a.m.,"City of Owensboro, Kentucky",High Winds,70,18000,2008-09-21 17:00:00
+115,2008-09-14 00:00:00,RFC,11:30 a.m.,State of Kentucky,Tropical Depression Ike,,375000,2008-09-14 16:30:00
+116,2008-09-14 00:00:00,RFC,2:00 p.m.,Dayton Ohio Area,Hurricane Ike,1000,95000,2008-09-17 12:00:00
+117,2008-09-14 00:00:00,RFC,4:00 p.m.,"Northern Indiana, Central and Central Southern Ohio",Wind Storm,,650000,2008-09-20 23:00:00
+118,2008-09-14 00:00:00,RFC,5:00 p.m.,Western Pennsylvania,Wind Storm,72,124596,2008-09-19 12:38:00
+119,2008-09-14 00:00:00,RFC,5:00 p.m.,"Southern, Eastern, and Central Ohio",Wind Storm,469,564728,2008-09-22 17:11:00
+120,2008-09-14 00:00:00,RFC,5:00 p.m.,Northeast Ohio,Wind Storm,430,245164,2008-09-22 03:20:00
+121,2008-09-14 00:00:00,RFC,7:00 p.m.,Allegheny and Beaver Counties in Pennsylvania,Tropical Depression Ike,600,105000,2008-09-14 23:59:00
+122,2008-09-15 00:00:00,RFC,12:37 a.m.,Western Pennsylvania,Tropical Depression Ike,546,160875,2008-09-19 16:30:00
+123,2008-09-22 00:00:00,PR,5:49 p.m.,Island of Puerto Rico,Shed Firm Load,125,43600,2008-09-22 06:39:00
+124,2008-09-30 00:00:00,WECC,2:02 p.m.,"Plumas County, California",Electrical System Separation,30,10000,2008-09-30 14:05:00
+125,2008-10-02 00:00:00,SERC,2:50 p.m.,Louisiana,Load Shedding,200,0,2008-10-02 09:50:00
+126,2008-10-25 00:00:00,NPCC,11:00 p.m.,Connecticut,Severe Storm,,52000,2008-10-27 07:00:00
+127,2008-11-07 00:00:00,WECC,11:13 a.m.,Goleta and Santa Barbara Areas of Southern California,Load Shedding,250,140000,2008-11-07 11:54:00
+128,2008-11-07 00:00:00,WECC,11:15 a.m.,Southern California,Load Shedding,430,400000,2008-11-07 11:54:00
+129,2008-11-11 00:00:00,PR,8:30 a.m.,Island of Puerto Rico,Shed Firm Load,250,261000,2008-11-11 00:19:00
+130,2008-11-15 00:00:00,WECC,9:39 a.m.,City of Los Angeles,Brush Fire/Shed Firm Load,211,115500,2008-11-15 10:10:00
+131,2008-12-02 00:00:00,Midwest ISO (RFC,4:30 a.m.,"St. Louis, Missouri",Fire/Load Shedding,135,53000,2008-12-02 07:00:00
+132,2008-12-09 00:00:00,RFC,5:27 p.m.,Central New Jersey,Lines Loss/Transmission,438,156729,2008-12-10 04:12:00
+133,2008-12-10 00:00:00,WECC,5:09 p.m.,Southern Oregon,Equipment Failure/Made Public Appeal,32,3,2008-12-10 20:29:00
+134,2008-12-11 00:00:00,SERC,9:00 a.m.,"Southern Louisiana, Southern and Central Mississippi",Snow Storm,,91300,2008-12-13 23:59:00
+135,2008-12-11 00:00:00,NPCC,6:00 p.m.,Northern Dutchess County and Western Ulster County in the Mid-Hudson Region of New York State,Ice Storm,,60000,2008-12-15 00:00:00
+136,2008-12-12 00:00:00,NPCC,1:00 a.m.,New England,Ice Storm,,970000,2008-12-22 00:00:00
+137,2008-12-12 00:00:00,NPCC,2:38 a.m.,Eastern New York,Ice Storm,200,190000,2008-12-19 13:24:00
+138,2008-12-12 00:00:00,NPCC,8:45 a.m.,Southern and Central Maine,Ice Storm,,169757,2008-12-14 09:52:00
+139,2008-12-13 00:00:00,WECC,3:30 p.m.,Humboldt Area of California,Declared Stage 1 Electric Emergency/Made Public Appeal,5,0,2008-12-21 09:17:00
+140,2008-12-19 00:00:00,WECC,1:02 a.m.,"East of Oroville, California",Electrical System Separation,1,638,2008-12-19 06:17:00
+141,2008-12-19 00:00:00,RFC,8:30 a.m.,"Indiana, Michigan and Northwest Ohio",Ice Storm,,140000,2008-12-22 12:00:00
+142,2008-12-19 00:00:00,RFC,9:00 a.m.,Northwest Indiana,Ice Storm,,50000,2008-12-20 08:20:00
+143,2008-12-26 00:00:00,WECC,11:40 a.m.,"Orangevale Area of Sacramento, California",Load Shedding,110,50000,2008-12-26 15:34:00
+144,2008-12-26 00:00:00,HI,6:13 p.m.,"Island of Oahu, Hawaii",Lightning,1060,294000,2008-12-27 17:00:00
+145,2008-12-27 00:00:00,RFC,4:00 p.m.,Southeastern Michigan,Wind Storm,,247847,2008-01-01 23:30:00
+146,2008-12-28 00:00:00,RFC,4:45 a.m.,Michigan Lower Peninsula,Wind Storm,,210517,2008-12-31 18:00:00
+147,2008-12-28 00:00:00,RFC,11:45 a.m.,Michigan Lower Peninsula,Wind Storm,,230000,2008-12-28 23:30:00
+148,2008-12-30 00:00:00,RFC,4:02 p.m.,"Crawfordsville, Indiana",Shed Firm Load,41,9700,2008-12-30 16:37:00

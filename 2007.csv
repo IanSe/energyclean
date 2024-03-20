@@ -1,0 +1,79 @@
+,Date,NERC,Event,Area,Disturbance,Loss,Affected Customers,Restoration Date
+0,2007-01-05 00:00:00,PR,10:44 a.m.,Island of Puerto Rico,Voltage Reduction,0,0,2007-01-05 11:13:00
+1,2007-01-13 00:00:00,MRO,5:00 a.m.,Missouri and Illinois,Ice Storm,,225000,2007-01-19 12:00:00
+2,2007-01-13 00:00:00,RFC,7:30 a.m.,Eastern and Lower Michigan,Ice Storm,500,129607,2007-01-19 16:00:00
+3,2007-01-16 00:00:00,WECC,2:00 a.m.,"Snohomish County, Washington",Major Windstorm,260,110433,2007-01-17 00:00:00
+4,2007-02-13 00:00:00,RFC,2:00 p.m.,Indiana and Southwest Ohio,Ice/Wind Storm,250,367500,2007-02-16 00:00:00
+5,2007-02-13 00:00:00,RFC,5:00 p.m.,Central Maryland,Winter Storm,400,155183,2007-02-17 05:30:00
+6,2007-02-24 00:00:00,MRO,4:00 p.m.,"NE quarter of State of Iowa and Rock Island, Illinois",Ice Storm,210,75000,2007-03-04 00:57:00
+7,2007-02-24 00:00:00,MRO,6:00 p.m.,Central Iowa and Cedar Rapids areas,Ice Storm,400,140000,2007-02-24 23:47:00
+8,2007-02-24 00:00:00,RFC,7:23 p.m.,"Cedar Rapids, Iowa",Ice Storm,750,215000,2007-02-25 00:47:00
+9,2007-02-28 00:00:00,WECC,12:45 a.m.,Northern California,Winter Storm,110,671189,2007-03-02 20:45:00
+10,2007-03-01 00:00:00,SERC,9:40 p.m.,"Parts of Alabama, Mississippi, Georgia, Florida",Major Storm,95,25445,2007-03-02 23:30:00
+11,2007-03-31 00:00:00,ERCOT,7:30 a.m.,"Houston, Texas",Severe Thunderstorms,179,67000,2007-03-31 19:00:00
+12,2007-04-05 00:00:00,NPCC,9:20 p.m.,Southern and Coastal Maine,Heavy Snow Storm,-,117142,2007-04-06 13:10:00
+13,2007-04-12 00:00:00,WECC,12:32 a.m.,"City of Los Angeles, California",High Winds,200,158977,2007-04-12 21:02:00
+14,2007-04-12 00:00:00,WECC,9:09 a.m.,"San Francisco Bay Area, California",Trip of a Unit,130,-,2007-04-12 11:23:00
+15,2007-04-14 00:00:00,NPCC,9:00 a.m.,"Massachusetts, New Hampshire, Rhode Island",High Winds,65-80,70000,2007-04-14 11:00:00
+16,2007-04-16 00:00:00,NPCC,8:00 a.m.,New Hampshire,Severe Thunderstorms,-,102568,2007-04-16 19:00:00
+17,2007-04-16 00:00:00,NPCC,10:14 a.m.,Southern and Coastal Maine,Heavy Snow Storm,-,127545,2007-04-18 22:18:00
+18,2007-04-16 00:00:00,SERC,11:00 a.m.,North and South Carolina,HIgh Winds,-,33000,2007-04-16 19:00:00
+19,2007-04-16 00:00:00,RFC,2:00 p.m.,Central Maryland - Baltimore City and surrounding Counties,Severe Thunderstorms,160,138000,2007-04-18 17:00:00
+20,2007-04-16 00:00:00,SERC,2:04 p.m.,"North, East and Central Virginia/Parts of Northeast North Carolina",High Winds,90,242000,2007-04-16 19:03:00
+21,2007-05-02 00:00:00,ERCOT,1:30 p.m.,"North Texas, Dallas Fort Worth Metroplex and Surrounding Counties, South to Waco and North to Red River",Severe Storms,-,300000,2007-05-03 20:00:00
+22,2007-05-10 00:00:00,WECC,9:57 a.m.,"San Francisco Bay Area, California",Unit Tripped,150,-,2007-05-10 13:47:00
+23,2007-05-14 00:00:00,WECC,11:15 a.m.,"San Francisco Bay Area, California",Unit Tripped,150,-,2007-05-14 13:50:00
+24,2007-05-15 00:00:00,RFC,3:00 p.m.,Southeastern Michigan,Severe Thunderstorms,500,66000,2007-05-17 07:00:00
+25,2007-05-16 00:00:00,NPCC,6:00 p.m.,All of Connecticut,Severe Storm,-,67000,2007-05-19 05:00:00
+26,2007-05-21 00:00:00,WECC,1:48 p.m.,"San Franscisco Bay Area, California",Unit Tripped,140,-,2007-05-21 16:50:00
+27,2007-06-01 00:00:00,WECC,1:00 p.m.,Restricted Hydroelectric Capability,Fuel Supply Deficiency,-,-,2007-06-01 00:00:00
+28,2007-06-05 00:00:00,WECC,10:56 a.m.,Southwest Idaho and Eastern Oregon,Load Shedding,424,80000,2007-06-05 11:51:00
+29,2007-06-27 00:00:00,NPCC,3:41 p.m.,"Northern Manhattan NY (Yorkville) and SW Bronx (Motthaven, Melrose, High Bridge Sections)",Lightning,460,137000,2007-06-27 16:30:00
+30,2007-06-27 00:00:00,NPCC,3:42 p.m.,New York State,Loss of Load,460,-,2007-06-27 16:30:00
+31,2007-06-29 00:00:00,WECC,9:23 a.m.,Metropolitan Phoenix Area,Loss of Load,399,98700,2007-06-29 10:09:00
+32,2007-07-03 00:00:00,WECC,10:59 a.m.,CAISO Controlled Grid,Public Appeal,,,2007-07-05 18:00:00
+33,2007-07-05 00:00:00,RFC,7:00 p.m.,Southeastern Michigan,Severe Storm,-,69000,2007-07-08 07:00:00
+34,2007-07-06 00:00:00,WECC,5:18 p.m.,Southeast Idaho and Eastern Oregon,Electrical Separation/Load Shedding/Made Public Appeal,60,0,2007-07-06 18:20:00
+35,2007-07-10 00:00:00,NPCC,11:00 a.m.,Eastern New York,Major Storms,650,300000,2007-07-12 06:00:00
+36,2007-07-16 00:00:00,WECC,4:17 p.m.,"St. George, Utah",Fire/Load Shedding,306,-,2007-07-16 21:00:00
+37,2007-07-18 00:00:00,RFC,6:00 p.m.,Northern Counties of Illinois,Severe Weather,300,135000,2007-07-19 02:00:00
+38,2007-07-19 00:00:00,RFC,3:00 p.m.,Southwestern Region of Service Territory,Major Storm,-,60000,2007-07-22 23:30:00
+39,2007-07-19 00:00:00,SERC,3:50 p.m.,"North, East and Central Virginia",Major Storms,72,107000,2007-07-19 22:15:00
+40,2007-08-08 00:00:00,SERC,1:00 p.m.,Portions of North Carolina and South Carolina,Made Public Appeal,,,2007-08-08 21:00:00
+41,2007-08-08 00:00:00,RFC,3:56 p.m.,Mid-Altantic Region of PJM,Voltage Reduction/Made Public Appeal,,,2007-08-08 17:59:00
+42,2007-08-09 00:00:00,SERC,12:45 p.m.,Portions of North Carolina and South Carolina,Made Public Appeal,,,2007-08-09 21:00:00
+43,2007-08-09 00:00:00,RFC,2:53 p.m.,"Highland Area of Pittsburgh, Pennsylvania",Severe Thunderstorms,90,55000,2007-08-09 16:11:00
+44,2007-08-10 00:00:00,SERC,12:20 p.m.,Portions of North Carolina and South Carolina,Made Public Appeal,,,2007-08-10 21:00:00
+45,2007-08-13 00:00:00,SERC,1:30 a.m.,State of Missouri,Severe Thunderstorm,,63000,2007-08-14 00:00:00
+46,2007-08-14 00:00:00,SPP,2:00 p.m.,"CSWS Control Area of Southwest Power Pool Parts of Oklahoma, Texas, Louisiana, Arkansas",Declared Energy Emergency Alert2/Heat Wave,20,-,2007-08-14 18:00:00
+47,2007-08-16 00:00:00,SERC,9:30 p.m.,Virginia and Eastern North Carolina - Primarily in Central Virginia,Severe Weather,200,93300,2007-08-17 22:49:00
+48,2007-08-19 00:00:00,SERC,11:34 p.m.,Central and Eastern Virginia,Severe Thunderstorms,100,58500,2007-08-20 01:10:00
+49,2007-08-23 00:00:00,RFC,4:00 p.m.,Northern Illinois,Severe Storms,,629590,2007-08-28 22:49:00
+50,2007-08-24 00:00:00,RFC,6:00 p.m.,Southeastern Michigan,Severe Storm,,75000,2007-08-28 06:30:00
+51,2007-08-29 00:00:00,WECC,1:53 p.m.,Modesto California and the Surrounding Areas,Shed Load,180,26000,2007-08-29 14:57:00
+52,2007-08-29 00:00:00,WECC,4:00 p.m.,CAISO Controlled Grid,Made Public Appeal,,,2007-08-30 18:00:00
+53,2007-08-31 00:00:00,WECC,12:45 p.m.,CAISO Controlled Grid,Declared Energy Emergency Alert 1/Heat wave,,,2007-08-31 20:00:00
+54,2007-09-03 00:00:00,WECC,12:30 p.m.,"San Diego County, Southern Orange County, California",High Temperatures/Made Public Appeals,,,2007-09-03 17:30:00
+55,2007-09-04 00:00:00,WECC,8:30 a.m.,"San Diego County, Southern Orange County, California",High Temperatures/Made Public Appeals,,,2007-09-04 15:30:00
+56,2007-09-05 00:00:00,ERCOT,7:53 a.m.,"Central Texas, ERCOT Grid",Severe Weather/Transmission Fault-Units Tripped,1084,,2007-09-05 13:11:00
+57,2007-09-06 00:00:00,WECC,8:00 p.m.,Hydro Electric System,Fuel Supply Deficiency,,,2007-09-06 00:00:00
+58,2007-09-13 00:00:00,SPP,4:00 a.m.,"Between Galveston and Beaumont, Texas",Hurricane Humberto,,118000,2007-09-14 07:00:00
+59,2007-09-17 00:00:00,RFC,7:01 p.m.,"City of Crawfordsville, Indiana",Electrical System Separation,50,9600,2007-09-17 19:48:00
+60,2007-09-18 00:00:00,MRO,5:14 a.m.,"Minnesota, Wisconsin, North Dakota, South Dakota and Michigan",Electrical System Separation/Load Shedding/ Implemented Emergency Alert/Severe Storms,16,6000,2007-09-18 06:10:00
+61,2007-09-18 00:00:00,MRO,5:15 a.m.,"Minnesota, North Dakota, Manitoba",Electrical System Separation/Load Shedding/ Implemented Emergency Alert/Severe Storms,"8,000-10,000","GRE (1,900) Total 11,175",2007-09-18 06:30:00
+62,2007-09-18 00:00:00,RFC,5:15 a.m.,"Manitoba, Minnesota, North Dakota, Portions of South Dakota and Wisconsin.  Midwest ISO's Market subregions: OTP, NSP, GRE, ALTW, MP",Electrical System Separation/Load Shedding/ Implemented Emergency Alert/ Severe Storms,"8,000-10,000",11175,2007-09-18 00:00:00
+63,2007-09-24 00:00:00,RFC,1:38 p.m.,Southwest Michigan,Unit Tripped,320,,2007-09-24 16:26:00
+64,2007-10-18 00:00:00,WECC,3:00 p.m.,Western Washington,High Winds,,160000,2007-10-22 11:36:00
+65,2007-10-22 00:00:00,WECC,2:01 p.m.,Southern California,Brush Fire/Load Shedding/Implemented Emergency Alert,451,90323,2007-10-22 14:22:00
+66,2007-10-22 00:00:00,WECC,2:05 p.m.,Southern California,Brush Fire/Load Shedding,700,300000,2007-10-22 14:22:00
+67,2007-10-22 00:00:00,WECC,2:06 p.m.,"San Diego County, California",Brush Fire/Load Shedding,199,68780,2007-10-22 14:43:00
+68,2007-10-26 00:00:00,WECC,6:44 a.m.,Southern Califonia,Brush Fire/Load Shedding,280,20345,2007-10-26 10:46:00
+69,2007-10-26 00:00:00,WECC,6:44 a.m.,"Riverside, California",Load Shedding,240,104000,2007-10-26 10:43:00
+70,2007-11-03 00:00:00,NPCC,6:00 p.m.,"Eastern Massachusetts, Rhode Island, Cape Cod",Tropical Storm,100,62843,2007-11-04 06:00:00
+71,2007-12-01 00:00:00,NPCC,6:04 p.m.,State of Maine,Voltage Reduction/Made Public Appeal/Fuel Deficiency,0,0,2007-12-02 22:00:00
+72,2007-12-04 00:00:00,PR,2:16 p.m.,Island of Puerto Rico,Voltage Reduction,0,0,2007-12-04 17:53:00
+73,2007-12-10 00:00:00,SPP,3:08 a.m.,"Tulsa, Oklahoma",Ice Storm,,256663,2007-12-19 08:00:00
+74,2007-12-11 00:00:00,MRO,4:00 a.m.,Eastern half of the State of Kansas,Ice Storm,500,95000,2007-12-20 15:30:00
+75,2007-12-11 00:00:00,PR,8:57 p.m.,Island of Puerto Rico,Voltage Reduction,0,0,2007-12-11 21:22:00
+76,2007-12-23 00:00:00,RFC,1:00 a.m.,The Entire ComEd Service Territory,Severe Storm,,237000,2007-12-23 21:00:00
+77,2007-12-23 00:00:00,RFC,5:30 a.m.,Lower 2/3 of Michigan Lower Peninsula,Winter Storm,50,134288,2007-12-25 18:07:00

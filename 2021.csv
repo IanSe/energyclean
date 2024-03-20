@@ -1,0 +1,388 @@
+,Date,Event,Restoration Date,Restoration Time,Area,NERC,Disturbance,Loss,Affected Customers
+0,2021-01-01 00:00:00,07:04:00,01/01/2021,07:05:00,California: Alameda County;,WECC,Vandalism,0,0
+1,2021-01-02 00:00:00,10:28:00,01/02/2021,10:29:00,California: Butte County;,WECC,System Operations,8,5803
+2,2021-01-04 00:00:00,10:34:00,01/04/2021,10:49:00,Pennsylvania:,RF,Transmission Interruption,6,3825
+3,2021-01-08 00:00:00,01:26:00,01/08/2021,02:45:00,Arkansas: Prairie County;,SERC,Sabotage,Unknown,1908
+4,2021-01-10 00:00:00,22:44:00,01/13/2021,16:00:00,"Texas: Anderson County, Angelina County, Dallas County, Freestone County, Henderson County, Houston County, Leon County, Nacogdoches County, Smith County, Tarrant County;",TRE,Severe Weather,Unknown,188000
+5,2021-01-11 00:00:00,05:00:00,01/11/2021,14:22:00,Louisiana: Texas:,SERC,Severe Weather/Distribution Interruption,Unknown,58000
+6,2021-01-12 00:00:00,23:50:00,01/15/2021,13:00:00,"Washington: Kitsap County, Thurston County, King County, Pierce County, Skagit County, Whatcom County;",WECC,Severe Weather,100,320000
+7,2021-01-12 00:00:00,20:46:00,01/13/2021,16:00:00,"Oregon: Clackamas County, Multnomah County, Washington County;",WECC,Severe Weather,Unknown,94231
+8,2021-01-12 00:00:00,23:49:00,01/14/2021,14:00:00,Washington:,WECC,Severe Weather/Distribution Interruption,150,70000
+9,2021-01-12 00:00:00,20:30:00,Unknown,Unknown,Washington: Snohomish County;,WECC,Severe Weather/Transmission Interruption,200,62000
+10,2021-01-13 00:00:00,03:43:00,01/13/2021,16:00:00,Washington: Idaho:,WECC,Severe Weather,185,70417
+11,2021-01-13 00:00:00,13:05:00,01/13/2021,13:06:00,Georgia: Houston County;,SERC,Vandalism,0,0
+12,2021-01-15 00:00:00,17:48:00,01/15/2021,18:55:00,Missouri:,SERC,System Operations,0,0
+13,2021-01-18 00:00:00,14:07:00,01/18/2021,14:42:00,Connecticut:,NPCC,System Operations,0,0
+14,2021-01-19 00:00:00,09:31:00,01/21/2021,14:36:00,"California: Kern County, Los Angeles County, Riverside County, San Bernardino County, Ventura County, Orange County;",WECC,Severe Weather,Unknown,173746
+15,2021-01-19 00:00:00,02:48:00,01/20/2021,11:41:00,California:,WECC,Severe Weather,411,124888
+16,2021-01-21 00:00:00,00:00:00,02/03/2021,16:55:00,Texas: Louisiana: Arkansas: Pulaski County; Mississippi:,TRE,Vandalism,0,0
+17,2021-01-23 00:00:00,07:00:00,01/27/2021,13:45:00,Georgia: Laurens County;,SERC,Cyber Event,29,Unknown
+18,2021-01-23 00:00:00,07:45:00,01/23/2021,08:00:00,"California: Placer County, Nevada County;",WECC,Suspicious Activity,45,0
+19,2021-01-26 00:00:00,20:49:00,01/28/2021,21:14:00,California:,WECC,Severe Weather,841,255715
+20,2021-01-27 00:00:00,12:30:00,01/27/2021,16:18:00,New Hampshire: Hillsborough County;,NPCC,Vandalism,0,0
+21,2021-01-28 00:00:00,10:15:00,01/28/2021,16:46:00,New Hampshire: Hillsborough County;,NPCC,Vandalism,0,0
+22,2021-02-01 00:00:00,23:25:00,02/02/2021,01:12:00,Texas: Kleberg County;,TRE,Transmission Interruption,13,6102
+23,2021-02-02 00:00:00,12:34:00,02/02/2021,15:43:00,South Dakota: Hughes County;,MRO,Severe Weather/Transmission Interruption,5,4
+24,2021-02-02 00:00:00,09:25:00,02/03/2021,11:38:00,South Dakota: Hughes County;,MRO,Severe Weather/Transmission Interruption,5,3
+25,2021-02-03 00:00:00,14:22:00,02/04/2021,22:32:00,"North Dakota: Logan County, Emmons County, McIntosh County;",MRO,Transmission Interruption,7,1400
+26,2021-02-05 00:00:00,09:43:00,02/05/2021,11:19:00,Arkansas: Arkansas County;,SERC,Vandalism,0,0
+27,2021-02-06 00:00:00,06:50:00,02/06/2021,14:43:00,Ohio: Kentucky:,RF,Transmission Interruption,0,0
+28,2021-02-07 00:00:00,06:57:00,02/07/2021,07:34:00,Texas: Cameron County;,TRE,Suspicious Activity,0,0
+29,2021-02-08 00:00:00,07:04:00,02/08/2021,14:10:00,Minnesota: St. Louis County;,MRO,Transmission Interruption,0,0
+30,2021-02-08 00:00:00,18:19:00,02/08/2021,18:29:00,New Hampshire: Hillsborough County;,NPCC,System Operations,0,0
+31,2021-02-09 00:00:00,13:00:00,02/10/2021,14:21:00,Oregon: Tillamook County;,WECC,Vandalism,0,0
+32,2021-02-09 00:00:00,10:51:00,Unknown,Unknown,North Carolina:,SERC,Transmission Interruption,0,0
+33,2021-02-10 00:00:00,15:00:00,02/23/2021,15:00:00,Texas:,TRE,Severe Weather,Unknown,2000000
+34,2021-02-11 00:00:00,08:30:00,02/22/2021,09:00:00,Illinois: Scott County;,SERC,Fuel Supply Deficiency,Unknown,Unknown
+35,2021-02-11 00:00:00,19:21:00,02/11/2021,21:20:00,Colorado: Morgan County;,WECC,Transmission Interruption,0,0
+36,2021-02-11 00:00:00,13:00:00,Unknown,Unknown,Kansas:,MRO,Fuel Supply Deficiency,0,0
+37,2021-02-12 00:00:00,21:00:00,02/20/2021,17:15:00,"Oregon: Clackamas County, Marion County, Polk County, Multnomah County, Washington County, Yamhill County;",WECC,Severe Weather,Unknown,300187
+38,2021-02-12 00:00:00,15:30:00,02/22/2021,07:30:00,Texas:,TRE,Fuel Supply Deficiency,Unknown,Unknown
+39,2021-02-13 00:00:00,09:56:00,02/13/2021,11:01:00,Washington: Lewis County;,WECC,Severe Weather,164,37583
+40,2021-02-13 00:00:00,13:30:00,02/20/2021,08:00:00,Texas:,TRE,Severe Weather,Unknown,Unknown
+41,2021-02-13 00:00:00,13:30:00,02/19/2021,21:00:00,West Virginia: Virginia:,RF,Severe Weather,Unknown,55097
+42,2021-02-13 00:00:00,08:32:00,02/14/2021,15:00:00,South Carolina: North Carolina:,SERC,Severe Weather,Unknown,129000
+43,2021-02-14 00:00:00,08:30:00,02/19/2021,18:00:00,Texas:,TRE,Severe Weather,7214,Unknown
+44,2021-02-14 00:00:00,08:30:00,02/19/2021,18:00:00,Texas:,TRE,Severe Weather,Unknown,Unknown
+45,2021-02-14 00:00:00,05:30:00,02/18/2021,10:00:00,Oklahoma:,MRO,Severe Weather,Unknown,Unknown
+46,2021-02-14 00:00:00,20:21:00,02/18/2021,09:30:00,Arkansas: Louisiana: Texas: Oklahoma:,SERC,Severe Weather,461,125484
+47,2021-02-14 00:00:00,20:00:00,02/18/2021,09:28:00,North Dakota: South Dakota: Nebraska: Kansas: Oklahoma: Texas:,MRO,Severe Weather,3000,Unknown
+48,2021-02-14 00:00:00,19:05:00,Unknown,Unknown,Missouri: Kansas:,SERC,Severe Weather,Unknown,Unknown
+49,2021-02-14 00:00:00,20:32:00,Unknown,Unknown,Nebraska: Lancaster County;,MRO,Severe Weather,0,0
+50,2021-02-14 00:00:00,18:00:00,02/16/2021,22:00:00,Missouri: Jasper County;,SERC,Severe Weather,0,0
+51,2021-02-15 00:00:00,01:20:00,02/18/2021,00:42:00,"Texas: Hidalgo County, Cameron County;",TRE,Severe Weather,Unknown,Unknown
+52,2021-02-15 00:00:00,01:20:00,02/18/2021,00:02:00,Texas: Harris County;,TRE,Severe Weather,4966,1390000
+53,2021-02-15 00:00:00,16:00:00,02/15/2021,18:34:00,Texas: Travis County;,TRE,System Operations,0,0
+54,2021-02-15 00:00:00,00:00:00,Unknown,Unknown,Texas:,TRE,Severe Weather,500,Unknown
+55,2021-02-15 00:00:00,05:36:00,Unknown,Unknown,Texas:,TRE,Severe Weather,300,Unknown
+56,2021-02-15 00:00:00,13:00:00,02/20/2021,10:00:00,Texas:,TRE,Severe Weather,Unknown,175000
+57,2021-02-15 00:00:00,01:54:00,02/17/2021,23:56:00,Texas:,TRE,Severe Weather,524,Unknown
+58,2021-02-15 00:00:00,01:20:00,02/19/2021,09:00:00,Texas:,TRE,Severe Weather,7214,Unknown
+59,2021-02-15 00:00:00,15:00:00,02/19/2021,10:00:00,Louisiana:,SERC,Severe Weather,Unknown,Unknown
+60,2021-02-15 00:00:00,02:51:00,02/19/2021,09:00:00,Texas: Travis County;,TRE,Severe Weather,Unknown,219306
+61,2021-02-15 00:00:00,01:54:00,02/19/2021,09:00:00,Texas: Travis County;,TRE,Severe Weather,724,Unknown
+62,2021-02-15 00:00:00,03:06:00,Unknown,Unknown,Texas: Bexar County;,TRE,Severe Weather,Unknown,154000
+63,2021-02-15 00:00:00,05:27:00,02/18/2021,08:18:00,Texas:,TRE,Severe Weather,Unknown,Unknown
+64,2021-02-15 00:00:00,01:23:00,02/19/2021,05:30:00,Texas:,TRE,Severe Weather,Unknown,Unknown
+65,2021-02-15 00:00:00,08:50:00,02/18/2021,09:30:00,Kansas:,MRO,Severe Weather,Unknown,Unknown
+66,2021-02-15 00:00:00,07:00:00,02/18/2021,09:00:00,Oklahoma:,MRO,Fuel Supply Deficiency,0,0
+67,2021-02-15 00:00:00,19:48:00,02/18/2021,10:30:00,Oklahoma: Kay County;,MRO,Fuel Supply Deficiency,0,Unknown
+68,2021-02-15 00:00:00,10:24:00,02/18/2021,09:52:00,Texas: Lubbock County;,TRE,Severe Weather,116,29942
+69,2021-02-15 00:00:00,18:00:00,02/15/2021,23:55:00,Texas:,TRE,Severe Weather,Unknown,Unknown
+70,2021-02-15 00:00:00,05:40:00,02/16/2021,13:11:00,Texas:,TRE,Severe Weather,800,Unknown
+71,2021-02-15 00:00:00,06:45:00,Unknown,Unknown,Texas: Arkansas:,TRE,Severe Weather,Unknown,Unknown
+72,2021-02-15 00:00:00,05:00:00,02/17/2021,16:00:00,Arkansas: Pulaski County;,SERC,Severe Weather,Unknown,Unknown
+73,2021-02-15 00:00:00,17:00:00,02/15/2021,22:59:00,Mississippi:,SERC,Severe Weather,Unknown,Unknown
+74,2021-02-15 00:00:00,07:52:00,02/17/2021,14:15:00,"Texas: Austin County, Bastrop County, Burleson County, Caldwell County, Colorado County, Fayette County, Gonzales County, Guadalupe County, Hays County, Lee County, Milam County, Travis County, Washington County, Williamson County;",TRE,Severe Weather,107,25000
+75,2021-02-15 00:00:00,06:51:00,02/16/2021,13:19:00,Oklahoma:,MRO,Severe Weather,350,200000
+76,2021-02-15 00:00:00,18:00:00,02/15/2021,23:59:00,Louisiana:,SERC,System Operations,Unknown,Unknown
+77,2021-02-15 00:00:00,18:00:00,02/15/2021,23:59:00,Texas:,TRE,Severe Weather,Unknown,Unknown
+78,2021-02-15 00:00:00,14:00:00,02/15/2021,18:00:00,Louisiana:,SERC,Fuel Supply Deficiency,Unknown,Unknown
+79,2021-02-15 00:00:00,01:20:00,Unknown,Unknown,Texas:,TRE,Severe Weather,360,72000
+80,2021-02-15 00:00:00,12:18:00,02/15/2021,13:22:00,Missouri: Kansas:,SERC,Severe Weather,Unknown,Unknown
+81,2021-02-15 00:00:00,10:00:00,Unknown,Unknown,Nebraska: Lancaster County;,MRO,Fuel Supply Deficiency,613,Unknown
+82,2021-02-15 00:00:00,09:10:00,Unknown,Unknown,Texas: Randall County;,TRE,Severe Weather,0,0
+83,2021-02-15 00:00:00,05:36:00,Unknown,Unknown,Texas:,TRE,Severe Weather,300,Unknown
+84,2021-02-15 00:00:00,00:00:00,Unknown,Unknown,Texas:,TRE,Severe Weather,500,Unknown
+85,2021-02-16 00:00:00,07:03:00,02/20/2021,22:00:00,Kansas: Missouri:,MRO,Severe Weather,Unknown,222000
+86,2021-02-16 00:00:00,18:19:00,Unknown,Unknown,Arkansas:,SERC,Transmission Interruption,Unknown,Unknown
+87,2021-02-16 00:00:00,17:45:00,02/16/2021,19:15:00,Texas: Travis County;,TRE,System Operations,0,0
+88,2021-02-16 00:00:00,06:48:00,Unknown,Unknown,Louisiana:,SERC,Severe Weather,360,Unknown
+89,2021-02-16 00:00:00,18:35:00,02/17/2021,01:00:00,Texas:,TRE,Fuel Supply Deficiency,Unknown,Unknown
+90,2021-02-16 00:00:00,23:28:00,Unknown,Unknown,Texas:,TRE,System Operations,0,0
+91,2021-02-16 00:00:00,16:40:00,02/20/2021,00:00:00,Missouri:,SERC,Severe Weather,Unknown,Unknown
+92,2021-02-16 00:00:00,17:35:00,02/17/2021,00:00:00,Mississippi:,SERC,Severe Weather,Unknown,Unknown
+93,2021-02-16 00:00:00,07:20:00,02/16/2021,10:02:00,"Nebraska: Douglas County, Burt County, Washington County, Dodge County, Colfax County, Saunders County, Sarpy County, Cass County, Otoe County, Johnson County, Nemaha County, Pawnee County, Richardson County;",MRO,Severe Weather,126,81100
+94,2021-02-16 00:00:00,05:30:00,02/16/2021,14:00:00,Louisiana: Texas: Illinois:,SERC,Severe Weather,1420,Unknown
+95,2021-02-16 00:00:00,19:43:00,02/16/2021,21:41:00,Louisiana: Arkansas: Texas: Mississippi:,SERC,Severe Weather,700,Unknown
+96,2021-02-16 00:00:00,19:40:00,02/17/2021,01:00:00,Texas:,TRE,Severe Weather,538,Unknown
+97,2021-02-16 00:00:00,07:17:00,02/16/2021,10:08:00,Texas:,TRE,Severe Weather,168,840000
+98,2021-02-16 00:00:00,18:35:00,02/17/2021,01:00:00,Louisiana:,SERC,System Operations,Unknown,Unknown
+99,2021-02-16 00:00:00,10:20:00,02/16/2021,13:20:00,Oregon: Multnomah County;,WECC,System Operations,0,0
+100,2021-02-16 00:00:00,09:31:00,02/16/2021,10:27:00,Nebraska: Custer County;,MRO,Transmission Interruption,31,Unknown
+101,2021-02-16 00:00:00,17:35:00,02/17/2021,00:00:00,Louisiana: Lafayette Parish;,SERC,Severe Weather,Unknown,Unknown
+102,2021-02-16 00:00:00,06:24:00,02/16/2021,10:41:00,Louisiana:,SERC,System Operations,100,18150
+103,2021-02-16 00:00:00,01:00:00,02/16/2021,21:28:00,Kentucky:,SERC,Severe Weather,Unknown,54167
+104,2021-02-16 00:00:00,06:10:00,Unknown,Unknown,Missouri:,SERC,Severe Weather/Transmission Interruption,130,Unknown
+105,2021-02-16 00:00:00,07:00:00,Unknown,Unknown,New Jersey: Pennsylvania: Texas: California: Illinois: Colorado:,RF,Cyber Event,Unknown,0
+106,2021-02-16 00:00:00,07:22:00,02/16/2021,08:00:00,"Louisiana: Allen Parish, St. Landry Parish, Evangeline Parish;",SERC,Severe Weather,153,Unknown
+107,2021-02-16 00:00:00,06:48:00,Unknown,Unknown,Louisiana: Texas:,SERC,Severe Weather,402,Unknown
+108,2021-02-16 00:00:00,04:26:00,Unknown,Unknown,Texas:,TRE,Severe Weather,300,Unknown
+109,2021-02-17 00:00:00,18:00:00,02/17/2021,23:00:00,Louisiana:,SERC,System Operations,Unknown,Unknown
+110,2021-02-17 00:00:00,18:00:00,02/17/2021,23:00:00,Texas:,TRE,Severe Weather,Unknown,Unknown
+111,2021-02-17 00:00:00,09:00:00,02/19/2021,09:00:00,Kansas:,MRO,Fuel Supply Deficiency,Unknown,Unknown
+112,2021-02-17 00:00:00,17:00:00,02/17/2021,22:00:00,Mississippi:,SERC,Severe Weather,Unknown,Unknown
+113,2021-02-17 00:00:00,10:30:00,02/17/2021,18:04:00,North Carolina:,SERC,Transmission Interruption,0,0
+114,2021-02-17 00:00:00,17:00:00,02/17/2021,22:00:00,Louisiana: Lafayette Parish;,SERC,Severe Weather,400,67000
+115,2021-02-17 00:00:00,06:38:00,02/17/2021,08:37:00,Texas: Travis County;,TRE,System Operations,0,0
+116,2021-02-19 00:00:00,06:48:00,Unknown,Unknown,Louisiana: Texas:,SERC,Severe Weather,402,Unknown
+117,2021-02-19 00:00:00,21:00:00,02/20/2021,13:00:00,Texas:,TRE,Cyber Event,Unknown,0
+118,2021-02-19 00:00:00,12:01:00,02/19/2021,12:41:00,New York: Broome County;,NPCC,System Operations,0,0
+119,2021-02-27 00:00:00,06:02:00,02/27/2021,09:51:00,"Oregon: Multnomah County, Clackamas County;",WECC,System Operations,Unknown,0
+120,2021-02-28 00:00:00,12:42:00,02/28/2021,13:22:00,Texas:,TRE,System Operations,0,0
+121,2021-03-01 00:00:00,10:06:00,03/09/2021,12:00:00,New York: Greene County;,NPCC,Cyber Event,0,0
+122,2021-03-01 00:00:00,22:45:00,03/02/2021,18:35:00,Connecticut: Massachusetts: New Hampshire: Maine: Rhode Island: Vermont:,NPCC,Severe Weather,Unknown,69260
+123,2021-03-01 00:00:00,13:06:00,03/01/2021,13:07:00,Texas: Nueces County;,TRE,Vandalism,0,0
+124,2021-03-02 00:00:00,13:03:00,03/02/2021,13:38:00,Kentucky:,SERC,System Operations,0,0
+125,2021-03-05 00:00:00,14:30:00,03/05/2021,15:00:00,Indiana: Hamilton County;,RF,System Operations,0,0
+126,2021-03-06 00:00:00,03:21:00,03/06/2021,04:07:00,California: Tuolumne County;,WECC,Severe Weather,22,24000
+127,2021-03-08 00:00:00,04:36:00,03/08/2021,04:37:00,Washington: Yakima County;,WECC,Vandalism,0,0
+128,2021-03-08 00:00:00,08:54:00,03/08/2021,08:55:00,Oregon: Multnomah County;,WECC,Suspicious Activity,0,0
+129,2021-03-11 00:00:00,08:10:00,03/11/2021,13:00:00,Washington:,WECC,Vandalism,0,0
+130,2021-03-17 00:00:00,06:27:00,03/17/2021,08:27:00,Pennsylvania:,RF,Transmission Interruption,43,7381
+131,2021-03-17 00:00:00,06:15:00,03/18/2021,12:00:00,"Texas: Dallas County, Tarrant County;",TRE,Severe Weather,Unknown,148000
+132,2021-03-18 00:00:00,21:08:00,03/19/2021,22:31:00,Washington: Okanogan County;,WECC,Vandalism,4,916
+133,2021-03-19 00:00:00,10:30:00,03/19/2021,12:00:00,Louisiana: Lafourche Parish;,SERC,Vandalism,Unknown,4200
+134,2021-03-19 00:00:00,19:11:00,03/19/2021,19:59:00,New Jersey:,RF,System Operations,Unknown,Unknown
+135,2021-03-19 00:00:00,08:59:00,03/19/2021,10:04:00,Maine:,NPCC,System Operations,0,0
+136,2021-03-21 00:00:00,04:01:00,03/22/2021,09:37:00,Minnesota: Hennepin County;,MRO,Suspicious Activity,0,0
+137,2021-03-29 00:00:00,11:06:00,Unknown,Unknown,Connecticut: Massachusetts: Maine: Vermont: Rhode Island: New Hampshire:,NPCC,Severe Weather,Unknown,70000
+138,2021-03-29 00:00:00,10:30:00,Unknown,Unknown,New Mexico:,WECC,Vandalism,Unknown,0
+139,2021-03-30 00:00:00,16:18:00,03/30/2021,20:21:00,Texas: Hidalgo County;,TRE,Transmission Interruption,0,0
+140,2021-04-06 00:00:00,08:49:00,04/06/2021,08:50:00,Florida: Alachua County;,SERC,Vandalism,0,0
+141,2021-04-07 00:00:00,17:42:00,04/07/2021,22:09:00,Ohio: Lake County;,RF,Suspicious Activity,0,0
+142,2021-04-07 00:00:00,10:18:00,04/07/2021,11:20:00,Texas:,TRE,System Operations,0,0
+143,2021-04-08 00:00:00,04:51:00,04/10/2021,20:00:00,California:,WECC,Suspicious Activity,0,0
+144,2021-04-09 00:00:00,13:20:00,04/10/2021,00:40:00,Texas: Denton County;,TRE,Vandalism,0,0
+145,2021-04-12 00:00:00,00:44:00,04/12/2021,17:45:00,Colorado: Larimer County;,WECC,Actual Physical Attack,0,0
+146,2021-04-13 00:00:00,09:00:00,04/13/2021,10:00:00,Texas: Cameron County;,TRE,Suspicious Activity,0,0
+147,2021-04-13 00:00:00,16:49:00,04/13/2021,20:30:00,Texas:,TRE,Severe Weather,0,0
+148,2021-04-13 00:00:00,00:37:00,04/13/2021,04:19:00,Wisconsin: Eau Claire County;,MRO,System Operations,0,0
+149,2021-04-14 00:00:00,10:19:00,04/14/2021,11:39:00,District of Columbia: Delaware: Maryland: New Jersey: Pennsylvania:,RF,System Operations,0,0
+150,2021-04-21 00:00:00,20:31:00,04/21/2021,21:35:00,Minnesota: Dakota County;,MRO,Transmission Interruption,0,0
+151,2021-04-21 00:00:00,13:13:00,04/21/2021,14:10:00,Texas: Travis County;,TRE,System Operations,0,0
+152,2021-04-22 00:00:00,16:43:00,04/22/2021,17:14:00,Wisconsin: Dane County;,MRO,System Operations,0,0
+153,2021-04-22 00:00:00,05:15:00,Unknown,Unknown,California:,WECC,Fuel Supply Deficiency,0,0
+154,2021-04-24 00:00:00,22:08:00,04/24/2021,23:41:00,Texas: Cameron County;,TRE,Suspicious Activity,0,0
+155,2021-04-24 00:00:00,21:00:00,04/25/2021,10:43:00,Alabama: Calhoun County; Georgia:,SERC,Severe Weather,137,18860
+156,2021-04-25 00:00:00,08:20:00,Unknown,Unknown,Tennessee: Davidson County;,SERC,Vandalism,0,0
+157,2021-04-26 00:00:00,11:18:00,04/26/2021,13:00:00,Maine: Kennebec County;,NPCC,System Operations,0,0
+158,2021-05-02 00:00:00,19:58:00,05/02/2021,20:22:00,New Hampshire: Hillsborough County;,NPCC,System Operations,0,0
+159,2021-05-03 00:00:00,11:21:00,05/03/2021,11:53:00,Oklahoma: Oklahoma County;,MRO,System Operations,0,0
+160,2021-05-03 00:00:00,07:52:00,05/03/2021,07:53:00,South Carolina: Cherokee County;,SERC,Suspicious Activity,0,0
+161,2021-05-04 00:00:00,15:45:00,05/05/2021,10:00:00,Arkansas:,SERC,Severe Weather,Unknown,104027
+162,2021-05-04 00:00:00,18:06:00,05/05/2021,17:48:00,Mississippi: Alabama: Georgia:,SERC,Severe Weather,175,24457
+163,2021-05-05 00:00:00,11:50:00,05/08/2021,11:50:00,Michigan: Huron County;,RF,Vandalism,0,0
+164,2021-05-06 00:00:00,17:00:00,05/06/2021,17:15:00,Missouri: Jasper County;,SERC,System Operations,0,0
+165,2021-05-10 00:00:00,02:28:00,05/10/2021,03:21:00,Pennsylvania:,RF,System Operations,0,0
+166,2021-05-10 00:00:00,12:17:00,05/10/2021,12:54:00,"Indiana: Vanderburgh County, Warrick County, Posey County, Daviess County, Gibson County, Knox County, Spencer County;",RF,System Operations,0,0
+167,2021-05-11 00:00:00,23:01:00,05/12/2021,08:29:00,Texas: Kinney County;,TRE,Vandalism,0,0
+168,2021-05-11 00:00:00,09:32:00,05/11/2021,10:38:00,Wisconsin: Iowa:,MRO,System Operations,0,0
+169,2021-05-14 00:00:00,22:00:00,05/17/2021,06:00:00,Idaho:,WECC,Vandalism,0,0
+170,2021-05-14 00:00:00,08:30:00,05/14/2021,16:00:00,Pennsylvania: Montgomery County;,RF,Suspicious Activity,0,0
+171,2021-05-18 00:00:00,23:25:00,05/19/2021,20:30:00,Texas: Harris County;,TRE,Severe Weather,Unknown,125000
+172,2021-05-18 00:00:00,12:15:00,05/18/2021,20:18:00,Delaware: New Castle County;,RF,Vandalism,0,0
+173,2021-05-20 00:00:00,10:06:00,05/20/2021,13:45:00,Florida: Brevard County;,SERC,Transmission Interruption,0,35000
+174,2021-05-20 00:00:00,07:25:00,05/20/2021,07:26:00,California: Imperial County;,WECC,Vandalism,0,0
+175,2021-05-24 00:00:00,13:14:00,05/24/2021,13:15:00,Utah: San Juan County;,WECC,Vandalism,0,0
+176,2021-05-25 00:00:00,12:56:00,05/25/2021,13:41:00,Ohio:,RF,System Operations,0,0
+177,2021-05-27 00:00:00,18:51:00,05/28/2021,15:56:00,California: Nevada:,WECC,Transmission Interruption,0,0
+178,2021-05-27 00:00:00,00:05:00,05/27/2021,00:45:00,Oregon: Multnomah County;,WECC,System Operations,0,0
+179,2021-05-28 00:00:00,21:24:00,05/28/2021,21:25:00,Florida: Duval County;,SERC,Transmission Interruption,1850,10000
+180,2021-05-28 00:00:00,20:00:00,05/28/2021,21:29:00,California: Riverside County;,WECC,Actual Physical Attack,0,655
+181,2021-05-28 00:00:00,22:13:00,05/28/2021,23:34:00,Minnesota: St. Louis County;,MRO,System Operations,0,0
+182,2021-06-06 00:00:00,14:57:00,06/06/2021,16:00:00,Indiana: Clay County;,RF,Transmission Interruption,Unknown,0
+183,2021-06-07 00:00:00,22:27:00,06/08/2021,00:33:00,Minnesota: North Dakota:,MRO,Severe Weather/Transmission Interruption,23,1
+184,2021-06-07 00:00:00,13:26:00,06/07/2021,13:27:00,"Texas: Somervell County, Ellis County;",TRE,Generation Inadequacy,1435,0
+185,2021-06-07 00:00:00,15:19:00,06/07/2021,18:22:00,New Mexico: San Juan County;,WECC,System Operations,0,0
+186,2021-06-08 00:00:00,15:00:00,06/08/2021,15:01:00,Texas: Liberty County;,TRE,Vandalism,0,0
+187,2021-06-09 00:00:00,19:09:00,06/09/2021,20:50:00,New Mexico: San Juan County;,WECC,System Operations,0,0
+188,2021-06-10 00:00:00,22:28:00,06/10/2021,23:07:00,Kansas: Wyandotte County;,MRO,Transmission Interruption,90,9800
+189,2021-06-11 00:00:00,03:26:00,06/11/2021,03:48:00,South Dakota: Brown County;,MRO,Severe Weather/Transmission Interruption,0,0
+190,2021-06-14 00:00:00,12:55:00,06/18/2021,19:00:00,Texas:,TRE,System Operations,Unknown,Unknown
+191,2021-06-14 00:00:00,12:15:00,06/18/2021,19:00:00,Texas:,TRE,System Operations,Unknown,Unknown
+192,2021-06-14 00:00:00,02:10:00,06/14/2021,02:11:00,Utah: Salt Lake County;,WECC,Suspicious Activity,0,0
+193,2021-06-15 00:00:00,11:55:00,06/15/2021,21:17:00,Texas:,TRE,Cyber Event,Unknown,Unknown
+194,2021-06-15 00:00:00,11:30:00,06/15/2021,13:35:00,Kansas: Wyandotte County;,MRO,System Operations,0,0
+195,2021-06-16 00:00:00,10:40:00,06/16/2021,10:43:00,Louisiana: West Baton Rouge Parish;,SERC,Transmission Interruption,7,1841
+196,2021-06-16 00:00:00,04:10:00,06/16/2021,06:39:00,Maine:,NPCC,System Operations,0,0
+197,2021-06-16 00:00:00,10:25:00,06/16/2021,15:16:00,Florida: Alachua County;,SERC,Vandalism,0,0
+198,2021-06-19 00:00:00,18:54:00,06/19/2021,21:01:00,California: Alameda County;,WECC,System Operations,93,51806
+199,2021-06-21 00:00:00,15:50:00,06/21/2021,16:50:00,Arkansas: Benton County;,SERC,Suspicious Activity,0,0
+200,2021-06-21 00:00:00,05:14:00,06/21/2021,19:00:00,Michigan:,RF,Severe Weather,Unknown,151852
+201,2021-06-23 00:00:00,15:47:00,06/23/2021,16:44:00,Missouri: Boone County;,SERC,System Operations,0,0
+202,2021-06-24 00:00:00,03:34:00,06/24/2021,05:07:00,California: Plumas County;,WECC,Transmission Interruption,36,7621
+203,2021-06-24 00:00:00,07:07:00,06/24/2021,13:48:00,Washington: Kittitas County;,SERC,Vandalism,0,0
+204,2021-06-27 00:00:00,20:10:00,06/27/2021,21:30:00,North Dakota: Morton County;,MRO,Vandalism,4,1003
+205,2021-06-27 00:00:00,02:27:00,06/27/2021,03:30:00,New York: Jefferson County;,NPCC,Vandalism,Unknown,982
+206,2021-06-28 00:00:00,13:20:00,Unknown,Unknown,"Washington: Spokane County, Stevens County, Lincoln County, Adams County, Whitman County; Idaho: Kootenai County, Bonner County, Shoshone County, Boundary County, Benewah County, Latah County, Nez Perce County;",WECC,Severe Weather,44,Unknown
+207,2021-06-28 00:00:00,11:22:00,Unknown,Unknown,North Carolina:,SERC,Transmission Interruption,0,0
+208,2021-06-29 00:00:00,16:00:00,Unknown,Unknown,"Michigan: Oakland County, Macomb County, Wayne County;",RF,Severe Weather,Unknown,53000
+209,2021-06-30 00:00:00,18:50:00,Unknown,Unknown,Connecticut: Massachusetts: Rhode Island: Vermont: New Hampshire: Maine:,NPCC,Severe Weather,Unknown,53103
+210,2021-07-03 00:00:00,23:08:00,07/04/2021,02:16:00,New Mexico: Bernalillo County;,WECC,Vandalism,45,34509
+211,2021-07-04 00:00:00,15:33:00,07/04/2021,20:32:00,Washington: Chelan County;,WECC,Natural Disaster,0,0
+212,2021-07-05 00:00:00,05:32:00,07/05/2021,08:58:00,New York:,NPCC,Transmission Interruption,0,0
+213,2021-07-05 00:00:00,14:04:00,07/05/2021,14:41:00,Ohio: Kentucky:,RF/SERC,Transmission Interruption,0,0
+214,2021-07-06 00:00:00,19:41:00,07/06/2021,21:50:00,Ohio:,RF,Severe Weather/Transmisison Interruption,Unknown,136827
+215,2021-07-07 00:00:00,00:02:00,07/07/2021,00:20:00,Florida: Polk County;,SERC,Transmission Interruption,450,0
+216,2021-07-07 00:00:00,15:30:00,Unknown,Unknown,"Michigan: Macomb County, Oakland County, Monroe County, Livingston County, St. Clair County, Washtenaw County, Wayne County;",RF,Severe Weather,Unknown,90000
+217,2021-07-08 00:00:00,17:01:00,07/08/2021,17:24:00,New York:,NPCC,Severe Weather/Transmisison Interruption,0,0
+218,2021-07-08 00:00:00,20:29:00,07/08/2021,20:33:00,North Dakota: Stark County;,MRO,Severe Weather/Transmisison Interruption,88,0
+219,2021-07-09 00:00:00,17:44:00,07/09/2021,21:05:00,California:,WECC,Fuel Supply Deficiency,810,Unknown
+220,2021-07-09 00:00:00,20:25:00,07/10/2021,21:00:00,California: Shasta County;,WECC,Severe Weather,230,47000
+221,2021-07-10 00:00:00,00:30:00,07/10/2021,05:00:00,Nebraska: Missouri:,MRO/SERC,Severe Weather/Transmisison Interruption,Unknown,211500
+222,2021-07-10 00:00:00,00:00:00,07/11/2021,16:00:00,Nebraska:,MRO,Severe Weather,Unknown,188000
+223,2021-07-10 00:00:00,01:55:00,07/10/2021,01:56:00,Missouri:,SERC,Severe Weather,Unknown,52000
+224,2021-07-10 00:00:00,18:00:00,07/10/2021,21:00:00,"Nevada: Clark County, Washoe County;",WECC,Transmission Interruption,9000,1300000
+225,2021-07-10 00:00:00,00:30:00,07/10/2021,05:00:00,Missouri: Nebraska:,MRO/SERC,Severe Weather/Transmisison Interruption,Unknown,212500
+226,2021-07-11 00:00:00,18:00:00,07/11/2021,21:00:00,"Nevada: Clark County, Washoe County;",WECC,Transmission Interruption,9000,1300000
+227,2021-07-12 00:00:00,15:51:00,07/13/2021,17:00:00,Colorado: Pueblo County;,WECC,Sabotage,0,0
+228,2021-07-14 00:00:00,14:15:00,07/14/2021,14:16:00,California: Plumas County;,WECC,Severe Weather/Transmisison Interruption,35,11000
+229,2021-07-18 00:00:00,04:00:00,07/18/2021,09:46:00,Illinois: Cook County;,RF,Transmission Interruption,0,0
+230,2021-07-20 00:00:00,16:21:00,07/20/2021,17:00:00,Ohio:,RF,System Operations,0,0
+231,2021-07-21 00:00:00,14:45:00,07/22/2021,12:00:00,"Pennsylvania: Bucks County, Chester County, Delaware County, Montgomery County, Philadelphia County, York County;",RF,Severe Weather,Unknown,81503
+232,2021-07-22 00:00:00,14:00:00,07/22/2021,14:40:00,California: Shasta County;,WECC,System Operations,220,0
+233,2021-07-23 00:00:00,08:09:00,07/23/2021,08:30:00,Minnesota: Hennepin County;,MRO/RF,System Operations,15,3500
+234,2021-07-23 00:00:00,08:20:00,07/23/2021,10:45:00,Virginia: West Virginia:,RF/SERC,System Operations,0,0
+235,2021-07-24 00:00:00,20:30:00,Unknown,Unknown,"Michigan: Wayne County, Oakland County, Livingston County, Macomb County;",RF,Severe Weather,Unknown,225949
+236,2021-07-26 00:00:00,07:54:00,Unknown,Unknown,Nevada: Clark County;,WECC,Vandalism,0,0
+237,2021-07-28 00:00:00,12:54:00,07/28/2021,15:42:00,Maine:,NPCC,System Operations,0,0
+238,2021-07-30 00:00:00,08:02:00,07/30/2021,09:34:00,Wisconsin:,MRO,Cyber Event,0,0
+239,2021-08-01 00:00:00,09:00:00,08/04/2021,09:00:00,Nevada: Clark County;,WECC,Vandalism,0,0
+240,2021-08-01 00:00:00,23:37:00,08/02/2021,00:00:00,"California: Humboldt County, Trinity County;",WECC,Severe Weather,95,65888
+241,2021-08-02 00:00:00,06:23:00,08/02/2021,15:55:00,Texas: Hays County;,TRE,Severe Weather/Transmission Interruption,43,19000
+242,2021-08-02 00:00:00,00:18:00,08/02/2021,10:47:00,Texas: Hays County;,TRE,Severe Weather/Transmission Interruption,24,9400
+243,2021-08-03 00:00:00,07:05:00,08/03/2021,07:32:00,Texas: Cameron County;,TRE,Suspicious Activity,0,0
+244,2021-08-03 00:00:00,04:35:00,08/03/2021,05:28:00,Oregon: Linn County;,WECC,System Operations,4,Unknown
+245,2021-08-10 00:00:00,22:30:00,08/13/2021,16:38:00,"Michigan: Allegan County, Antrim County, Barry County, Benzie County, Branch County, Calhoun County, Clare County, Clinton County, Crawford County, Eaton County, Genesee County, Gladwin County, Grand Traverse County, Gratiot County, Hillsdale County, Ingham County, Ionia County, Isabella County, Jackson County, Kalamazoo County, Kalkaska County, Kent County, Lake County, Leelanau County, Manistee County, Mason County, Mecosta County, Midland County, Missaukee County, Montcalm County, Muskegon County, Newaygo County, Oakland County, Oceana County, Ogemaw County, Osceola County, Oscoda County, Otsego County, Ottawa County, Roscommon County, Saginaw County, Shiawassee County, St. Joseph County, Van Buren County, Wexford County;",RF,Severe Weather,Unknown,372600
+246,2021-08-10 00:00:00,20:30:00,08/11/2021,19:00:00,Illinois:,RF/SERC,Severe Weather,Unknown,318761
+247,2021-08-10 00:00:00,20:00:00,Unknown,Unknown,"Wisconsin: Waukesha County, Milwaukee County, Kenosha County, Racine County, Washington County, Ozaukee County;",RF/SERC,Severe Weather,Unknown,233000
+248,2021-08-11 00:00:00,15:35:00,Unknown,Unknown,"Michigan: Huron County, Macomb County, Lapeer County, Macomb County, Monroe County, Oakland County, St. Clair County, Tuscola County, Wayne County, Washtenaw County, Livingston County;",RF,Severe Weather,Unknown,700000
+249,2021-08-11 00:00:00,19:12:00,08/11/2021,21:49:00,Ohio:,RF,Severe Weather,Unknown,92109
+250,2021-08-12 00:00:00,18:57:00,08/13/2021,06:00:00,Illinois: Missouri:,RF/SERC,Severe Weather,Unknown,101000
+251,2021-08-12 00:00:00,22:03:00,08/12/2021,22:44:00,Massachusetts:,NPCC,System Operations,0,0
+252,2021-08-15 00:00:00,17:17:00,08/16/2021,03:30:00,California: Solano County;,WECC,Actual Physical Attack,0,0
+253,2021-08-16 00:00:00,16:11:00,08/16/2021,16:31:00,Montana: Flathead County;,WECC,Vandalism,0,0
+254,2021-08-17 00:00:00,19:15:00,08/18/2021,17:45:00,"California: Butte County, Colusa County, Glenn County, Lake County, Lassen County, Mendocino County, Napa County, Plumas County, Shasta County, Sierra County, Solano County, Sonoma County, Tehama County, Trinity County, Yolo County;",WECC,Severe Weather,234,71000
+255,2021-08-17 00:00:00,14:00:00,08/18/2021,14:00:00,California: Kern County;,WECC,Vandalism,Unknown,0
+256,2021-08-18 00:00:00,11:40:00,08/18/2021,12:13:00,Texas:,TRE,System Operations,0,0
+257,2021-08-20 00:00:00,15:35:00,08/20/2021,16:35:00,California: Nevada County;,WECC,Vandalism,0,0
+258,2021-08-20 00:00:00,02:00:00,08/20/2021,03:00:00,Oregon: Washington: Idaho: Utah: Salt Lake County; Wyoming:,WECC,Vandalism,0,0
+259,2021-08-21 00:00:00,10:14:00,08/21/2021,10:52:00,Idaho: Elmore County;,WECC,Severe Weather,0,418
+260,2021-08-22 00:00:00,12:11:00,08/23/2021,16:30:00,Connecticut: Massachusetts: Maine: Rhode Island: Vermont:,NPCC,Severe Weather,Unknown,28134
+261,2021-08-24 00:00:00,21:37:00,Unknown,Unknown,"Michigan: Huron County, Lapeer County, Macomb County, Monroe County, Oakland County, St. Clair County, Wayne County, Washtenaw County;",RF,Severe Weather,Unknown,65000
+262,2021-08-24 00:00:00,17:00:00,08/26/2021,14:07:00,"Michigan: Arenac County, Bay County, Clare County, Genesee County, Gladwin County, Gratiot County, Isabella County, Iosco County, Kalamazoo County, Kent County, Barry County, Missaukee County, Montcalm County, Muskegon County, Newaygo County, Mecosta County, Midland County, Saginaw County, Ottawa County, Van Buren County;",RF,Severe Weather,Unknown,84987
+263,2021-08-27 00:00:00,06:16:00,08/27/2021,10:14:00,Arkansas: Pulaski County;,SERC,Suspicious Activity,0,0
+264,2021-08-29 00:00:00,11:30:00,Unknown,Unknown,Louisiana:,SERC,Severe Weather,Unknown,Unknown
+265,2021-08-29 00:00:00,18:04:00,08/31/2021,22:36:00,Louisiana: St. Charles Parish;,SERC,Severe Weather,Unknown,Unknown
+266,2021-08-29 00:00:00,18:00:00,09/03/2021,13:41:00,Louisiana:,SERC,Severe Weather,Unknown,91315
+267,2021-08-29 00:00:00,22:39:00,09/03/2021,08:38:00,Louisiana:,SERC,Severe Weather,Unknown,50000
+268,2021-08-29 00:00:00,20:25:00,Unknown,Unknown,New York:,NPCC,Transmission Interruption,796,0
+269,2021-08-29 00:00:00,09:32:00,08/29/2021,21:32:00,Louisiana: Pointe Coupee Parish;,SERC,Transmission Interruption,Unknown,Unknown
+270,2021-08-29 00:00:00,17:53:00,Unknown,Unknown,Louisiana:,SERC,Severe Weather,Unknown,Unknown
+271,2021-08-30 00:00:00,21:17:00,09/01/2021,15:19:00,Florida: Leon County;,SERC,Actual Physical Attack,0,0
+272,2021-09-01 00:00:00,06:22:00,09/01/2021,15:56:00,California: Santa Clara County;,WECC,Vandalism,0,0
+273,2021-09-01 00:00:00,17:30:00,09/02/2021,02:00:00,"Pennsylvania: Bucks County, Chester County, Delaware County, Montgomery County, Philadelphia County, York County;",RF,Severe Weather,Unknown,252740
+274,2021-09-02 00:00:00,14:07:00,09/02/2021,14:10:00,Texas: Williamson County;,TRE,Suspicious Activity,0,0
+275,2021-09-07 00:00:00,17:30:00,09/09/2021,09:00:00,"Michigan: Osceola County, Kalamazoo County, Van Buren County, Saginaw County, Arenac County, Lake County, Clare County, Mecosta County;",RF,Severe Weather,Unknown,80000
+276,2021-09-07 00:00:00,20:00:00,09/09/2021,07:00:00,Michigan: Wayne County;,RF,Severe Weather,Unknown,60000
+277,2021-09-08 00:00:00,12:15:00,09/08/2021,12:38:00,North Dakota: Cass County;,MRO,Transmission Interruption,37,1
+278,2021-09-09 00:00:00,16:00:00,09/09/2021,17:30:00,California:,WECC,Vandalism,0,0
+279,2021-09-09 00:00:00,17:00:00,09/09/2021,20:00:00,"Nevada: Clark County, Washoe County;",WECC,System Operations,8000,1300000
+280,2021-09-10 00:00:00,11:17:00,09/10/2021,11:19:00,North Dakota: McKenzie County;,MRO,Transmission Interruption,6,1
+281,2021-09-10 00:00:00,14:05:00,Unknown,Unknown,Iowa: Polk County;,MRO,Vandalism,0,0
+282,2021-09-10 00:00:00,07:20:00,09/10/2021,09:05:00,California:,WECC,Severe Weather,89,59649
+283,2021-09-10 00:00:00,01:55:00,09/10/2021,02:04:00,Florida: Citrus County;,SERC,Severe Weather,75,Unknown
+284,2021-09-11 00:00:00,08:32:00,Unknown,Unknown,Texas: Austin County; California: Los Angeles County;,TRE/SERC,Actual Physical Attack,0,0
+285,2021-09-13 00:00:00,12:18:00,09/13/2021,13:15:00,Washington: Skagit County;,WECC,Transmission Interruption,0,0
+286,2021-09-13 00:00:00,23:59:00,Unknown,Unknown,Texas: Harris County;,TRE,Severe Weather,Unknown,204280
+287,2021-09-13 00:00:00,13:10:00,Unknown,Unknown,Texas: Midland County;,TRE,Transmission Interruption,0,0
+288,2021-09-13 00:00:00,18:00:00,09/14/2021,00:49:00,Texas: Harris County;,TRE,Severe Weather,Unknown,66589
+289,2021-09-14 00:00:00,00:35:00,09/18/2021,19:20:00,Texas: Harris County;,TRE,Severe Weather,1905,705415
+290,2021-09-14 00:00:00,07:36:00,09/15/2021,01:48:00,Texas:,TRE,Severe Weather,0,Unknown
+291,2021-09-14 00:00:00,07:52:00,09/14/2021,22:44:00,Texas:,TRE,Severe Weather,0,Unknown
+292,2021-09-15 00:00:00,22:42:00,09/16/2021,00:37:00,Texas: Kentucky: Arizona: New Mexico: Oregon: Washington:,TRE/SERC/WECC,System Operations,0,0
+293,2021-09-16 00:00:00,14:49:00,09/16/2021,20:02:00,Oklahoma:,MRO/SERC,Transmission Interruption,100,4000
+294,2021-09-16 00:00:00,14:49:00,09/16/2021,20:02:00,Oklahoma:,MRO/SERC,Transmission Interruption,100,4000
+295,2021-09-17 00:00:00,23:00:00,09/19/2021,12:00:00,"Washington: Pierce County, Whatcom County, Skagit County, King County;",WECC,Severe Weather/Transmission Interruption,Unknown,87000
+296,2021-09-17 00:00:00,03:50:00,09/18/2021,04:08:00,Indiana:,RF,Suspicious Activity,0,0
+297,2021-09-17 00:00:00,03:00:00,09/18/2021,22:00:00,Minnesota:,MRO,Severe Weather,Unknown,82000
+298,2021-09-18 00:00:00,04:30:00,09/18/2021,06:00:00,Indiana: Hamilton County;,RF,Suspicious Activity,0,0
+299,2021-09-22 00:00:00,17:17:00,Unknown,Unknown,"Michigan: Lenawee County, Livingston County, Genesee County, Tuscola County, Huron County, Sanilac County, Lapeer County, St. Clair County, Macomb County, Oakland County, Washtenaw County, Wayne County, Monroe County;",RF,Severe Weather,Unknown,136000
+300,2021-09-22 00:00:00,09:36:00,09/23/2021,11:45:00,California: Los Angeles County;,WECC,Vandalism,1,0
+301,2021-09-28 00:00:00,13:44:00,09/28/2021,13:56:00,Kentucky: Henderson County;,SERC,Transmission Interruption,20,5000
+302,2021-09-29 00:00:00,11:48:00,09/29/2021,12:21:00,Missouri: Jackson County;,MRO/SERC,System Operations,150,0
+303,2021-10-03 00:00:00,10:40:00,10/03/2021,11:54:00,Texas: Cameron County;,TRE,Suspicious Activity,0,0
+304,2021-10-04 00:00:00,07:00:00,10/04/2021,08:00:00,Utah: Uintah County;,WECC,Vandalism,Unknown,0
+305,2021-10-05 00:00:00,11:31:00,10/05/2021,11:32:00,California: Santa Clara County;,WECC,Vandalism,0,0
+306,2021-10-05 00:00:00,11:31:00,10/05/2021,11:32:00,California: Santa Clara County;,WECC,Vandalism,0,0
+307,2021-10-07 00:00:00,17:15:00,10/09/2021,18:15:00,Maryland: Baltimore County;,RF,Vandalism,0,0
+308,2021-10-08 00:00:00,06:30:00,10/08/2021,10:00:00,California: Contra Costa County;,WECC,Vandalism,0,0
+309,2021-10-08 00:00:00,14:30:00,10/08/2021,18:32:00,Ohio: Cuyahoga County;,RF,System Operations,210,0
+310,2021-10-09 00:00:00,17:01:00,10/10/2021,06:30:00,North Carolina:,SERC,System Operations,0,0
+311,2021-10-10 00:00:00,22:15:00,10/12/2021,17:00:00,"Texas: Collin County, Dallas County, Denton County, Ellis County, Hunt County, Johnson County, Palo Pinto County, Tarrant County, Wichita County;",TRE,Severe Weather,Unknown,110000
+312,2021-10-11 00:00:00,14:22:00,10/11/2021,20:30:00,California:,WECC,Severe Weather,126,84000
+313,2021-10-12 00:00:00,20:08:00,10/12/2021,20:09:00,Illinois: Cook County;,RF,Suspicious Activity,0,0
+314,2021-10-16 00:00:00,14:16:00,10/16/2021,18:41:00,Oregon: Lane County;,WECC,Transmission Interruption,Unknown,Unknown
+315,2021-10-18 00:00:00,22:18:00,10/18/2021,23:30:00,Pennsylvania:,RF,System Operations,0,0
+316,2021-10-18 00:00:00,23:26:00,10/19/2021,15:00:00,Pennsylvania: Montgomery County;,RF,Suspicious Activity,0,0
+317,2021-10-18 00:00:00,23:27:00,10/19/2021,10:05:00,Georgia: DeKalb County;,SERC,Suspicious Activity,0,0
+318,2021-10-18 00:00:00,22:26:00,10/19/2021,08:19:00,Missouri: Boone County;,SERC/MRO,Suspicious Activity,0,0
+319,2021-10-18 00:00:00,11:47:00,10/18/2021,11:48:00,Florida: Putnam County;,SERC,Vandalism,0,0
+320,2021-10-19 00:00:00,15:34:00,10/19/2021,16:26:00,Ohio: Summit County;,RF,System Operations,42,1
+321,2021-10-20 00:00:00,23:00:00,10/21/2021,01:20:00,Wisconsin: Eau Claire County;,MRO/RF,System Operations,0,0
+322,2021-10-22 00:00:00,19:55:00,10/23/2021,05:55:00,Louisiana: Lafayette Parish;,SERC,System Operations,132,0
+323,2021-10-24 00:00:00,08:55:00,10/25/2021,18:15:00,California:,WECC,Severe Weather,116,59000
+324,2021-10-24 00:00:00,07:00:00,10/26/2021,21:30:00,"Washington: King County, Pierce County, Skagit County, Thurston County;",WECC,Severe Weather,Unknown,233000
+325,2021-10-27 00:00:00,17:57:00,10/28/2021,16:49:00,Louisiana: Ascension Parish;,SERC,System Operations,0,0
+326,2021-10-27 00:00:00,02:25:00,10/29/2021,08:37:00,Connecticut: Maine: Massachusetts: New Hampshire: Rhode Island: Vermont:,NPCC,Severe Weather,Unknown,169000
+327,2021-10-28 00:00:00,12:47:00,10/28/2021,13:05:00,Montana: Valley County;,WECC,System Operations,20,0
+328,2021-10-28 00:00:00,14:15:00,10/30/2021,08:00:00,"Texas: Angelina County, Bell County, Cherokee County, Collin County, Denton County, Dallas County, Ellis County, Hunt County, Johnson County, McLennan County, Nacogdoches County, Smith County, Tarrant County, Travis County, Williamson County;",TRE,Severe Weather,Unknown,250000
+329,2021-10-28 00:00:00,14:45:00,10/29/2021,20:30:00,Texas: Harris County;,TRE,Severe Weather,Unknown,130000
+330,2021-10-28 00:00:00,12:06:00,10/28/2021,12:30:00,Texas: Haskell County;,TRE,Actual Physical Attack/Vandalism,Unknown,Unknown
+331,2021-10-29 00:00:00,14:20:00,10/29/2021,15:00:00,Vermont: Lamoille County;,NPCC,Suspicious Activity,0,0
+332,2021-10-30 00:00:00,07:31:00,Unknown,Unknown,New Jersey:,RF,Suspicious Activity,Unknown,Unknown
+333,2021-10-31 00:00:00,07:49:00,10/31/2021,09:32:00,California: Alameda County;,WECC,Vandalism,0,0
+334,2021-11-04 00:00:00,21:34:00,11/04/2021,22:57:00,Montana: Hill County;,WECC,System Operations,44,Unknown
+335,2021-11-06 00:00:00,06:45:00,11/06/2021,07:00:00,Pennsylvania: York County;,RF,Suspicious Activity,0,0
+336,2021-11-06 00:00:00,08:40:00,11/06/2021,08:41:00,Washington: Grant County;,WECC,Suspicious Activity,Unknown,350
+337,2021-11-08 00:00:00,22:53:00,11/08/2021,23:33:00,Washington: King County;,WECC,System Operations,9,Unknown
+338,2021-11-09 00:00:00,18:00:00,11/09/2021,20:00:00,Mississippi: Coahoma County;,SERC,System Operations,Unknown,Unknown
+339,2021-11-09 00:00:00,08:50:00,11/09/2021,16:00:00,Indiana: Floyd County;,RF,Vandalism,0,0
+340,2021-11-10 00:00:00,21:19:00,11/11/2021,01:19:00,Texas: Brazos County;,TRE,Transmission Interruption,0,0
+341,2021-11-10 00:00:00,09:49:00,11/10/2021,10:05:00,New York:,NPCC,Transmission Interruption,0,0
+342,2021-11-11 00:00:00,05:52:00,11/11/2021,06:09:00,Texas: Montgomery County;,TRE,System Operations,67,Unknown
+343,2021-11-12 00:00:00,07:00:00,11/12/2021,07:14:00,Oregon: Multnomah County; Washington: Idaho: Utah: Wyoming:,WECC,Vandalism,0,0
+344,2021-11-15 00:00:00,11:47:00,Unknown,Unknown,Colorado: Larimer County;,WECC,Suspicious Activity,0,0
+345,2021-11-15 00:00:00,11:00:00,11/17/2021,06:00:00,"Washington: King County, Kitsap County, Whatcom County, Thurston County, Pierce County;",WECC,Severe Weather,Unknown,90000
+346,2021-11-16 00:00:00,00:42:00,11/16/2021,07:35:00,California: Los Angeles County;,WECC,Suspicious Activity,0,0
+347,2021-11-16 00:00:00,17:37:00,11/16/2021,18:21:00,Maryland: Baltimore County;,RF,System Operations,0,0
+348,2021-11-17 00:00:00,12:43:00,11/17/2021,13:25:00,Michigan: Wexford County;,RF,System Operations,0,0
+349,2021-11-17 00:00:00,13:12:00,Unknown,Unknown,Colorado: Larimer County;,WECC,Vandalism,0,0
+350,2021-11-21 00:00:00,10:00:00,11/21/2021,10:01:00,Wisconsin:,MRO/RF,Cyber Event,0,0
+351,2021-11-24 00:00:00,10:00:00,11/26/2021,10:21:00,"California: Riverside County, Ventura County, San Bernardino County, Orange County, Los Angeles County;",WECC,Severe Weather,Unknown,81406
+352,2021-11-30 00:00:00,06:46:00,11/30/2021,06:47:00,North Carolina: South Carolina:,SERC,System Operations,0,0
+353,2021-11-30 00:00:00,06:52:00,11/30/2021,07:25:00,Texas: Cameron County;,TRE,Suspicious Activity,0,0
+354,2021-11-30 00:00:00,13:47:00,11/30/2021,14:21:00,California:,WECC,System Operations,10,6000
+355,2021-11-30 00:00:00,05:00:00,11/30/2021,05:01:00,Oregon: Multnomah County; Washington: Idaho: Utah: Wyoming:,WECC,Vandalism,0,0
+356,2021-12-01 00:00:00,10:04:00,12/01/2021,13:08:00,Wisconsin: Eau Claire County;,MRO,System Operations,0,0
+357,2021-12-02 00:00:00,10:33:00,12/02/2021,13:10:00,Texas:,TRE,System Operations,0,0
+358,2021-12-07 00:00:00,14:33:00,12/07/2021,15:40:00,Indiana: Putnam County;,RF,Transmission Interruption,0,0
+359,2021-12-08 00:00:00,09:04:00,12/08/2021,09:35:00,New York: Broome County;,NPCC,System Operations,0,0
+360,2021-12-10 00:00:00,12:06:00,12/10/2021,13:07:00,Idaho: Ada County;,WECC,Vandalism,0,0
+361,2021-12-11 00:00:00,03:13:00,12/15/2021,15:30:00,"Tennessee: Davidson County, Sumner County;",SERC,Severe Weather,177,107344
+362,2021-12-11 00:00:00,18:16:00,12/13/2021,17:00:00,New York:,NPCC,Severe Weather,Unknown,103000
+363,2021-12-11 00:00:00,11:13:00,12/12/2021,23:06:00,Michigan:,MRO,Severe Weather,Unknown,182410
+364,2021-12-11 00:00:00,10:30:00,12/11/2021,15:00:00,"Michigan: Van Buren County, Gladwin County, Montcalm County, Branch County, Allegan County, Ionia County, Newaygo County, Mecosta County, Lake County, Midland County, Ogemaw County, Osceola County, Tuscola County;",MRO,Severe Weather,Unknown,159947
+365,2021-12-12 00:00:00,06:14:00,12/12/2021,06:40:00,Louisiana: De Soto Parish;,SERC,Vandalism,36,Unknown
+366,2021-12-14 00:00:00,07:28:00,12/14/2021,13:43:00,California: Humboldt County;,WECC,Severe Weather,120,65994
+367,2021-12-14 00:00:00,09:39:00,12/14/2021,09:48:00,Washington: Chelan County;,WECC,System Operations,0,0
+368,2021-12-15 00:00:00,19:00:00,12/16/2021,03:00:00,Kansas:,MRO,Severe Weather,Unknown,174000
+369,2021-12-15 00:00:00,18:00:00,12/16/2021,09:00:00,Iowa: Wisconsin:,MRO,Severe Weather,Unknown,134000
+370,2021-12-15 00:00:00,16:37:00,12/16/2021,11:30:00,Missouri: Kansas:,SERC/MRO,Severe Weather,0,258000
+371,2021-12-15 00:00:00,20:00:00,Unknown,Unknown,Wisconsin:,MRO,Severe Weather,Unknown,80000
+372,2021-12-15 00:00:00,20:00:00,Unknown,Unknown,Wisconsin:,MRO,Severe Weather,Unknown,156000
+373,2021-12-15 00:00:00,21:00:00,Unknown,Unknown,Iowa: Minnesota:,MRO,Severe Weather,Unknown,Unknown
+374,2021-12-15 00:00:00,15:56:00,12/15/2021,17:27:00,Nebraska: Burt County;,MRO,System Operations,5,Unknown
+375,2021-12-15 00:00:00,16:37:00,Unknown,Unknown,Missouri: Kansas:,SERC/MRO,Severe Weather,Unknown,Unknown
+376,2021-12-16 00:00:00,06:00:00,12/16/2021,20:00:00,"Michigan: Antrim County, Kalkaska County, Grand Traverse County, Leelanau County, Benzie County, Manistee County, Wexford County, Missaukee County, Lake County, Osceola County, Oceana County, Newaygo County, Mecosta County, Emmet County, Charlevoix County, Cheboygan County, Clare County, Roscommon County, Crawford County, Ogemaw County;",MRO,Severe Weather,Unknown,200675
+377,2021-12-18 00:00:00,13:04:00,12/18/2021,21:59:00,California:,WECC,Suspicious Activity,10,11770
+378,2021-12-19 00:00:00,20:48:00,12/19/2021,21:00:00,Texas: Cameron County;,TRE,Suspicious Activity,0,0
+379,2021-12-21 00:00:00,21:59:00,12/22/2021,14:15:00,Texas: Cameron County;,TRE,System Operations,22,Unknown
+380,2021-12-23 00:00:00,01:10:00,12/23/2021,01:15:00,Pennsylvania: York County;,RF,Suspicious Activity,0,0
+381,2021-12-23 00:00:00,14:02:00,12/23/2021,14:55:00,Massachusetts: Suffolk County[13];,NPCC,System Operations,0,0
+382,2021-12-24 00:00:00,00:34:00,12/24/2021,06:40:00,Texas: Rusk County;,TRE,System Operations,Unknown,Unknown
+383,2021-12-27 00:00:00,04:11:00,01/01/2022,02:41:00,California:,WECC,Severe Weather,381,115830
+384,2021-12-27 00:00:00,21:01:00,12/30/2021,09:11:00,California: Humboldt County;,WECC,System Operations,120,65994
+385,2021-12-29 00:00:00,11:00:00,12/29/2021,12:00:00,Nevada: Clark County;,WECC,System Operations,0,0
+386,2021-12-30 00:00:00,18:51:00,Unknown,Unknown,"Missouri: Adair County, Putnam County;",SERC,Vandalism,0,0

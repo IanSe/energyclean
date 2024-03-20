@@ -1,0 +1,221 @@
+,Date,Event,Restoration Date,Restoration Time,Area,NERC,Disturbance,Loss,Affected Customers
+0,2018-01-01 00:00:00,18:21:00,01/02/2018,18:11:00,Tennessee:,SERC,Severe Weather,Unknown,Unknown
+1,2018-01-01 00:00:00,17:43:00,Unknown,Unknown,Texas:,TRE,Severe Weather,Unknown,Unknown
+2,2018-01-01 00:00:00,21:37:00,01/02/2018,10:30:00,Tennessee:,SERC,System Operations,Unknown,Unknown
+3,2018-01-02 00:00:00,10:00:00,02/12/2018,08:00:00,New York: Niagara County;,NPCC,Fuel Supply Deficiency,675,Unknown
+4,2018-01-02 00:00:00,07:30:00,Unknown,Unknown,South Carolina:,SERC,Severe Weather,0,717000
+5,2018-01-02 00:00:00,06:45:00,01/02/2018,09:00:00,North Carolina: South Carolina:,SERC,Severe Weather,14998,Unknown
+6,2018-01-04 00:00:00,01:49:00,01/04/2018,02:09:00,Texas: Midland County;,TRE,Actual Physical Attack,Unknown,500
+7,2018-01-12 00:00:00,13:08:00,01/12/2018,14:53:00,"Michigan: Midland County, Genesee County;",RF,System Operations,41,23007
+8,2018-01-15 00:00:00,04:20:00,01/18/2018,05:48:00,Texas:,TRE,Severe Weather,Unknown,Unknown
+9,2018-01-16 00:00:00,15:00:00,01/18/2018,13:00:00,Tennessee:,SERC,Severe Weather,Unknown,Unknown
+10,2018-01-16 00:00:00,15:00:00,01/18/2018,13:00:00,Tennessee: Shelby County;,SERC,System Operations,Unknown,Unknown
+11,2018-01-16 00:00:00,13:57:00,01/16/2018,14:32:00,Texas:,TRE,Severe Weather,Unknown,Unknown
+12,2018-01-17 00:00:00,05:10:00,01/17/2018,13:00:00,Mississippi:,SERC,System Operations,1788,420000
+13,2018-01-17 00:00:00,06:10:00,01/17/2018,14:00:00,Louisiana:,SERC,System Operations,Unknown,Unknown
+14,2018-01-18 00:00:00,05:00:00,01/18/2018,11:00:00,Arkansas: Mississippi: Louisiana: Texas:,SERC,Severe Weather,31500,Unknown
+15,2018-01-18 00:00:00,05:00:00,01/18/2018,09:45:00,Mississippi:,SERC,System Operations,1760,420000
+16,2018-01-18 00:00:00,06:00:00,Unknown,Unknown,Louisiana:,SERC,System Operations,Unknown,Unknown
+17,2018-01-25 00:00:00,20:19:00,01/26/2018,02:00:00,Pennsylvania: Montgomery County;,RF,Suspicious Activity,Unknown,Unknown
+18,2018-02-04 00:00:00,13:42:00,02/04/2018,15:25:00,California:,WECC,Vandalism,9760,0
+19,2018-02-08 00:00:00,13:25:00,02/08/2018,13:31:00,California:,WECC,System Operations,30,10900
+20,2018-02-17 00:00:00,16:33:00,02/18/2018,00:00:00,Oregon: Washington: California:,WECC,Vandalism,2330,0
+21,2018-02-17 00:00:00,17:56:00,02/18/2018,04:11:00,Oregon: Washington: California:,WECC,Vandalism,2327,0
+22,2018-02-28 00:00:00,12:08:00,03/01/2018,15:45:00,Florida:,FRCC,System Operations,0,0
+23,2018-02-28 00:00:00,12:08:00,03/01/2018,15:45:00,Florida:,FRCC,System Operations,0,0
+24,2018-03-01 00:00:00,11:43:00,03/01/2018,11:56:00,California:,WECC,Severe Weather,38,10898
+25,2018-03-01 00:00:00,21:57:00,03/02/2018,10:14:00,Ohio:,RF,Severe Weather,Unknown,86501
+26,2018-03-01 00:00:00,22:20:00,03/04/2018,20:00:00,"Michigan: Wayne County, Washtenaw County, Oakland County, Macomb County, Monroe County;",RF,Severe Weather,Unknown,95000
+27,2018-03-02 00:00:00,17:00:00,03/06/2018,11:00:00,Delaware: Maryland:,RF,Severe Weather,Unknown,60000
+28,2018-03-02 00:00:00,23:17:00,03/03/2018,00:51:00,Washington: Clark County;,WECC,Vandalism,0,0
+29,2018-03-02 00:00:00,15:10:00,03/06/2018,04:57:00,Ohio:,RF,Severe Weather,Unknown,249322
+30,2018-03-02 00:00:00,11:34:00,Unknown,Unknown,New York:,NPCC,Severe Weather,Unknown,50000
+31,2018-03-02 00:00:00,15:46:00,03/04/2018,19:46:00,"New York: New York County, Westchester County;",NPCC,Severe Weather,Unknown,72353
+32,2018-03-02 00:00:00,13:51:00,03/05/2018,13:18:00,Connecticut: Massachusetts: Rhode Island:,NPCC,Severe Weather,Unknown,325000
+33,2018-03-02 00:00:00,13:51:00,03/04/2018,12:11:00,Pennsylvania:,RF,Severe Weather,Unknown,233136
+34,2018-03-02 00:00:00,11:58:00,Unknown,Unknown,"Pennsylvania: Berks County, Bucks County, Carbon County, Chester County, Clinton County, Columbia County, Cumberland County, Dauphin County, Juniata County, Lackawanna County, Lancaster County, Lebanon County, Lehigh County, Luzerne County, Lycoming County, Monroe County, Montgomery County, Montour County, Northampton County, Northumberland County, Pike County, Schuylkill County, Snyder County;",RF,Severe Weather,Unknown,126000
+35,2018-03-02 00:00:00,12:00:00,03/05/2018,00:00:00,Pennsylvania:,RF,Severe Weather,Unknown,630000
+36,2018-03-02 00:00:00,07:00:00,Unknown,Unknown,"New York: Dutchess County, Orange County, Greene County, Ulster County, Putnam County, Sullivan County, Albany County, Columbia County;",NPCC,Severe Weather,Unknown,90000
+37,2018-03-02 00:00:00,12:00:00,Unknown,Unknown,Maryland:,RF,Severe Weather,670,474019
+38,2018-03-02 00:00:00,08:42:00,Unknown,Unknown,New York:,NPCC,Severe Weather,Unknown,63331
+39,2018-03-02 00:00:00,08:00:00,03/03/2018,23:00:00,Virginia: West Virginia:,RF,Severe Weather,Unknown,65198
+40,2018-03-07 00:00:00,16:10:00,03/10/2018,11:32:00,New Jersey:,RF,Severe Weather,Unknown,216800
+41,2018-03-07 00:00:00,17:15:00,Unknown,Unknown,New Jersey:,RF,Severe Weather,50,58000
+42,2018-03-07 00:00:00,12:00:00,03/07/2018,17:00:00,Pennsylvania:,RF,Severe Weather,Unknown,120000
+43,2018-03-07 00:00:00,19:37:00,03/10/2018,16:35:00,Connecticut: Massachusetts: Maine: New Hampshire: Rhode Island: Vermont:,NPCC,Severe Weather,Unknown,102000
+44,2018-03-12 00:00:00,00:00:00,04/06/2018,11:00:00,New York: Dutchess County;,NPCC,Vandalism,0,0
+45,2018-03-13 00:00:00,08:50:00,03/14/2018,23:22:00,Massachusetts: Rhode Island:,NPCC,Severe Weather,Unknown,123629
+46,2018-03-13 00:00:00,00:10:00,03/13/2018,00:34:00,Colorado:,WECC,Suspicious Activity,0,0
+47,2018-03-19 00:00:00,23:29:00,03/20/2018,03:37:00,Alabama: Georgia:,SERC,Severe Weather,261,78220
+48,2018-03-20 00:00:00,19:00:00,03/25/2018,06:30:00,"New Jersey: Atlantic County, Camden County, Cape May County, Gloucester County, Salem County, Cumberland County, Burlington County;",RF,Severe Weather,80,124000
+49,2018-03-24 00:00:00,22:30:00,03/26/2018,20:00:00,Virginia: West Virginia:,RF,Severe Weather,Unknown,81227
+50,2018-03-26 00:00:00,03:05:00,03/26/2018,03:35:00,California:,WECC,Vandalism,0,0
+51,2018-03-28 00:00:00,15:00:00,03/28/2018,16:00:00,Washington: Walla Walla County;,WECC,Vandalism,12,1185
+52,2018-04-03 00:00:00,11:15:00,04/03/2018,11:30:00,California:,WECC,Vandalism,0,0
+53,2018-04-04 00:00:00,16:42:00,04/07/2018,06:22:00,New York:,NPCC,Severe Weather,Unknown,72896
+54,2018-04-05 00:00:00,00:50:00,04/05/2018,16:00:00,Connecticut: Maine: Massachusetts: New Hampshire: Rhode Island: Vermont:,NPCC,Severe Weather,Unknown,65932
+55,2018-04-09 00:00:00,10:07:00,04/09/2018,16:00:00,Washington: Walla Walla County;,WECC,Vandalism,0,0
+56,2018-04-09 00:00:00,12:16:00,04/09/2018,13:52:00,Utah: Salt Lake County;,WECC,Transmission Interruption,806,57000
+57,2018-04-09 00:00:00,11:16:00,Unknown,Unknown,Utah:,WECC,Transmission Interruption,300,250000
+58,2018-04-09 00:00:00,23:10:00,04/10/2018,06:47:00,Florida: Palm Beach County;,FRCC,Sabotage,55,27000
+59,2018-04-14 00:00:00,09:30:00,04/14/2018,10:00:00,Louisiana: Arkansas: Mississippi: Texas:,SERC,Severe Weather,Unknown,56350
+60,2018-04-15 00:00:00,07:30:00,04/18/2018,07:30:00,Michigan:,RF,Severe Weather,Unknown,389591
+61,2018-04-15 00:00:00,17:14:00,04/15/2018,23:25:00,North Carolina: South Carolina:,SERC,Severe Weather,Unknown,78100
+62,2018-05-02 00:00:00,14:52:00,05/02/2018,16:14:00,North Carolina:,SERC,Vandalism,0,0
+63,2018-05-04 00:00:00,14:00:00,05/05/2018,09:30:00,"Michigan: Calhoun County, Genesee County, Ingham County, Kent County, Macomb County, Midland County, Saginaw County, Gratiot County;",RF,Severe Weather,Unknown,90000
+64,2018-05-04 00:00:00,12:00:00,05/06/2018,13:00:00,Michigan:,RF,Severe Weather,Unknown,300000
+65,2018-05-04 00:00:00,20:10:00,Unknown,Unknown,New York:,NPCC,Severe Weather,Unknown,106150
+66,2018-05-04 00:00:00,23:10:00,05/05/2018,00:40:00,New Hampshire: Vermont:,NPCC,Severe Weather,Unknown,56000
+67,2018-05-05 00:00:00,04:30:00,05/05/2018,15:30:00,Vermont: New Hampshire: Maine:,NPCC,Severe Weather,Unknown,31900
+68,2018-05-07 00:00:00,10:30:00,05/07/2018,10:36:00,New York: Tompkins County;,NPCC,Suspected Physical Attack,0,0
+69,2018-05-08 00:00:00,16:00:00,05/08/2018,16:01:00,Utah: Washington County;,WECC,Actual Physical Attack,0,0
+70,2018-05-14 00:00:00,19:08:00,Unknown,Unknown,Virginia:,SERC,Severe Weather,Unknown,112000
+71,2018-05-15 00:00:00,14:50:00,Unknown,Unknown,"Pennsylvania: Lehigh County, Schuylkill County, Cumberland County, Lancaster County, Northampton County, Berks County, Clinton County, Susquehanna County, Bucks County, Carbon County, Chester County, Columbia County, Juniata County;",RF,Severe Weather,Unknown,114000
+72,2018-05-15 00:00:00,16:00:00,Unknown,Unknown,"New York: Dutchess County, Ulster County, Orange County;",NPCC,Severe Weather,Unknown,72000
+73,2018-05-15 00:00:00,17:25:00,Unknown,Unknown,New Jersey:,RF,Severe Weather,Unknown,82372
+74,2018-05-15 00:00:00,18:14:00,05/15/2018,19:00:00,Pennsylvania:,RF,Severe Weather,Unknown,52872
+75,2018-05-15 00:00:00,18:35:00,05/18/2018,15:57:00,Connecticut: Massachusetts: Rhode Island:,NPCC,Severe Weather,Unknown,120000
+76,2018-05-15 00:00:00,15:00:00,05/18/2018,13:48:00,Massachusetts:,NPCC,Vandalism,0,0
+77,2018-05-15 00:00:00,17:15:00,Unknown,Unknown,New York:,NPCC,Severe Weather,Unknown,49999
+78,2018-05-17 00:00:00,01:11:00,Unknown,Unknown,California: Contra Costa County;,WECC,Severe Weather,70,70000
+79,2018-05-17 00:00:00,01:11:00,05/18/2018,00:38:00,California:,WECC,Transmission Disruption,124,70000
+80,2018-05-26 00:00:00,18:40:00,05/27/2018,23:50:00,Texas: Harris County;,TRE,Severe Weather,Unknown,163932
+81,2018-06-02 00:00:00,05:00:00,06/02/2018,11:00:00,"Missouri: Jackson County, Clay County, Platte County, Andrew County; Kansas: Johnson County;",SPP RE,Severe Weather,Unknown,103535
+82,2018-06-04 00:00:00,08:50:00,06/04/2018,14:00:00,Florida: Alachua County;,FRCC,Vandalism,0,0
+83,2018-06-09 00:00:00,09:54:00,06/09/2018,12:12:00,Georgia:,SERC,System Operations,0,0
+84,2018-06-10 00:00:00,14:25:00,06/11/2018,05:58:00,Kentucky:,SERC,System Operations,Unknown,Unknown
+85,2018-06-12 00:00:00,16:15:00,Unknown,Unknown,Nevada: Clark County;,WECC,Vandalism,0,0
+86,2018-06-12 00:00:00,15:00:00,06/12/2018,15:15:00,California: Kern County;,WECC,Vandalism,0,0
+87,2018-06-18 00:00:00,18:20:00,06/19/2018,00:15:00,Connecticut: Maine: Massachusetts: New Hampshire: Rhode Island: Vermont:,NPCC,Severe Weather,Unknown,112927
+88,2018-06-20 00:00:00,22:58:00,06/21/2018,06:05:00,Florida: Palm Beach County;,FRCC,Transmission Interruption,73,27000
+89,2018-06-22 00:00:00,14:38:00,Unknown,Unknown,Washington:,WECC,Severe Weather,10000,4200000
+90,2018-06-27 00:00:00,14:30:00,06/27/2018,14:33:00,New York: New York County;,NPCC,Suspicious Activity,0,0
+91,2018-06-28 00:00:00,18:36:00,07/01/2018,07:00:00,Missouri: Illinois:,SERC,Severe Weather,Unknown,112000
+92,2018-06-28 00:00:00,14:50:00,06/29/2018,09:00:00,Alabama: Georgia:,SERC,Severe Weather,160,48109
+93,2018-06-29 00:00:00,07:35:00,06/29/2018,09:30:00,Minnesota: St. Louis County;,MRO,Severe Weather,350,Unknown
+94,2018-06-29 00:00:00,03:38:00,Unknown,Unknown,Kentucky:,SERC,System Operations,Unknown,Unknown
+95,2018-06-30 00:00:00,12:30:00,06/30/2018,12:31:00,California: Los Angeles County;,WECC,Vandalism,0,0
+96,2018-06-30 00:00:00,10:45:00,06/30/2018,11:28:00,"Texas: Travis County, Williamson County;",TRE,System Operations,0,0
+97,2018-07-04 00:00:00,22:00:00,07/04/2018,22:30:00,Colorado: Pueblo County;,WECC,Vandalism,Unknown,5058
+98,2018-07-04 00:00:00,17:54:00,07/04/2018,19:20:00,Tennessee:,SERC,System Operations,0,0
+99,2018-07-09 00:00:00,13:10:00,07/09/2018,14:45:00,"California: Merced County, Kern County; Nevada: Clark County;",WECC,System Operations,0,0
+100,2018-07-11 00:00:00,15:40:00,07/11/2018,16:00:00,Tennessee:,SERC,Transmission Interruption,425,26195
+101,2018-07-11 00:00:00,00:58:00,Unknown,Unknown,California:,WECC,Fuel Supply Deficiency,0,0
+102,2018-07-14 00:00:00,10:20:00,Unknown,Unknown,Ohio:,RF,System Operations,Unknown,Unknown
+103,2018-07-16 00:00:00,05:15:00,Unknown,Unknown,California: Merced County;,WECC,Fuel Supply Deficiency,0,0
+104,2018-07-18 00:00:00,17:28:00,07/18/2018,17:31:00,Oregon:,WECC,Severe Weather/Transmission Interruption,Unknown,Unknown
+105,2018-07-18 00:00:00,04:00:00,Unknown,Unknown,California: Fresno County;,WECC,Fuel Supply Deficiency,0,0
+106,2018-07-19 00:00:00,20:25:00,Unknown,Unknown,Kentucky:,SERC,System Operations,Unknown,Unknown
+107,2018-07-19 00:00:00,12:38:00,07/19/2018,13:22:00,Louisiana: Rapides Parish;,SERC,System Operations,0,0
+108,2018-07-20 00:00:00,12:46:00,07/20/2018,13:30:00,Maine: Hancock County;,NPCC,System Operations,0,0
+109,2018-07-20 00:00:00,16:19:00,07/20/2018,16:48:00,Kentucky:,SERC,Severe Weather,Unknown,87833
+110,2018-07-21 00:00:00,04:45:00,07/21/2018,11:15:00,Arkansas:,SERC,Severe Weather,Unknown,64930
+111,2018-07-21 00:00:00,07:20:00,07/21/2018,11:30:00,Georgia:,SERC,Severe Weather,143,42901
+112,2018-07-23 00:00:00,04:16:00,07/23/2018,04:29:00,Florida: Pinellas County;,FRCC,Severe Weather/Transmission Interruption,40,Unknown
+113,2018-07-26 00:00:00,20:24:00,Unknown,Unknown,California: Shasta County;,WECC,Natural Disaster,Unknown,Unknown
+114,2018-07-27 00:00:00,16:28:00,07/27/2018,16:33:00,New York: New York County;,NPCC,Severe Weather/Transmission Interruption,0,0
+115,2018-07-27 00:00:00,09:34:00,07/27/2018,09:51:00,Washington: Clark County;,WECC,System Operations,Unknown,Unknown
+116,2018-07-28 00:00:00,23:11:00,07/29/2018,01:51:00,Nevada: Nye County;,WECC,System Operations,0,0
+117,2018-07-29 00:00:00,14:33:00,07/29/2018,18:23:00,California:,WECC,Natural Disaster,83,57670
+118,2018-07-30 00:00:00,06:30:00,07/30/2018,23:00:00,Arizona: Maricopa County;,WECC,Severe Weather,Unknown,82000
+119,2018-07-31 00:00:00,11:44:00,07/31/2018,14:17:00,California: Kern County;,WECC,Suspicious Activity,Unknown,Unknown
+120,2018-08-01 00:00:00,09:11:00,08/01/2018,10:56:00,Montana:,WECC,Vandalism,0,0
+121,2018-08-04 00:00:00,08:20:00,08/04/2018,08:21:00,California: Kern County;,WECC,Vandalism,Unknown,Unknown
+122,2018-08-07 00:00:00,01:22:00,08/07/2018,01:59:00,California: Butte County;,WECC,Natural Disaster,5,485
+123,2018-08-07 00:00:00,01:22:00,08/07/2018,19:04:00,California: Butte County;,WECC,Natural Disaster,27,11383
+124,2018-08-14 00:00:00,21:00:00,08/14/2018,21:01:00,Virginia: Hanover County;,SERC,Suspicious Activity,0,0
+125,2018-08-15 00:00:00,00:00:00,08/15/2018,01:00:00,Missouri: Boone County;,SERC,Vandalism,0,0
+126,2018-08-17 00:00:00,13:07:00,08/17/2018,13:40:00,California:,WECC,System Operations,0,0
+127,2018-08-19 00:00:00,15:20:00,08/19/2018,15:21:00,Utah: Box Elder County;,WECC,Vandalism,0,0
+128,2018-08-20 00:00:00,22:46:00,08/21/2018,00:14:00,Louisiana:,SERC,System Operations,0,0
+129,2018-08-24 00:00:00,12:24:00,08/24/2018,12:59:00,Virginia: Roanoke County;,SERC,System Operations,0,0
+130,2018-08-26 00:00:00,22:00:00,08/27/2018,04:56:00,"Michigan: Muskegon County, Newaygo County, Oceana County, Mason County, Kent County, Mecosta County, Montcalm County, Isabella County, Midland County, Saginaw County;",RF,Severe Weather,Unknown,67000
+131,2018-08-28 00:00:00,23:41:00,08/29/2018,00:13:00,Ohio: Montgomery County;,RF,System Operations,0,0
+132,2018-08-28 00:00:00,20:00:00,08/30/2018,14:59:00,"Michigan: Benzie County, Barry County, Grand Traverse County, Kalkaska County, Mason County, Oceana County, Muskegon County, Kent County, Newaygo County, Montcalm County, Mecosta County, Antrim County, Eaton County, Ionia County, Isabella County, Clare County, Saginaw County;",RF,Severe Weather,Unknown,110000
+133,2018-08-29 00:00:00,03:27:00,08/29/2018,04:00:00,Maryland: Montgomery County; District of Columbia:,RF,Suspicious Activity,0,0
+134,2018-08-29 00:00:00,00:00:00,08/30/2018,00:00:00,Illinois:,SERC,Severe Weather,Unknown,100000
+135,2018-08-29 00:00:00,09:00:00,08/29/2018,09:06:00,Arkansas:,SERC,Suspicious Activity,0,0
+136,2018-08-30 00:00:00,12:00:00,08/30/2018,12:20:00,California:,WECC,Vandalism,0,0
+137,2018-08-31 00:00:00,15:07:00,08/31/2018,15:31:00,Oregon:,WECC,Natural Disaster/Transmission Interruption,96,50000
+138,2018-08-31 00:00:00,18:34:00,08/31/2018,18:40:00,"New York: New York County, Westchester County;",NPCC,Suspicious Activity,0,0
+139,2018-09-01 00:00:00,00:00:00,09/01/2018,15:22:00,Arkansas:,SPP RE,Suspicious Activity,0,0
+140,2018-09-05 00:00:00,13:00:00,09/05/2018,13:01:00,California: Kern County;,WECC,Vandalism,Unknown,Unknown
+141,2018-09-06 00:00:00,02:26:00,09/06/2018,02:27:00,Florida: Hillsborough County;,FRCC,Transmission Interruption,0,0
+142,2018-09-12 00:00:00,22:00:00,09/12/2018,22:05:00,Texas:,TRE,Suspicious Activity,0,0
+143,2018-09-13 00:00:00,20:56:00,09/20/2018,19:00:00,North Carolina: South Carolina:,SERC,Severe Weather,Unknown,1457583
+144,2018-09-13 00:00:00,20:30:00,09/19/2018,17:00:00,North Carolina:,SERC,Severe Weather,300,325000
+145,2018-09-15 00:00:00,15:00:00,09/15/2018,18:00:00,Mississippi: Forrest County;,SERC,System Operations,1322,420000
+146,2018-09-15 00:00:00,01:05:00,09/17/2018,16:00:00,"South Carolina: Horry County, Chesterfield County, Dillon County, Georgetown County, Marlboro County, Darlington County;",SERC,Severe Weather,Unknown,50100
+147,2018-09-15 00:00:00,15:00:00,09/15/2018,18:00:00,Louisiana:,SERC,System Operations,Unknown,Unknown
+148,2018-09-16 00:00:00,08:00:00,09/18/2018,19:40:00,North Carolina: South Carolina:,SERC,Severe Weather,Unknown,50000
+149,2018-09-19 00:00:00,11:00:00,09/20/2018,12:00:00,Indiana: Benton County;,RF,System Operations,0,0
+150,2018-09-20 00:00:00,12:39:00,Unknown,Unknown,Nevada: Clark County;,WECC,Vandalism,0,0
+151,2018-09-22 00:00:00,15:23:00,09/22/2018,23:00:00,California: Los Angeles County;,WECC,Natural Disaster,3507,2500
+152,2018-09-25 00:00:00,00:33:00,09/25/2018,03:10:00,Illinois:,SERC,System Operations,0,0
+153,2018-09-26 00:00:00,13:54:00,09/26/2018,17:58:00,Texas: Harris County;,TRE,Transmission Interruption,0,0
+154,2018-09-28 00:00:00,18:58:00,09/28/2018,19:29:00,Ohio:,RF,System Operations,0,0
+155,2018-10-01 00:00:00,12:44:00,10/01/2018,17:32:00,Ohio: Indiana: Michigan: Kentucky: West Virginia: Virginia:,RF,System Operations,Unknown,Unknown
+156,2018-10-03 00:00:00,07:38:00,10/03/2018,07:48:00,Illinois:,SERC,System Operations,0,0
+157,2018-10-04 00:00:00,06:00:00,10/04/2018,08:00:00,Oklahoma: Osage County;,SPP RE,Vandalism,4,2089
+158,2018-10-04 00:00:00,16:01:00,10/04/2018,18:25:00,California:,WECC,Suspicious Activity,0,0
+159,2018-10-09 00:00:00,20:12:00,10/09/2018,21:12:00,Colorado: El Paso County;,WECC,System Operations,0,0
+160,2018-10-10 00:00:00,11:59:00,Unknown,Unknown,Florida: Alabama: Georgia:,FRCC,Severe Weather,152,45604
+161,2018-10-10 00:00:00,16:00:00,10/19/2018,06:00:00,Florida:,FRCC,Severe Weather,330,55000
+162,2018-10-10 00:00:00,17:00:00,10/15/2018,05:00:00,Utah:,WECC,Vandalism,0,0
+163,2018-10-10 00:00:00,14:00:00,10/11/2018,06:00:00,Florida:,FRCC,Severe Weather,135,60717
+164,2018-10-10 00:00:00,05:41:00,10/10/2018,07:54:00,Maine:,NPCC,System Operations,0,0
+165,2018-10-11 00:00:00,16:42:00,10/12/2018,21:00:00,North Carolina: South Carolina:,SERC,Severe Weather,Unknown,170222
+166,2018-10-11 00:00:00,18:55:00,10/12/2018,12:00:00,North Carolina:,SERC,Severe Weather,Unknown,117000
+167,2018-10-11 00:00:00,13:15:00,Unknown,Unknown,North Carolina: South Carolina:,SERC,Severe Weather,Unknown,240807
+168,2018-10-11 00:00:00,07:21:00,10/11/2018,15:00:00,South Carolina:,SERC,Severe Weather,Unknown,71654
+169,2018-10-12 00:00:00,03:36:00,10/12/2018,13:56:00,Maryland: Garrett County;,RF,Transmission Interruption,0,0
+170,2018-10-14 00:00:00,22:11:00,Unknown,Unknown,California:,WECC,Natural Disaster,Unknown,60000
+171,2018-10-16 00:00:00,04:15:00,10/16/2018,17:11:00,Connecticut: Rhode Island: Massachusetts: Vermont: New Hampshire: Maine:,NPCC,Severe Weather,Unknown,18000
+172,2018-10-21 00:00:00,00:16:00,10/21/2018,16:14:00,West Virginia:,RF,Severe Weather,Unknown,63408
+173,2018-10-22 00:00:00,10:25:00,10/22/2018,10:31:00,Utah: Salt Lake County;,WECC,Vandalism,0,0
+174,2018-10-24 00:00:00,12:32:00,10/24/2018,13:33:00,Michigan: Wayne County;,RF,System Operations,0,0
+175,2018-10-29 00:00:00,05:00:00,11/07/2018,07:00:00,California: Shasta County;,WECC,Vandalism,0,0
+176,2018-10-29 00:00:00,08:39:00,Unknown,Unknown,Minnesota: Douglas County;,MRO,Vandalism,0,0
+177,2018-10-30 00:00:00,14:02:00,10/30/2018,14:42:00,"Maryland: Baltimore, City of;",RF,System Operations,0,0
+178,2018-10-31 00:00:00,19:30:00,11/01/2018,18:55:00,Texas: Harris County;,TRE,Severe Weather,402,140932
+179,2018-11-02 00:00:00,09:50:00,Unknown,Unknown,Minnesota: Douglas County;,MRO,Vandalism,0,0
+180,2018-11-03 00:00:00,05:53:00,11/03/2018,05:57:00,Illinois:,SERC,System Operations,0,0
+181,2018-11-03 00:00:00,17:20:00,11/04/2018,14:30:00,Connecticut: Massachusetts: New Hampshire: Vermont: Maine: Rhode Island:,NPCC,Severe Weather,Unknown,62000
+182,2018-11-06 00:00:00,09:49:00,11/09/2018,14:05:00,Tennessee:,SERC,Severe Weather,Unknown,61000
+183,2018-11-08 00:00:00,07:16:00,11/28/2018,16:32:00,California: Butte County;,WECC,Natural Disaster/Transmission Interruption,32,11844
+184,2018-11-08 00:00:00,16:00:00,Unknown,Unknown,"Nevada: Carson City, Consolidated Municipality of[19];",WECC,Vandalism,0,0
+185,2018-11-09 00:00:00,09:02:00,11/09/2018,10:23:00,Iowa: Muscatine County;,MRO,System Operations,0,0
+186,2018-11-10 00:00:00,17:02:00,11/14/2018,15:00:00,Wisconsin:,MRO,Fuel Supply Deficiency,0,0
+187,2018-11-13 00:00:00,18:19:00,11/13/2018,19:40:00,Arkansas: Oklahoma: Louisiana: Texas:,SPP RE,System Operations,0,0
+188,2018-11-15 00:00:00,10:50:00,11/17/2018,13:12:00,Virginia: West Virginia:,RF,Severe Weather,Unknown,50600
+189,2018-11-15 00:00:00,03:23:00,11/15/2018,17:35:00,Kentucky:,SERC,Severe Weather,Unknown,150000
+190,2018-11-15 00:00:00,05:28:00,11/15/2018,08:35:00,Indiana:,RF,Severe Weather,Unknown,55000
+191,2018-11-15 00:00:00,05:38:00,11/16/2018,06:00:00,Kentucky: Ohio:,SERC,Severe Weather,Unknown,104000
+192,2018-11-18 00:00:00,13:10:00,Unknown,Unknown,Nebraska: Holt County;,MRO,Vandalism,2,0
+193,2018-11-25 00:00:00,22:30:00,11/28/2018,20:17:00,"Illinois: Will County, DuPage County, Kane County, McHenry County, Winnebago County, Ogle County, DeKalb County, Lee County, Grundy County, Lake County, Cook County, Livingston County, Stephenson County, LaSalle County, Kankakee County, Kendall County, Boone County;",SERC,Severe Weather,Unknown,313448
+194,2018-11-27 00:00:00,08:00:00,11/28/2018,16:50:00,Maine: New Hampshire: Vermont:,NPCC,Severe Weather,Unknown,32000
+195,2018-12-01 00:00:00,09:40:00,12/04/2018,17:17:00,Pennsylvania:,RF,Vandalism,0,0
+196,2018-12-01 00:00:00,16:23:00,12/01/2018,17:09:00,Florida: Leon County;,FRCC,System Operations,0,0
+197,2018-12-02 00:00:00,16:17:00,12/02/2018,20:30:00,Maryland:,RF,System Operations,0,0
+198,2018-12-03 00:00:00,03:15:00,12/03/2018,03:44:00,Texas:,TRE,Transmission Interruption,16,Unknown
+199,2018-12-05 00:00:00,08:00:00,12/06/2018,08:00:00,Alabama: Chambers County;,SERC,Vandalism,0,0
+200,2018-12-05 00:00:00,12:48:00,12/05/2018,12:49:00,California: Los Angeles County;,WECC,Vandalism,0,0
+201,2018-12-07 00:00:00,03:10:00,12/07/2018,04:35:00,Utah: Weber County;,WECC,Actual Physical Attack,0,0
+202,2018-12-09 00:00:00,03:35:00,12/10/2018,23:45:00,North Carolina:,SERC,Severe Weather/Transmission Interruption,Unknown,50000
+203,2018-12-09 00:00:00,23:28:00,12/10/2018,01:30:00,Virginia: Loudoun County;,SERC,Vandalism,0,0
+204,2018-12-09 00:00:00,08:41:00,12/09/2018,18:00:00,North Carolina:,SERC,Severe Weather,Unknown,70000
+205,2018-12-09 00:00:00,00:23:00,12/09/2018,11:54:00,Alabama: Georgia:,SERC,Severe Weather,137,41126
+206,2018-12-11 00:00:00,07:00:00,12/13/2018,14:00:00,Oregon: Josephine County;,WECC,Vandalism,0,0
+207,2018-12-11 00:00:00,09:10:00,12/11/2018,10:26:00,Texas: Travis County;,TRE,System Operations,0,0
+208,2018-12-12 00:00:00,10:00:00,12/12/2018,10:31:00,Oregon: Gilliam County;,WECC,Vandalism,0,0
+209,2018-12-13 00:00:00,10:00:00,Unknown,Unknown,"California: Stanislaus County, San Joaquin County;",WECC,Suspicious Activity,0,0
+210,2018-12-14 00:00:00,16:00:00,12/17/2018,02:00:00,"Washington: King County, Kitsap County, Island County, Pierce County, Thurston County, Whatcom County, Skagit County, Kittitas County;",WECC,Severe Weather,Unknown,150000
+211,2018-12-14 00:00:00,18:00:00,Unknown,Unknown,Washington: Snohomish County;,WECC,Severe Weather,200,60000
+212,2018-12-14 00:00:00,08:40:00,12/14/2018,10:00:00,Texas: Jasper County;,TRE,Suspicious Activity,0,0
+213,2018-12-18 00:00:00,08:47:00,12/18/2018,08:48:00,Utah: Salt Lake County; California: Oregon:,WECC,Vandalism,0,0
+214,2018-12-20 00:00:00,09:30:00,12/20/2018,17:00:00,"Washington: Skagit County, Snohomish County, King County, Kitsap County, Island County;",WECC,Severe Weather,Unknown,165000
+215,2018-12-26 00:00:00,01:00:00,01/03/2019,10:27:00,California: Kern County;,WECC,Vandalism,0,0
+216,2018-12-27 00:00:00,21:12:00,12/27/2018,21:16:00,New York: New York County;,NPCC,Transmission Interruption,Unknown,Unknown
+217,2018-12-27 00:00:00,00:05:00,12/27/2018,01:05:00,"Maryland: Montgomery County, Prince George's County; District of Columbia:",RF,System Operations,0,0
+218,2018-12-27 00:00:00,12:50:00,12/27/2018,13:00:00,California: Kern County;,WECC,Vandalism,0,0
+219,2018-12-30 00:00:00,11:41:00,12/30/2018,13:20:00,Washington: King County;,WECC,System Operations,0,0

@@ -1,0 +1,142 @@
+,Date,Event,Restoration Date,Restoration Time,Area,NERC,Disturbance,Loss,Affected Customers
+0,2016-01-04 00:00:00,05:15:00,2016-01-05 00:00:00,08:00:00,Wisconsin: Milwaukee County;,MRO,Sabotage,0,0
+1,2016-01-10 00:00:00,20:46:00,2016-01-11 00:00:00,05:25:00,Maine: Connecticut: Massachusetts: Vermont: New Hampshire: Rhode Island:,NPCC,Weather,Unknown,59859
+2,2016-01-11 00:00:00,20:16:00,2016-01-11 00:00:00,23:00:00,Pennsylvania: Chester County;,RFC,Vandalism,0,0
+3,2016-01-14 00:00:00,08:27:00,2016-01-14 00:00:00,12:00:00,Delaware:,RFC,Vandalism,0,0
+4,2016-01-17 00:00:00,12:00:00,2016-01-17 00:00:00,13:00:00,Utah: Salt Lake County;,WECC,Sabotage,0,0
+5,2016-01-22 00:00:00,15:52:00,2016-01-24 00:00:00,12:30:00,North Carolina: South Carolina:,SERC,Weather,Unknown,150000
+6,2016-01-23 00:00:00,07:49:00,2016-01-23 00:00:00,09:05:00,New Jersey:,RFC,Weather,Unknown,50900
+7,2016-02-05 00:00:00,11:21:00,2016-02-06 00:00:00,15:48:00,Connecticut: Massachusetts: Rhode Island:,NPCC,Weather,Unknown,115057
+8,2016-02-07 00:00:00,11:30:00,Unknown,Unknown,New York: Orange County,NPCC,Cyber Attack,Unknown,Unknown
+9,2016-02-07 00:00:00,14:58:00,Unknown,Unknown,Oregon: Klamath County,WECC,Sabotage,Unknown,Unknown
+10,2016-02-07 00:00:00,13:21:00,2016-02-07 00:00:00,13:42:00,Utah: Salt Lake County,WECC,Vandalism,0,0
+11,2016-02-13 00:00:00,12:44:00,2016-02-13 00:00:00,16:27:00,California,SERC,Islanding,7,4300
+12,2016-02-16 00:00:00,08:35:00,2016-02-16 00:00:00,17:28:00,"Virginia: Roanoke County, Montgomery County; West Virginia: Kanawha County, Cabell County; Tennessee: Sullivan County;",RFC,Weather,Unknown,52640
+13,2016-02-19 00:00:00,22:00:00,2016-02-20 00:00:00,23:13:00,Michigan,RFC,Weather,Unknown,145314
+14,2016-02-21 00:00:00,15:54:00,2016-02-21 00:00:00,17:07:00,Oregon: Klamath County,WECC,Sabotage,0,0
+15,2016-02-24 00:00:00,14:45:00,2016-02-25 00:00:00,05:00:00,North Carolina: South Carolina,SERC,Weather,400,284610
+16,2016-02-24 00:00:00,09:10:00,2016-02-24 00:00:00,10:15:00,Delaware,RFC,Vandalism,0,0
+17,2016-02-25 00:00:00,01:44:00,2016-02-25 00:00:00,14:45:00,Connecticut: Maine: Massachusetts: Rhode Island: Vermont:,NPCC,Weather,Unknown,114190
+18,2016-02-26 00:00:00,16:35:00,2016-02-26 00:00:00,20:22:00,Arizona: Maricopa County,WECC,Sabotage - Operator Action(s),2,2713
+19,2016-02-26 00:00:00,00:01:00,Unknown,Unknown,California: San Bernardino County,WECC,Fuel Supply Deficiency,0,0
+20,2016-03-01 00:00:00,13:35:00,Unknown,Unknown,Idaho: Ada County;,WECC,Vandalism,0,0
+21,2016-03-01 00:00:00,15:00:00,Unknown,Unknown,"Washington: King County, Whatcom County, Kitsap County, Skagit County;",WECC,Weather,Unknown,56000
+22,2016-03-03 00:00:00,11:00:00,2016-04-06 00:00:00,19:47:00,California: San Bernardino County;,WECC,Fuel Supply Deficiency,0,0
+23,2016-03-08 00:00:00,00:00:00,2016-03-08 00:00:00,00:00:00,Idaho: Bannock County;,WECC,Sabotage,0,0
+24,2016-03-10 00:00:00,04:00:00,2016-03-11 00:00:00,11:59:00,"Washington: Kitsap County, King County, Whatcom County, Island County, Skagit County;",WECC,Sabotage,0,0
+25,2016-03-13 00:00:00,14:00:00,Unknown,Unknown,"Washington: Island County, Skagit County, Whatcom County, King County, Kitsap County, Pierce County, Thurston County;",WECC,Sabotage,0,0
+26,2016-03-13 00:00:00,16:55:00,Unknown,Unknown,Washington:,WECC,Vandalism,0,0
+27,2016-03-23 00:00:00,05:00:00,2016-03-25 00:00:00,23:59:00,"Colorado: Denver, City and County of[12];",WECC,Weather,0,0
+28,2016-03-27 00:00:00,12:00:00,2016-03-27 00:00:00,13:00:00,Nevada: Clark County;,WECC,Sabotage,Unknown,110000
+29,2016-03-30 00:00:00,21:12:00,2016-03-31 00:00:00,15:00:00,Massachusetts: Middlesex County[13];,NPCC,Sabotage,200,50500
+30,2016-04-01 00:00:00,16:37:00,2016-04-01 00:00:00,18:00:00,Florida: Hillsborough County,FRCC,Sabotage,0,0
+31,2016-04-02 00:00:00,11:08:00,2016-04-02 00:00:00,11:33:00,California,WECC,System Operations,360,0
+32,2016-04-12 00:00:00,11:30:00,2016-04-12 00:00:00,16:43:00,Washington: Pend Oreille County,WECC,Cyber Attack,0,0
+33,2016-04-14 00:00:00,16:49:00,2016-04-15 00:00:00,20:42:00,Maryland: Baltimore County,RFC,Sabotage,0,0
+34,2016-04-15 00:00:00,10:00:00,2016-04-15 00:00:00,11:00:00,Utah: Weber County,WECC,Vandalism,0,0
+35,2016-04-18 00:00:00,05:05:00,2016-04-20 00:00:00,07:55:00,Texas: Harris County,TRE,Weather,Unknown,415103
+36,2016-04-27 00:00:00,13:36:00,Unknown,Unknown,Tennessee,SERC,Vandalism,0,0
+37,2016-04-27 00:00:00,05:50:00,2016-04-28 00:00:00,01:35:00,Texas: Harris County,TRE,Weather,Unknown,214864
+38,2016-04-27 00:00:00,18:00:00,2016-04-27 00:00:00,18:05:00,Texas: Rusk County,TRE,Sabotage,0,0
+39,2016-05-07 00:00:00,07:49:00,2016-05-07 00:00:00,09:02:00,New York: Dutchess County;,NPCC,Sabotage,0,0
+40,2016-05-08 00:00:00,09:12:00,Unknown ,Unknown ,Washington: Clark County;,WECC,Islanding,Unknown,Unknown
+41,2016-05-10 00:00:00,20:45:00,2016-05-13 00:00:00,03:00:00,"Texas: Dallas County, Tarrant County, Parker County;",TRE,Distribution Interruption,Unknown,85000
+42,2016-05-14 00:00:00,21:25:00,2016-05-15 00:00:00,17:24:00,Missouri:,SERC,Sabotage,0,0
+43,2016-05-19 00:00:00,21:36:00,2016-05-20 00:00:00,01:00:00,Utah:,WECC,System Operations,461,85179
+44,2016-05-20 00:00:00,00:00:00,2016-05-22 00:00:00,05:00:00,Louisiana:,SERC,Distribution Interruption ,Unknown,85000
+45,2016-05-20 00:00:00,01:15:00,Unknown ,Unknown ,Louisiana:,SERC,Weather,Unknown,57184
+46,2016-05-24 00:00:00,08:00:00,Unknown ,Unknown ,Missouri:,SERC,Vandalism,0,0
+47,2016-05-26 00:00:00,21:29:00,2016-05-27 00:00:00,00:40:00,New York:,NPCC,Transmission Interruption,82,56645
+48,2016-05-31 00:00:00,07:30:00,2016-06-13 00:00:00,07:27:00,New York: Tompkins County;,NPCC,Fuel Supply Deficiency,150,Unknown
+49,2016-06-07 00:00:00,12:00:00,2016-06-07 00:00:00,12:15:00,Utah,WECC,Sabotage ,0,0
+50,2016-06-14 00:00:00,07:59:00,2016-06-14 00:00:00,08:00:00,New Jersey,RFC,Vandalism,0,0
+51,2016-06-17 00:00:00,15:40:00,2016-06-18 00:00:00,08:34:00,"Georgia, Alabama, Mississippi, Florida",SERC,Weather,304,91260
+52,2016-06-17 00:00:00,04:30:00,2016-06-17 00:00:00,04:31:00,Delaware,RFC,Vandalism,0,0
+53,2016-07-02 00:00:00,04:00:00,2016-07-04 00:00:00,00:40:00,Oregon: Multnomah County,WECC,Actual Physical Event,0,0
+54,2016-07-05 00:00:00,02:45:00,2016-07-06 00:00:00,03:00:00,"Texas: Dallas County, Tarrant County",TRE,Severe Weather,Unknown,52000
+55,2016-07-05 00:00:00,17:30:00,2016-07-06 00:00:00,16:00:00,"Minnesota, Wisconsin",MRO,Severe Weather,Unknown,250000
+56,2016-07-07 00:00:00,04:20:00,2016-07-07 00:00:00,08:00:00,"Kansas: Johnson County; Missouri: Jackson County, Platte County, Cass County, Buchanan County, Atchison County, Andrew County, Clay County, Nodaway County",SERC,Severe Weather,Unknown,58500
+57,2016-07-07 00:00:00,05:53:00,2016-07-07 00:00:00,08:40:00,North Carolina: New Hanover County,SERC,Vandalism,0,0
+58,2016-07-08 00:00:00,20:50:00,2016-07-09 00:00:00,19:25:00,North Carolina,SERC,Severe Weather,600,203345
+59,2016-07-08 00:00:00,19:00:00,2016-07-09 00:00:00,00:00:00,"Michigan: Wayne County, Oakland County, Macomb County, St. Clair County, Lapeer County, Tuscola County, Sanilac County, Huron County",RFC,Severe Weather,Unknown,160895
+60,2016-07-08 00:00:00,18:00:00,Unknown,Unknown,West Virginia: Virginia,RFC,Severe Weather,Unknown,62961
+61,2016-07-09 00:00:00,17:45:00,2016-07-11 00:00:00,14:00:00,Texas: Dallas County,TRE,Severe Weather,Unknown,62000
+62,2016-07-12 00:00:00,14:10:00,2016-07-12 00:00:00,20:33:00,Puerto Rico,PR,System Operations,450,218000
+63,2016-07-13 00:00:00,13:00:00,2016-07-13 00:00:00,13:01:00,Washington,WECC,Vandalism,0,0
+64,2016-07-13 00:00:00,15:00:00,Unknown,Unknown,Tennessee: Shelby County,SERC,System Operations,Unknown,Unknown
+65,2016-07-14 00:00:00,17:30:00,2016-07-16 00:00:00,20:00:00,Oklahoma: Arkansas,SPP,Severe Weather,Unknown,7300
+66,2016-07-14 00:00:00,16:30:00,2016-07-16 00:00:00,00:00:00,Arkansas: Louisiana: Mississippi: Texas,"SPP, SERC, TRE",Severe Weather,Unknown,170244
+67,2016-07-14 00:00:00,14:44:00,2016-07-15 00:00:00,04:00:00,Oklahoma,SPP,Severe Weather,Unknown,96966
+68,2016-07-19 00:00:00,15:45:00,2016-07-19 00:00:00,19:29:00,Idaho,WECC,System Operations,290,Unknown
+69,2016-07-19 00:00:00,15:45:00,2016-07-19 00:00:00,19:25:00,Idaho,WECC,System Operations,485,Unknown
+70,2016-07-21 00:00:00,19:21:00,2016-07-22 00:00:00,00:09:00,Puerto Rico,PR,System Operations,200,266000
+71,2016-07-21 00:00:00,06:18:00,2016-07-21 00:00:00,14:45:00,Delaware: New Castle County,RFC,Suspicious Activity,0,0
+72,2016-07-22 00:00:00,23:50:00,2016-07-23 00:00:00,09:10:00,Massachusetts: Connecticut: Rhode Island: New Hampshire: Vermont: Maine,NPCC,Severe Weather,Unknown,57058
+73,2016-07-23 00:00:00,15:15:00,2016-07-23 00:00:00,19:53:00,Pennsylvania: Cambria County,RFC,System Operations,87,Unknown
+74,2016-07-23 00:00:00,19:30:00,2016-07-24 00:00:00,07:30:00,Connecticut: Massachusetts: New Hampshire: Vermont: Rhode Island,NPCC,Severe Weather,Unknown,101073
+75,2016-07-25 00:00:00,18:51:00,2016-07-26 00:00:00,02:19:00,Puerto Rico,PR,System Operations,0,0
+76,2016-07-26 00:00:00,18:51:00,2016-07-27 00:00:00,01:45:00,Puerto Rico,PR,System Operations,25,37100
+77,2016-07-27 00:00:00,18:50:00,2016-07-28 00:00:00,01:38:00,Puerto Rico,PR,System Operations,80,106300
+78,2016-07-28 00:00:00,18:51:00,2016-07-29 00:00:00,02:02:00,Puerto Rico,PR,System Operations,22,21600
+79,2016-07-29 00:00:00,19:09:00,2016-07-29 00:00:00,19:57:00,Puerto Rico,PR,System Operations,0,0
+80,2016-08-04 00:00:00,14:15:00,2016-08-04 00:00:00,14:23:00,Delaware: New Castle County;,RFC,Vandalism,0,0
+81,2016-08-07 00:00:00,18:39:00,2016-08-07 00:00:00,20:27:00,New Mexico: Bernalillo County;,WECC,System Operations,Unknown,Unknown
+82,2016-08-10 00:00:00,06:00:00,Unknown,Unknown,California: Butte County;,WECC,Fuel Supply Deficiency,0,0
+83,2016-08-11 00:00:00,16:30:00,2016-08-11 00:00:00,19:15:00,Ohio:,RFC,Severe Weather,Unknown,62140
+84,2016-08-13 00:00:00,11:42:00,2016-08-13 00:00:00,14:07:00,South Carolina:,SERC,System Operations,506,0
+85,2016-08-20 00:00:00,14:18:00,2016-08-20 00:00:00,21:19:00,New York:,NPCC,Actual Physical Event,Unknown,40000
+86,2016-08-23 00:00:00,17:00:00,2016-08-24 00:00:00,00:05:00,Texas: Harris County;,TRE,Severe Weather,Unknown,72200
+87,2016-08-24 00:00:00,18:13:00,2016-08-24 00:00:00,19:14:00,Puerto Rico:,PR,System Operations,600,400000
+88,2016-08-24 00:00:00,19:18:00,2016-08-24 00:00:00,19:47:00,Washington: King County;,WECC,Islanding,9232,Unknown
+89,2016-08-25 00:00:00,18:40:00,2016-08-26 00:00:00,18:19:00,Oregon: Crook County;,WECC,Vandalism,0,0
+90,2016-08-31 00:00:00,09:45:00,2016-08-31 00:00:00,09:55:00,Colorado:,WECC,Transmission Interruption,0,0
+91,2016-08-31 00:00:00,14:52:00,Unknown,Unknown,Washington: Clark County;,WECC,Islanding,0,0
+92,2016-09-01 00:00:00,22:00:00,Unknown,Unknown,Florida:,FRCC,Severe Weather,100,Unknown
+93,2016-09-02 00:00:00,00:40:00,2016-09-04 00:00:00,20:00:00,"Florida: Leon County, Wakulla County;",FRCC,Severe Weather,450,75000
+94,2016-09-02 00:00:00,04:00:00,2016-09-02 00:00:00,16:00:00,"Florida: Alachua County, Bay County, Citrus County, Columbia County, Dixie County, Franklin County, Gilchrist County, Gulf County, Hamilton County, Hardee County, Hernando County, Highlands County, Jefferson County, Lafayette County, Lake County, Levy County, Madison County, Marion County, Orange County, Osceola County, Pasco County, Pinellas County, Polk County, Seminole County, Sumter County, Suwannee County, Taylor County, Volusia County, Wakulla County;",FRCC,Severe Weather,225,90000
+95,2016-09-02 00:00:00,05:45:00,2016-09-03 00:00:00,00:30:00,Georgia:,SERC,Severe Weather,Unknown,57000
+96,2016-09-06 00:00:00,18:12:00,2016-09-06 00:00:00,21:24:00,Washington: Clark County;,WECC,Islanding,300,Unknown
+97,2016-09-08 00:00:00,08:30:00,2016-09-25 00:00:00,00:00:00,New York: Tompkins County;,NPCC,Fuel Supply Deficiency,210,Unknown
+98,2016-09-08 00:00:00,14:49:00,2016-09-08 00:00:00,15:03:00,Washington:,WECC,Islanding,0,0
+99,2016-09-10 00:00:00,09:42:00,2016-09-10 00:00:00,09:57:00,Washington: Clark County;,WECC,Generation Inadequacy,135,Unknown
+100,2016-09-11 00:00:00,12:05:00,2016-09-11 00:00:00,15:10:00,Connecticut: Massachusetts: New Hampshire: Rhode Island: Vermont: Maine:,NPCC,Severe Weather,Unknown,57960
+101,2016-09-12 00:00:00,12:30:00,2016-09-12 00:00:00,17:56:00,"New Mexico: Bernalillo County, Sandoval County, Santa Fe County, Valencia County;",WECC,Generation Inadequacy,110,53753
+102,2016-09-21 00:00:00,14:30:00,2016-09-24 00:00:00,02:30:00,Puerto Rico:,,System Operations,2750,1475000
+103,2016-09-21 00:00:00,19:44:00,2016-09-21 00:00:00,21:17:00,Texas: Lubbock County;,TRE,Actual Physical Event,0,0
+104,2016-09-22 00:00:00,10:56:00,2016-09-22 00:00:00,11:41:00,Iowa: Black Hawk County;,MRO,System Operations,69,19124
+105,2016-09-25 00:00:00,12:49:00,2016-09-25 00:00:00,18:20:00,"Utah: Kane County, Garfield County; Arizona: Coconino County, Mohave County",WECC,Vandalism,20,10000
+106,2016-10-01 00:00:00,12:24:00,10/02/2016,02:04:00,California: Mendocino County;,WECC,Actual Physical Event,0,0
+107,2016-10-02 00:00:00,23:30:00,10/05/2016,08:00:00,Utah:,WECC,Transmission Interruption,50,4000
+108,2016-10-03 00:00:00,15:09:00,10/04/2016,19:00:00,Texas:,TRE,Public Appeal,Unknown,Unknown
+109,2016-10-05 00:00:00,11:32:00,10/05/2016,19:00:00,Texas:,TRE,Public Appeal,Unknown,Unknown
+110,2016-10-05 00:00:00,15:51:00,Unknown,Unknown,California: Imperial County;,WECC,Vandalism,0,0
+111,2016-10-06 00:00:00,09:50:00,10/06/2016,19:00:00,Texas:,TRE,Public Appeal,Unknown,Unknown
+112,2016-10-06 00:00:00,19:30:00,2016-10-08 00:00:00,18:00:00,Florida:,FRCC,Severe Weather,5600,1200000
+113,2016-10-07 00:00:00,08:00:00,10/09/2016,13:00:00,"Florida: Alachua County, Bay County, Citrus County, Columbia County, Dixie County, Franklin County, Gilchrist County, Gulf County, Hamilton County, Hardee County, Hernando County, Highlands County, Jefferson County, Lafayette County, Lake County, Levy County, Madison County, Marion County, Orange County, Osceola County, Pasco County, Pinellas County, Polk County, Seminole County, Sumter County, Suwannee County, Taylor County, Volusia County, Wakulla County;",FRCC,Severe Weather,413,165000
+114,2016-10-07 00:00:00,11:08:00,10/07/2016,19:00:00,Texas:,TRE,Generation Inadequacy,Unknown,Unknown
+115,2016-10-07 00:00:00,16:22:00,10/12/2016,11:00:00,Georgia:,SERC,Severe Weather,122,36384
+116,2016-10-07 00:00:00,22:45:00,Unknown,Unknown,Florida:,FRCC,Severe Weather,Unknown,Unknown
+117,2016-10-07 00:00:00,23:00:00,Unknown,Unknown,"South Carolina: Allendale County, Bamberg County, Beaufort County, Berkeley County, Charleston County, Chesterfield County, Clarendon County, Colleton County, Darlington County, Dorchester County, Florence County, Georgetown County, Hampton County, Horry County, Jasper County, Kershaw County, Lee County, Marion County, Marlboro County, Orangeburg County, Richland County, Sumter County, Williamsburg County;",SERC,Severe Weather,Unknown,Unknown
+118,2016-10-08 00:00:00,08:21:00,10/13/2016,17:30:00,North Carolina: South Carolina:,SERC,Severe Weather,Unknown,Unknown
+119,2016-10-08 00:00:00,14:05:00,10/09/2016,06:06:00,North Carolina:,SERC,Severe Weather,Unknown,44875
+120,2016-10-08 00:00:00,01:10:00,Unknown,Unknown,South Carolina:,SERC,Severe Weather,1050,290824
+121,2016-10-10 00:00:00,13:15:00,10/10/2016,19:00:00,Texas:,TRE,Generation Inadequacy,Unknown,Unknown
+122,2016-10-12 00:00:00,12:09:00,10/12/2016,13:16:00,Nevada: Clark County;,WECC,Vandalism,4,1671
+123,2016-10-18 00:00:00,14:06:00,10/21/2016,15:00:00,"Oregon: Deschutes County, Lake County;",WECC,Vandalism,0,0
+124,2016-10-20 00:00:00,12:30:00,10/20/2016,12:31:00,Oregon:,WECC,Vandalism,0,0
+125,2016-10-25 00:00:00,07:40:00,10/27/2016,07:40:00,Tennessee: Shelby County;,SERC,Vandalism,0,0
+126,2016-10-26 00:00:00,05:26:00,10/26/2016,05:27:00,Wyoming: Sweetwater County;,WECC,Vandalism,0,0
+127,2016-10-28 00:00:00,13:29:00,10/28/2016,13:38:00,California: Plumas County;,WECC,Islanding,4,482
+128,2016-10-31 00:00:00,08:06:00,10/31/2016,15:53:00,North Carolina: Stokes County;,SERC,Actual Physical Event,0,0
+129,2016-11-09 00:00:00,11:59:00,11/09/2016,18:15:00,"California: Stanislaus County, San Joaquin County, Alameda County, Tuolumne County;",WECC,Cyber Attack,0,0
+130,2016-11-09 00:00:00,06:44:00,11/09/2016,07:44:00,California:,WECC,Vandalism,0,0
+131,2016-11-01 00:00:00,20:55:00,Unknown,Unknown,Washington: Clark County;,WECC,Transmission Interruption,0,0
+132,2016-12-08 00:00:00,01:00:00,12/08/2016,02:30:00,Oregon: Multnomah County;,WECC,Vandalism,0,0
+133,2016-12-11 00:00:00,07:45:00,12/11/2016,07:46:00,Utah: Utah County;,WECC,Vandalism,0,0
+134,2016-12-13 00:00:00,14:09:00,12/13/2016,14:30:00,California: Riverside County;,WECC,Cyber Event,0,0
+135,2016-12-15 00:00:00,06:30:00,Unknown,Unknown,California: Merced County;,WECC,Fuel Supply Deficiency,Unknown,Unknown
+136,2016-12-16 00:00:00,07:45:00,12/16/2016,08:45:00,Oregon: Multnomah County;,WECC,Vandalism,0,0
+137,2016-12-26 00:00:00,04:00:00,12/26/2016,06:00:00,Washington:,WECC,Vandalism,0,0
+138,2016-12-28 00:00:00,04:03:00,12/31/2016,06:00:00,California:,WECC,Fuel Supply Deficiency,0,0
+139,2016-12-30 00:00:00,08:55:00,12/30/2016,08:56:00,Vermont: Chittenden County;,NPCC,Other,0,0
+140,2016-12-30 00:00:00,02:30:00,12/30/2016,19:00:00,Maine:,NPCC,Weather or Natural Disaster,Unknown,85263

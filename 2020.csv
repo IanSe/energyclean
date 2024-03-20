@@ -1,0 +1,384 @@
+,Date,Event,Restoration Date,Restoration Time,Area,NERC,Disturbance,Loss,Affected Customers
+0,2020-01-09 00:00:00,23:07:00,01/09/2020,23:19:00,Arkansas: Yell County;,SPP RE,Severe Weather/Transmission Interruption,0,0
+1,2020-01-09 00:00:00,20:45:00,01/10/2020,21:23:00,Washington: King County;,WECC,Suspicious Activity,0,0
+2,2020-01-09 00:00:00,07:40:00,01/09/2020,08:48:00,Minnesota: North Dakota: Wisconsin:,MRO,System Operations,0,0
+3,2020-01-09 00:00:00,23:07:00,01/09/2020,23:18:00,Arkansas:,SPP RE,System Operations,Unknown,Unknown
+4,2020-01-10 00:00:00,14:53:00,Unknown,Unknown,Tennessee: Hamilton County;,SERC,Suspicious Activity,Unknown,Unknown
+5,2020-01-11 00:00:00,02:25:00,01/11/2020,07:56:00,Arkansas: Cross County;,SPP RE,Severe Weather/Transmission Interruption,22,7541
+6,2020-01-11 00:00:00,23:02:00,01/12/2020,02:01:00,North Carolina: South Carolina:,SERC,Severe Weather,Unknown,66475
+7,2020-01-11 00:00:00,03:30:00,01/11/2020,17:30:00,Arkansas: Texas:,SPP RE,Severe Weather,Unknown,68138
+8,2020-01-11 00:00:00,13:20:00,Unknown,Unknown,Tennessee:,SERC,Severe Weather,4,Unknown
+9,2020-01-11 00:00:00,12:50:00,01/12/2020,13:33:00,Alabama: Georgia: Mississippi:,SERC,Severe Weather,219,30715
+10,2020-01-12 00:00:00,11:15:00,01/12/2020,11:18:00,Texas: Brazos County;,TRE,Suspicious Activity,0,0
+11,2020-01-14 00:00:00,00:00:00,01/14/2020,01:00:00,Florida: Alachua County;,FRCC,Suspicious Activity,0,0
+12,2020-01-16 00:00:00,11:06:00,01/16/2020,11:36:00,Texas: Harris County;,TRE,System Operations,0,0
+13,2020-01-17 00:00:00,05:28:00,01/17/2020,10:13:00,California: Humboldt County;,WECC,Severe Weather/Transmission Interruption,87,67864
+14,2020-01-20 00:00:00,06:30:00,01/20/2020,06:31:00,California: Los Angeles County;,WECC,Vandalism,0,0
+15,2020-01-22 00:00:00,02:57:00,01/22/2020,03:17:00,Nevada: Humboldt County;,WECC,Actual Physical Attack,7,3120
+16,2020-01-23 00:00:00,23:30:00,01/24/2020,00:39:00,Florida: Manatee County;,FRCC,Vandalism,0,0
+17,2020-01-24 00:00:00,04:34:00,Unknown,Unknown,California:,WECC,Fuel Supply Deficiency,0,0
+18,2020-01-27 00:00:00,14:10:00,01/27/2020,18:58:00,North Dakota: South Dakota: Montana:,MRO,System Operations,540,130000
+19,2020-01-30 00:00:00,03:01:00,01/30/2020,04:36:00,North Dakota: Burleigh County;,MRO,Transmission Interruption,75,0
+20,2020-01-31 00:00:00,09:50:00,02/03/2020,10:00:00,California:,WECC,Suspicious Activity,0,0
+21,2020-02-06 00:00:00,14:29:00,02/07/2020,12:44:00,North Carolina:,SERC,Severe Weather/Distribution Interruption,Unknown,284256
+22,2020-02-06 00:00:00,13:30:00,02/07/2020,20:08:00,North Carolina: South Carolina:,SERC,Severe Weather/Transmission Interruption,Unknown,89500
+23,2020-02-07 00:00:00,16:25:00,02/08/2020,12:00:00,Connecticut: Maine: Massachusetts: New Hampshire: Rhode Island: Vermont:,NPCC,Severe Weather,Unknown,123359
+24,2020-02-07 00:00:00,14:42:00,02/10/2020,09:25:00,New York:,NPCC,Severe Weather,Unknown,7500
+25,2020-02-07 00:00:00,11:00:00,Unknown,Unknown,Pennsylvania:,RF,Severe Weather/Distribution Interruption,Unknown,52000
+26,2020-02-07 00:00:00,08:48:00,Unknown,Unknown,Virginia: North Carolina:,SERC,Severe Weather,Unknown,87000
+27,2020-02-08 00:00:00,13:56:00,02/08/2020,15:04:00,California:,WECC,Vandalism,0,0
+28,2020-02-09 00:00:00,09:30:00,02/09/2020,21:40:00,"California: Alameda County, Contra Costa County, El Dorado County, Nevada County, Placer County, Sierra County, Santa Clara County, Napa County, Marin County, Santa Cruz County;",WECC,Severe Weather,500,145000
+29,2020-02-11 00:00:00,02:53:00,02/11/2020,13:30:00,Texas: Sterling County;,TRE,System Operations,0,0
+30,2020-02-11 00:00:00,07:13:00,02/11/2020,16:00:00,Oregon: Clackamas County;,WECC,Transmission Interruption,Unknown,0
+31,2020-02-12 00:00:00,07:36:00,02/12/2020,08:53:00,Maine:,NPCC,System Operations,0,0
+32,2020-02-13 00:00:00,08:01:00,02/13/2020,14:38:00,Oregon:,WECC,Vandalism,0,0
+33,2020-02-17 00:00:00,09:47:00,02/17/2020,15:31:00,Alabama: Chambers County;,SERC,Vandalism,97,Unknown
+34,2020-02-17 00:00:00,13:18:00,02/20/2020,09:51:00,Michigan: Eaton County;,RF,Vandalism,0,0
+35,2020-02-17 00:00:00,04:00:00,Unknown,Unknown,Northern and Central California;,WECC,Severe Weather,91,70000
+36,2020-02-18 00:00:00,13:00:00,02/18/2020,14:00:00,California: Kern County;,WECC,Vandalism,0,0
+37,2020-02-25 00:00:00,11:45:00,02/25/2020,13:00:00,California: Los Angeles County;,WECC,Vandalism,0,0
+38,2020-02-26 00:00:00,16:30:00,02/26/2020,17:02:00,Oklahoma:,SPP RE,System Operations,0,0
+39,2020-02-26 00:00:00,17:00:00,02/26/2020,18:05:00,Maine:,NPCC,System Operations,0,0
+40,2020-02-26 00:00:00,11:29:00,02/26/2020,12:14:00,South Dakota: Wyoming: Colorado:,MRO,System Operations,0,0
+41,2020-02-29 00:00:00,01:45:00,02/29/2020,02:30:00,"Nevada: Clark County, Washoe County;",WECC,System Operations,0,0
+42,2020-03-01 00:00:00,11:27:00,03/01/2020,21:47:00,Mississippi: Rankin County;,SERC,Transmission Interruption,19,3136
+43,2020-03-01 00:00:00,22:15:00,Unknown,Unknown,New York:,NPCC,Vandalism,0,0
+44,2020-03-01 00:00:00,08:00:00,Unknown,Unknown,Western NY,NPCC,Fuel Supply Deficiency,675,Unknown
+45,2020-03-02 00:00:00,01:43:00,03/02/2020,02:43:00,"Nevada: Clark County, Washoe County;",WECC,System Operations,0,0
+46,2020-03-03 00:00:00,14:30:00,03/03/2020,14:31:00,Alabama:,SERC,Vandalism,0,0
+47,2020-03-08 00:00:00,22:10:00,03/09/2020,01:02:00,Texas: Llano County;,TRE,Suspicious Activity,0,0
+48,2020-03-12 00:00:00,01:03:00,03/12/2020,03:00:00,Pennsylvania:,RF,Transmission Interruption,40,15864
+49,2020-03-16 00:00:00,12:01:00,03/16/2020,13:10:00,California:,WECC,Severe Weather,165,110800
+50,2020-03-16 00:00:00,08:00:00,03/16/2020,08:01:00,California: Los Angeles County;,WECC,Vandalism,0,0
+51,2020-03-16 00:00:00,08:00:00,03/16/2020,08:01:00,California: Los Angeles County;,WECC,Vandalism,0,0
+52,2020-03-17 00:00:00,10:30:00,03/17/2020,11:41:00,Michigan: Washtenaw County;,RF,System Operations,6062,0
+53,2020-03-18 00:00:00,07:09:00,Unknown,Unknown,Utah:,WECC,Natural Disaster,237,73000
+54,2020-03-19 00:00:00,17:05:00,03/19/2020,17:43:00,Minnesota: St. Louis County;,MRO,System Operations,0,0
+55,2020-03-20 00:00:00,22:20:00,03/20/2020,23:30:00,Connecticut: Massachusetts: Rhode Island: Maine: New Hampshire: Vermont:,NPCC,System Operations,0,0
+56,2020-03-20 00:00:00,23:38:00,03/20/2020,23:59:00,Maine:,NPCC,System Operations,0,0
+57,2020-03-20 00:00:00,23:45:00,03/21/2020,00:30:00,Connecticut: Massachusetts:,NPCC,System Operations,0,0
+58,2020-03-23 00:00:00,00:15:00,03/25/2020,17:11:00,Wisconsin: Columbia County;,MRO,Vandalism,0,0
+59,2020-03-23 00:00:00,14:15:00,03/23/2020,16:37:00,Virginia:,SERC,Sabotage,Unknown,1018
+60,2020-03-24 00:00:00,12:45:00,03/24/2020,14:00:00,California: Nevada County;,WECC,Suspicious Activity,0,0
+61,2020-03-24 00:00:00,02:55:00,03/24/2020,06:50:00,Connecticut: Massachusetts: Maine: New Hampshire: Rhode Island: Vermont:,NPCC,Severe Weather,Unknown,51026
+62,2020-03-25 00:00:00,10:31:00,Unknown,Unknown,Nevada: Clark County;,WECC,Vandalism,0,0
+63,2020-03-26 00:00:00,21:29:00,03/26/2020,21:47:00,Ohio:,RF,Transmission Interruption,19,11964
+64,2020-03-27 00:00:00,13:06:00,03/27/2020,13:58:00,"Delaware: Kent County, New Castle County, Sussex County; Maryland: Cecil County, Harford County, Talbot County, Kent County, Queen Anne&#39;s County, Dorchester County, Wicomico County, Worcester County, Somerset County;",RF,System Operations,0,0
+65,2020-03-27 00:00:00,13:06:00,03/27/2020,13:58:00,"New Jersey: Atlantic County, Cape May County, Cumberland County, Gloucester County, Salem County;",RF,System Operations,0,0
+66,2020-03-29 00:00:00,20:27:00,03/29/2020,23:04:00,Mississippi: Panola County;,SERC,Transmission Interruption,4,1558
+67,2020-03-31 00:00:00,11:45:00,03/31/2020,20:00:00,Alabama: Georgia:,SERC,Severe Weather,412,57744
+68,2020-04-01 00:00:00,21:43:00,04/01/2020,22:18:00,Illinois: Williamson County;,SERC,System Operations,0,0
+69,2020-04-02 00:00:00,18:41:00,04/02/2020,19:23:00,Texas: Travis County;,TRE,System Operations,0,0
+70,2020-04-02 00:00:00,13:37:00,04/02/2020,14:43:00,Nebraska: York County;,MRO,Transmission Interruption,5,Unknown
+71,2020-04-02 00:00:00,20:45:00,Unknown,Unknown,Washington: Wallula,WECC,Vandalism,Unknown,Unknown
+72,2020-04-03 00:00:00,09:13:00,Unknown,Unknown,Nevada: Clark County;,WECC,Vandalism,0,0
+73,2020-04-05 00:00:00,02:30:00,04/05/2020,03:01:00,Texas: Cameron County;,TRE,Suspicious Activity,0,0
+74,2020-04-05 00:00:00,15:46:00,04/05/2020,17:35:00,California: Stanislaus County;,WECC,Severe Weather,7,6814
+75,2020-04-07 00:00:00,23:39:00,04/07/2020,23:46:00,Washington:,WECC,Transmission Interruption,0,0
+76,2020-04-08 00:00:00,21:57:00,04/09/2020,08:59:00,Ohio: Kentucky:,RF,Severe Weather,Unknown,78314
+77,2020-04-08 00:00:00,22:03:00,04/09/2020,07:36:00,Indiana:,RF,Severe Weather,Unknown,93000
+78,2020-04-08 00:00:00,01:21:00,04/08/2020,03:56:00,Ohio:,WECC,Severe Weather,Unknown,82509
+79,2020-04-09 00:00:00,19:25:00,04/10/2020,03:30:00,Texas: Harris County;,TRE,Severe Weather,Unknown,95000
+80,2020-04-09 00:00:00,19:40:00,04/11/2020,22:00:00,Maine:,NPCC,Severe Weather,Unknown,340000
+81,2020-04-09 00:00:00,07:34:00,04/09/2020,17:40:00,Wisconsin: Dane County;,RF,System Operations,0,0
+82,2020-04-10 00:00:00,10:00:00,04/10/2020,16:19:00,Maine:,NPCC,System Operations,0,0
+83,2020-04-10 00:00:00,16:00:00,Unknown,Unknown,Nevada: White Pine County;,WECC,Vandalism,0,0
+84,2020-04-11 00:00:00,11:24:00,04/11/2020,11:42:00,Wyoming:,WECC,Transmission Interruption,0,0
+85,2020-04-11 00:00:00,17:40:00,04/11/2020,17:51:00,Utah: Salt Lake City,WECC,Suspicious Activity,Unknown,Unknown
+86,2020-04-12 00:00:00,20:45:00,Unknown,Unknown,Arkansas:,SPP RE,Severe Weather,Unknown,95318
+87,2020-04-12 00:00:00,13:00:00,04/12/2020,19:27:00,"Louisiana: Acadia Parish, Iberville Parish, Jefferson Davis Parish, Concordia Parish, Winn Parish, Catahoula Parish, Terrebonne Parish, St. Mary Parish;",SERC,Severe Weather,122,37991
+88,2020-04-12 00:00:00,20:30:00,04/14/2020,09:00:00,Arkansas:,SPP RE,Severe Weather,Unknown,51000
+89,2020-04-12 00:00:00,21:28:00,04/15/2020,12:00:00,Virginia: West Virginia:,RF,Severe Weather,Unknown,104000
+90,2020-04-12 00:00:00,17:00:00,04/14/2020,01:25:00,Mississippi: Alabama: Georgia:,SERC,Severe Weather,448,62828
+91,2020-04-12 00:00:00,18:13:00,04/13/2020,15:23:00,Texas:,TRE,Severe Weather,Unknown,63289
+92,2020-04-13 00:00:00,03:30:00,04/14/2020,18:18:00,North Carolina: South Carolina:,SERC,Severe Weather,Unknown,216400
+93,2020-04-13 00:00:00,00:45:00,04/13/2020,03:00:00,Tennessee: Hamilton County;,SERC,Severe Weather,Unknown,120000
+94,2020-04-13 00:00:00,08:08:00,Unknown,Unknown,South Carolina:,SERC,Severe Weather,Unknown,72233
+95,2020-04-13 00:00:00,10:25:00,04/13/2020,18:55:00,North Carolina:,SERC,Severe Weather,Unknown,95000
+96,2020-04-13 00:00:00,13:05:00,04/14/2020,16:00:00,Connecticut: Maine: Massachusetts: New Hampshire: Rhode Island: Vermont:,NPCC,Severe Weather,Unknown,68476
+97,2020-04-13 00:00:00,07:31:00,04/13/2020,14:00:00,North Carolina: South Carolina:,SERC,Severe Weather,Unknown,Unknown
+98,2020-04-16 00:00:00,11:30:00,04/16/2020,15:45:00,Georgia:,SERC,Vandalism,0,0
+99,2020-04-18 00:00:00,19:38:00,Unknown,Unknown,Nevada: Washoe County;,WECC,Vandalism,0,0
+100,2020-04-19 00:00:00,01:14:00,04/20/2020,11:42:00,North Dakota: Burleigh County;,MRO,Suspicious Activity,0,0
+101,2020-04-20 00:00:00,12:42:00,04/20/2020,13:27:00,South Dakota: Deuel County;,MRO,Vandalism,0,0
+102,2020-04-20 00:00:00,00:59:00,04/20/2020,08:40:00,Alabama: Mississippi: Georgia: Florida:,SERC,Severe Weather,552,77341
+103,2020-04-23 00:00:00,04:30:00,04/23/2020,07:00:00,Mississippi: Arkansas: Louisiana:,SERC,Severe Weather,Unknown,55184
+104,2020-04-23 00:00:00,08:00:00,04/23/2020,23:40:00,Alabama: Georgia: Mississippi: Florida:,SERC,Severe Weather,375,52163
+105,2020-04-24 00:00:00,22:00:00,Unknown,Unknown,Nevada: White Pine County;,WECC,Vandalism,0,0
+106,2020-04-24 00:00:00,21:00:00,04/24/2020,21:33:00,"California: Placer County, Nevada County;",WECC,System Operations,5,945
+107,2020-04-25 00:00:00,21:25:00,04/25/2020,21:56:00,Oregon: Multnomah County;,WECC,Vandalism,0,0
+108,2020-04-26 00:00:00,01:38:00,Unknown,Unknown,Florida:,FRCC,Severe Weather,Unknown,49999
+109,2020-04-28 00:00:00,20:01:00,04/28/2020,23:21:00,Texas: Jefferson County;,TRE,Transmission Interruption,14,1
+110,2020-04-29 00:00:00,06:00:00,04/29/2020,12:31:00,Louisiana:,SERC,Severe Weather,Unknown,77933
+111,2020-04-29 00:00:00,05:55:00,04/29/2020,19:00:00,Texas: Harris County;,TRE,Severe Weather,Unknown,146660
+112,2020-04-30 00:00:00,15:00:00,Unknown,Unknown,"Pennsylvania: Bucks County, Chester County, Delaware County, Montgomery County, Philadelphia County, York County;",RF,Severe Weather,Unknown,78007
+113,2020-05-04 00:00:00,11:59:00,05/07/2020,20:00:00,Tennessee: Davidson County;,SERC,Severe Weather,500,130000
+114,2020-05-08 00:00:00,13:45:00,05/08/2020,13:46:00,Nevada: Nye County;,WECC,Vandalism,0,0
+115,2020-05-13 00:00:00,23:16:00,05/14/2020,13:52:00,Indiana: Hendricks County;,RF,System Operations,0,0
+116,2020-05-13 00:00:00,05:12:00,05/13/2020,14:07:00,Washington:,WECC,Transmission Interruption,0,0
+117,2020-05-14 00:00:00,11:23:00,05/14/2020,11:25:00,Oregon: Jackson County;,WECC,Vandalism,0,0
+118,2020-05-15 00:00:00,17:55:00,05/17/2020,18:00:00,New York: Saratoga County;,NPCC,Severe Weather,Unknown,52
+119,2020-05-16 00:00:00,00:00:00,05/16/2020,00:30:00,Texas: Cameron County;,TRE,Suspicious Activity,0,0
+120,2020-05-18 00:00:00,23:51:00,05/19/2020,04:37:00,South Carolina:,SERC,System Operations,0,0
+121,2020-05-18 00:00:00,09:27:00,05/18/2020,10:15:00,Oregon: Clackamas County;,WECC,System Operations,0,0
+122,2020-05-19 00:00:00,20:04:00,05/19/2020,22:00:00,Alabama: Jefferson County;,SERC,Vandalism,8,6000
+123,2020-05-19 00:00:00,08:17:00,05/19/2020,08:18:00,Idaho: Bonneville County;,WECC,Vandalism,0,0
+124,2020-05-19 00:00:00,13:45:00,05/19/2020,13:46:00,Arkansas:,SPP RE,Suspicious Activity,0,0
+125,2020-05-20 00:00:00,11:41:00,Unknown,Unknown,Nevada: Clark County;,WECC,Vandalism,0,0
+126,2020-05-22 00:00:00,16:35:00,05/23/2020,15:29:00,North Carolina: South Carolina:,SERC,Severe Weather,Unknown,108190
+127,2020-05-24 00:00:00,16:45:00,Unknown,Unknown,Central Oklahoma,SPP RE,Severe Weather,Unknown,54000
+128,2020-05-25 00:00:00,10:58:00,05/25/2020,13:00:00,Texas: Kerr County;,TRE,Transmission Interruption,8,3745
+129,2020-05-27 00:00:00,17:15:00,05/29/2020,06:30:00,Texas: Harris County;,TRE,Severe Weather,Unknown,382000
+130,2020-05-27 00:00:00,17:20:00,Unknown,Unknown,Texas:,TRE,Severe Weather,Unknown,273269
+131,2020-05-29 00:00:00,17:01:00,05/29/2020,18:57:00,Pennsylvania: Warren County;,RF,Transmission Interruption,0,0
+132,2020-05-29 00:00:00,17:30:00,05/31/2020,18:00:00,Minnesota: Hennepin County;,MRO,System Operations,0,0
+133,2020-05-29 00:00:00,21:37:00,05/30/2020,04:29:00,Ohio: Franklin County;,RF,Vandalism,0,0
+134,2020-05-30 00:00:00,22:20:00,05/30/2020,23:00:00,Texas: Bexar County;,TRE,System Operations,0,0
+135,2020-05-31 00:00:00,21:30:00,06/01/2020,01:00:00,Alabama: Jefferson County;,SERC,Vandalism,0,0
+136,2020-05-31 00:00:00,00:15:00,Unknown,Unknown,Pennsylvania:,RF,Vandalism,0,0
+137,2020-06-02 00:00:00,14:36:00,06/02/2020,14:37:00,"Idaho: Blaine County, Jerome County, Minidoka County, Power County;",WECC,Vandalism,Unknown,0
+138,2020-06-03 00:00:00,13:00:00,06/06/2020,16:30:00,New Jersey:,RF,Severe Weather,80,87000
+139,2020-06-03 00:00:00,12:30:00,06/03/2020,18:00:00,"Pennsylvania: Bucks County, Chester County, Delaware County, Montgomery County, Philadelphia County, York County;",RF,Severe Weather,Unknown,708000
+140,2020-06-03 00:00:00,16:57:00,06/03/2020,17:29:00,North Dakota: Minnesota:,MRO,System Operations,0,0
+141,2020-06-03 00:00:00,13:36:00,06/03/2020,16:30:00,New Jersey:,RF,Severe Weather,Unknown,78079
+142,2020-06-09 00:00:00,11:21:00,06/09/2020,12:01:00,Washington:,WECC,Transmission Interruption,0,0
+143,2020-06-10 00:00:00,19:30:00,Unknown,Unknown,"Michigan: Oakland County, Macomb County, Wayne County, Sanilac County, Tuscola County, Huron County, Lapeer County, Livingston County, Monroe County;",RF,Severe Weather,Unknown,237000
+144,2020-06-10 00:00:00,12:22:00,06/10/2020,17:00:00,"Michigan: Gratiot County, Lake County, Missaukee County, Benzie County, Leelanau County, Manistee County, Wexford County, Montcalm County, Kent County, Ottawa County, Van Buren County, St. Joseph County, Arenac County, Saginaw County, Calhoun County, Branch County;",RF,Severe Weather,Unknown,270000
+145,2020-06-10 00:00:00,17:24:00,06/11/2020,18:00:00,Ohio: Indiana: Kentucky: West Virginia:,RF,Severe Weather,Unknown,85822
+146,2020-06-12 00:00:00,08:21:00,06/12/2020,08:22:00,Michigan: Houghton County;,RF,Vandalism,0,0
+147,2020-06-18 00:00:00,12:11:00,06/22/2020,08:11:00,Colorado: El Paso County;,WECC,Actual Physical Attack,0,0
+148,2020-06-18 00:00:00,20:32:00,06/18/2020,20:35:00,Kentucky: Gallatin County;,SERC,Actual Physical Attack,0,0
+149,2020-06-21 00:00:00,01:16:00,06/21/2020,18:45:00,Delaware: New Castle County;,RF,Vandalism,0,0
+150,2020-06-22 00:00:00,11:44:00,06/22/2020,12:42:00,"Pennsylvania: Allegheny County, Beaver County;",RF,System Operations,0,0
+151,2020-06-25 00:00:00,09:40:00,06/25/2020,11:00:00,Kentucky: Madison County;,SERC,Suspicious Activity,Unknown,0
+152,2020-06-26 00:00:00,16:20:00,06/29/2020,15:00:00,North Dakota: Mountrail County;,MRO,Vandalism,0,0
+153,2020-06-26 00:00:00,12:47:00,06/26/2020,13:53:00,Texas: Travis County;,TRE,System Operations,0,0
+154,2020-06-27 00:00:00,16:00:00,06/28/2020,02:27:00,Alabama: Georgia:,SERC,Severe Weather,33480,78109
+155,2020-06-29 00:00:00,14:32:00,06/29/2020,16:35:00,Arkansas: Garland County;,SPP RE,Transmission Interruption,0,0
+156,2020-06-30 00:00:00,10:28:00,06/30/2020,10:29:00,Oregon:,WECC,Vandalism,0,0
+157,2020-07-01 00:00:00,19:26:00,07/01/2020,19:44:00,Pennsylvania:,RF,Transmission Interruption,32,2013
+158,2020-07-02 00:00:00,20:30:00,Unknown,Unknown,California: Butte County;,WECC,Fuel Supply Deficiency,0,0
+159,2020-07-06 00:00:00,12:26:00,Unknown,Unknown,New York: Kings County;,NPCC,Suspicious Activity,0,0
+160,2020-07-06 00:00:00,18:45:00,07/06/2020,19:42:00,District of Columbia: Maryland:,RF,System Operations,0,0
+161,2020-07-07 00:00:00,11:38:00,07/07/2020,18:24:00,California: Los Angeles County;,WECC,Transmission Interruption,0,0
+162,2020-07-07 00:00:00,13:09:00,07/08/2020,08:17:00,Colorado:,WECC,Transmission Interruption,0,0
+163,2020-07-07 00:00:00,19:17:00,07/07/2020,23:49:00,West Virginia: Wyoming County;,RF,Severe Weather/Transmission Interruption,Unknown,Unknown
+164,2020-07-08 00:00:00,22:04:00,Unknown,Unknown,Texas:,TRE,Actual Physical Attack,0,0
+165,2020-07-08 00:00:00,18:45:00,Unknown,Unknown,California:,WECC,Fuel Supply Deficiency,0,0
+166,2020-07-09 00:00:00,15:09:00,Unknown,Unknown,Washington: Thurston County;,WECC,Suspicious Activity,0,0
+167,2020-07-11 00:00:00,23:30:00,07/12/2020,06:30:00,Oklahoma: Arkansas:,SPP RE,Severe Weather,Unknown,68000
+168,2020-07-11 00:00:00,21:30:00,Unknown,Unknown,Oklahoma:,SPP RE,Severe Weather,Unknown,94700
+169,2020-07-11 00:00:00,04:55:00,Unknown,Unknown,California:,WECC,Fuel Supply Deficiency,0,0
+170,2020-07-12 00:00:00,04:30:00,07/13/2020,05:00:00,"Texas: Collin County, Dallas County, Denton County, Rockwall County, Tarrant County;",TRE,Severe Weather,Unknown,48000
+171,2020-07-12 00:00:00,14:08:00,07/12/2020,20:44:00,Nevada: Washoe County;,WECC,Actual Physical Attack,36,10000
+172,2020-07-13 00:00:00,16:30:00,07/13/2020,16:31:00,Kentucky: Madison County;,SERC,Suspicious Activity,0,0
+173,2020-07-14 00:00:00,14:16:00,07/14/2020,14:53:00,California:,WECC,System Operations,0,0
+174,2020-07-15 00:00:00,11:00:00,07/15/2020,11:20:00,Kentucky: Madison County;,SERC,Suspicious Activity,Unknown,0
+175,2020-07-16 00:00:00,08:49:00,07/16/2020,11:06:00,North Dakota: Minnesota:,MRO,System Operations,475,0
+176,2020-07-17 00:00:00,23:00:00,07/17/2020,23:30:00,Oklahoma:,SPP RE,Vandalism,0,0
+177,2020-07-17 00:00:00,19:24:00,Unknown,Unknown,New York:,NPCC,Suspicious Activity,0,0
+178,2020-07-19 00:00:00,14:30:00,07/21/2020,18:48:00,Michigan:,RF,Severe Weather,Unknown,158500
+179,2020-07-19 00:00:00,10:30:00,Unknown,Unknown,New York: Niagara County,NPCC,Fuel Supply Deficiency,675,
+180,2020-07-20 00:00:00,00:57:00,07/20/2020,02:34:00,Texas: Travis County;,TRE,Suspicious Activity,21,14096
+181,2020-07-21 00:00:00,11:53:00,07/21/2020,13:00:00,Washington: Pierce County;,WECC,Vandalism,19,11000
+182,2020-07-22 00:00:00,11:30:00,07/22/2020,14:19:00,West Virginia: Tucker County;,RF,Transmission Interruption,0,0
+183,2020-07-24 00:00:00,08:25:00,Unknown,Unknown,New York: Bronx County;,NPCC,Suspicious Activity,0,0
+184,2020-07-25 00:00:00,21:00:00,07/26/2020,16:00:00,"Texas: Hidalgo County, Cameron County, Starr County, Kenedy County, Willacy County, Brooks County, Jim Hogg County;",TRE,Severe Weather,125,84000
+185,2020-07-25 00:00:00,19:58:00,07/27/2020,19:00:00,"Texas: Nueces County, Kleberg County, Cameron County, Willacy County, Hidalgo County, Starr County, Kenedy County;",TRE,Severe Weather,Unknown,201208
+186,2020-07-28 00:00:00,15:00:00,07/28/2020,23:00:00,Michigan: Jackson County;,RF,System Operations,0,0
+187,2020-07-30 00:00:00,17:54:00,07/30/2020,20:18:00,Nebraska: Scotts Bluff County;,MRO,Transmission Interruption,0,0
+188,2020-08-01 00:00:00,11:14:00,08/10/2020,21:26:00,"Texas: Cameron County, Willacy County, Hidalgo County, Starr County;",TRE,Severe Weather,Unknown,Unknown
+189,2020-08-01 00:00:00,08:16:00,08/01/2020,09:15:00,California: San Diego County;,WECC,System Operations,0,0
+190,2020-08-01 00:00:00,00:00:00,08/01/2020,00:01:00,"Texas: Cameron County, Hidalgo County, Starr County, Willacy County;",TRE,Severe Weather,Unknown,Unknown
+191,2020-08-02 00:00:00,19:43:00,08/02/2020,22:27:00,Illinois: Rock Island County;,SERC,Transmission Interruption,0,0
+192,2020-08-03 00:00:00,08:00:00,08/03/2020,13:00:00,Texas: Ector County;,TRE,Vandalism,0,0
+193,2020-08-03 00:00:00,23:15:00,08/06/2020,07:00:00,North Carolina: South Carolina:,SERC,Severe Weather,Unknown,340000
+194,2020-08-03 00:00:00,23:02:00,Unknown,Unknown,North Carolina:,SERC,Severe Weather,Unknown,Unknown
+195,2020-08-04 00:00:00,12:00:00,08/07/2020,06:00:00,"New York: Rockland County, Orange County, Sullivan County; New Jersey: Bergen County, Passaic County, Sussex County;",NPCC,Severe Weather,Unknown,160000
+196,2020-08-04 00:00:00,13:00:00,08/04/2020,23:59:00,"New York: Nassau County, Suffolk County, Queens County;",NPCC,Severe Weather,3907,420000
+197,2020-08-04 00:00:00,11:20:00,08/07/2020,10:55:00,New Jersey:,RF,Severe Weather,60,75000
+198,2020-08-04 00:00:00,09:00:00,08/05/2020,18:00:00,Delaware:,RF,Severe Weather,Unknown,100000
+199,2020-08-04 00:00:00,14:00:00,08/08/2020,12:00:00,"New York: Dutchess County, Orange County, Ulster County;",NPCC,Severe Weather,Unknown,116818
+200,2020-08-04 00:00:00,04:41:00,08/05/2020,16:26:00,Virginia:,SERC,Severe Weather,Unknown,508000
+201,2020-08-04 00:00:00,12:18:00,08/08/2020,17:31:00,New Jersey:,RF,Severe Weather,Unknown,788000
+202,2020-08-04 00:00:00,14:35:00,08/10/2020,11:00:00,New York: Broome County;,NPCC,Severe Weather,Unknown,76120
+203,2020-08-04 00:00:00,15:15:00,08/07/2020,10:27:00,Connecticut: Massachusetts: New Hampshire: Maine: Rhode Island: Vermont:,NPCC,Severe Weather,2000,1188247
+204,2020-08-04 00:00:00,13:31:00,Unknown,Unknown,"New York: Bronx County, Richmond County, Queens County, Kings County, Westchester County, New York County;",NPCC,Severe Weather,Unknown,271119
+205,2020-08-04 00:00:00,06:01:00,08/06/2020,15:30:00,"North Carolina: Brunswick County, Columbus County, Pender County, Duplin County, Onslow County, Jones County, Craven County, Jones County, Beaufort County, Bertie County, Chowan County, Gates County, Perquimans County;",SERC,Severe Weather,311,125987
+206,2020-08-04 00:00:00,12:00:00,Unknown,Unknown,"Pennsylvania: Bucks County, Chester County, Delaware County, Montgomery County, Philadelphia County, York County;",RF,Severe Weather,Unknown,137103
+207,2020-08-04 00:00:00,10:30:00,Unknown,Unknown,New Jersey:,RF,Severe Weather,Unknown,70000
+208,2020-08-04 00:00:00,14:35:00,Unknown,Unknown,New York:,NPCC,Severe Weather,Unknown,76120
+209,2020-08-05 00:00:00,17:58:00,08/05/2020,20:53:00,Texas: Orange County;,TRE,Transmission Interruption,89,19785
+210,2020-08-07 00:00:00,05:13:00,Unknown,Unknown,"New York: Queens County, New York County;",NPCC,Severe Weather,500,187068
+211,2020-08-10 00:00:00,11:00:00,08/10/2020,16:00:00,"Iowa: Webster County, Greene County, Dallas County, Hamilton County, Boone County, Polk County, Hardin County, Story County, Jasper County, Grundy County, Marshall County, Tama County, Poweshiek County, Benton County, Iowa County, Linn County, Johnson County, Jones County, Cedar County, Muscatine County, Jackson County, Clinton County, Scott County;",MRO,Severe Weather,550,Unknown
+212,2020-08-10 00:00:00,16:00:00,08/13/2020,15:00:00,Illinois: Missouri:,SERC,Severe Weather,Unknown,135000
+213,2020-08-10 00:00:00,12:49:00,Unknown,Unknown,Iowa:,MRO,Severe Weather,Unknown,Unknown
+214,2020-08-10 00:00:00,22:39:00,08/13/2020,15:48:00,Indiana:,RF,Severe Weather,Unknown,95300
+215,2020-08-10 00:00:00,14:30:00,Unknown,Unknown,"Illinois: Cook County, Will County, DuPage County, Lake County, Kane County, Grundy County, LaSalle County, DeKalb County, McHenry County, Lee County;",SERC,Severe Weather,Unknown,856000
+216,2020-08-10 00:00:00,22:25:00,08/10/2020,23:02:00,New York: Onondaga County;,NPCC,System Operations,0,0
+217,2020-08-10 00:00:00,12:38:00,Unknown,Unknown,Iowa:,MRO,Severe Weather,1400,250000
+218,2020-08-10 00:00:00,10:00:00,Unknown,Unknown,"Iowa: Dallas County, Polk County, Warren County, Madison County, Johnson County, Scott County; Illinois: Rock Island County, Henry County, Mercer County;",MRO,Severe Weather,950,300000
+219,2020-08-13 00:00:00,13:51:00,08/13/2020,16:27:00,Texas: El Paso County;,TRE,System Operations,218,57060
+220,2020-08-14 00:00:00,18:36:00,08/14/2020,20:42:00,California:,WECC,System Operations,560,220000
+221,2020-08-14 00:00:00,16:39:00,08/14/2020,17:42:00,Louisiana: St. Charles Parish;,SERC,Transmission Interruption,101,12671
+222,2020-08-14 00:00:00,17:15:00,08/15/2020,21:00:00,California:,WECC,Severe Weather,1120,Unknown
+223,2020-08-14 00:00:00,18:45:00,08/14/2020,21:12:00,"California: Kern County, Kings County, Los Angeles County, Orange County, Riverside County, San Bernardino County, Santa Barbara County, Tulare County, Ventura County;",WECC,System Operations,1419,132000
+224,2020-08-14 00:00:00,20:00:00,08/16/2020,17:00:00,"Minnesota: Anoka County, Hennepin County, Ramsey County, Washington County;",MRO,Severe Weather,Unknown,60000
+225,2020-08-15 00:00:00,18:25:00,08/15/2020,19:44:00,California:,WECC,System Operations,459,220000
+226,2020-08-15 00:00:00,14:53:00,08/15/2020,20:00:00,California:,WECC,Severe Weather,795,Unknown
+227,2020-08-15 00:00:00,15:00:00,08/15/2020,19:45:00,"California: Inyo County, Kern County, Los Angeles County, Orange County, Riverside County, San Bernardino County, Tulare County, Ventura County;",WECC,System Operations,200,70000
+228,2020-08-15 00:00:00,17:00:00,Unknown,Unknown,Washington: Snohomish County;,WECC,Vandalism,0,8
+229,2020-08-15 00:00:00,17:41:00,08/15/2020,18:48:00,Connecticut: New Haven County[13];,NPCC,Suspicious Activity,0,0
+230,2020-08-16 00:00:00,20:00:00,08/18/2020,21:00:00,"Texas: Collin County, Dallas County, Denton County, Tarrant County, Ellis County, Kaufman County, Johnson County, Anderson County, Angelina County, Grayson County, Smith County, Wichita County;",TRE,Severe Weather,Unknown,300000
+231,2020-08-16 00:00:00,03:44:00,08/17/2020,14:18:00,California:,WECC,Severe Weather,409,124266
+232,2020-08-16 00:00:00,17:30:00,08/16/2020,19:10:00,California:,WECC,Severe Weather,712,Unknown
+233,2020-08-17 00:00:00,08:21:00,08/17/2020,09:01:00,California: Yuba County;,WECC,Severe Weather,2,2
+234,2020-08-17 00:00:00,15:05:00,08/17/2020,21:24:00,California:,WECC,Severe Weather,829,Unknown
+235,2020-08-18 00:00:00,19:00:00,08/18/2020,19:30:00,California: Kings County;,WECC,Potential Physical Attack,0,0
+236,2020-08-18 00:00:00,14:00:00,08/18/2020,21:00:00,Nevada:,WECC,Severe Weather,7800,1400000
+237,2020-08-18 00:00:00,21:55:00,08/18/2020,22:10:00,California: Imperial County;,WECC,System Operations,0,0
+238,2020-08-18 00:00:00,13:30:00,08/18/2020,20:30:00,California:,WECC,Severe Weather,917,Unknown
+239,2020-08-18 00:00:00,14:44:00,08/18/2020,15:14:00,"Texas: Culberson County, Reeves County;",TRE,Transmission Interruption,205,238
+240,2020-08-18 00:00:00,14:30:00,Unknown,Unknown,Arizona:,WECC,Severe Weather,0,Unknown
+241,2020-08-19 00:00:00,01:27:00,08/19/2020,03:03:00,Ohio: Trumbull County;,RF,Transmission Interruption,22,16107
+242,2020-08-19 00:00:00,14:00:00,08/19/2020,21:00:00,Arizona: Maricopa County;,WECC,Severe Weather,1200,0
+243,2020-08-19 00:00:00,14:00:00,08/19/2020,21:00:00,Nevada:,WECC,Severe Weather,7500,1400000
+244,2020-08-19 00:00:00,12:00:00,08/19/2020,21:00:00,California:,WECC,Severe Weather,Unknown,Unknown
+245,2020-08-20 00:00:00,00:03:00,08/20/2020,14:05:00,Maine:,NPCC,System Operations,0,0
+246,2020-08-20 00:00:00,09:17:00,08/20/2020,13:42:00,Mississippi: Jasper County;,SERC,Vandalism,0,0
+247,2020-08-20 00:00:00,15:29:00,08/20/2020,15:39:00,Nebraska: Custer County;,MRO,Transmission Interruption,60,Unknown
+248,2020-08-23 00:00:00,22:12:00,08/23/2020,22:15:00,West Virginia: Putnam County;,RF,Suspicious Activity,0,0
+249,2020-08-23 00:00:00,10:30:00,Unknown,Unknown,"Texas panhandle, SE NM",TRE,Severe Weather,Unknown,Unknown
+250,2020-08-24 00:00:00,23:00:00,08/24/2020,23:59:00,Texas: Denton County;,TRE,Potential Physical Attack,0,0
+251,2020-08-25 00:00:00,02:43:00,08/25/2020,07:43:00,Colorado: Jefferson County;,WECC,Vandalism,0,0
+252,2020-08-27 00:00:00,05:00:00,09/03/2020,12:00:00,Louisiana:,SERC,Severe Weather,200,50000
+253,2020-08-27 00:00:00,07:00:00,08/30/2020,19:00:00,Louisiana: Rapides Parish;,SERC,Severe Weather,48,Unknown
+254,2020-08-27 00:00:00,12:44:00,08/27/2020,23:00:00,Texas:,TRE,Severe Weather,Unknown,Unknown
+255,2020-08-27 00:00:00,12:06:00,08/27/2020,22:49:00,Texas:,TRE,Severe Weather,581,Unknown
+256,2020-08-27 00:00:00,07:40:00,08/31/2020,07:40:00,Louisiana: Texas:,SERC,Severe Weather,Unknown,130000
+257,2020-08-27 00:00:00,01:15:00,Unknown,Unknown,Texas: Louisiana:,TRE,Severe Weather,Unknown,615992
+258,2020-08-27 00:00:00,07:40:00,08/31/2020,03:33:00,Louisiana: Texas:,SERC,Severe Weather,Unknown,47927
+259,2020-08-27 00:00:00,12:02:00,08/27/2020,22:54:00,Texas:,TRE,Severe Weather,573,Unknown
+260,2020-08-27 00:00:00,12:29:00,08/27/2020,12:59:00,"Nebraska: Douglas County, Burt County, Washington County, Dodge County, Colfax County, Saunders County, Sarpy County, Cass County, Otoe County, Johnson County, Nemaha County, Pawnee County, Richardson County;",MRO,System Operations,0,0
+261,2020-08-27 00:00:00,17:11:00,08/28/2020,10:00:00,Connecticut: Massachusetts: New Hampshire: Maine: Rhode Island: Vermont:,NPCC,Severe Weather,100,60687
+262,2020-08-27 00:00:00,13:24:00,Unknown,Unknown,"Texas: Montgomery County, Liberty County;",TRE,Severe Weather,208,Unknown
+263,2020-08-27 00:00:00,12:06:00,Unknown,Unknown,Texas:,TRE,Severe Weather,350,Unknown
+264,2020-08-27 00:00:00,06:00:00,08/27/2020,06:05:00,West Virginia: Putnam County;,RF,Suspicious Activity,2900,Unknown
+265,2020-08-27 00:00:00,03:14:00,Unknown,Unknown,"Louisiana: Calcasieu Parish, Beauregard Parish, Iberia Parish, Acadia Parish, Evangeline Parish, Rapides Parish, St. Landry Parish, Vernon Parish;",SERC,Severe Weather,Unknown,Unknown
+266,2020-08-28 00:00:00,16:27:00,08/28/2020,19:26:00,Washington: Oregon:,WECC,Severe Weather,0,0
+267,2020-08-28 00:00:00,00:25:00,08/28/2020,01:00:00,Maine:,NPCC,System Operations,0,0
+268,2020-08-29 00:00:00,03:35:00,08/29/2020,05:45:00,Texas:,TRE,Severe Weather,Unknown,Unknown
+269,2020-08-31 00:00:00,09:00:00,08/31/2020,15:53:00,Washington:,WECC,Vandalism,0,0
+270,2020-09-01 00:00:00,13:04:00,09/01/2020,13:05:00,California: Los Angeles County;,WECC,Suspicious Activity,0,0
+271,2020-09-03 00:00:00,13:46:00,09/03/2020,22:47:00,Washington:,WECC,Transmission Interruption,Unknown,Unknown
+272,2020-09-04 00:00:00,01:07:00,09/04/2020,01:37:00,Florida: Pinellas County;,FRCC,System Operations,0,0
+273,2020-09-05 00:00:00,17:20:00,09/05/2020,20:37:00,California:,WECC,Severe Weather,986,Unknown
+274,2020-09-05 00:00:00,17:25:00,09/05/2020,20:55:00,California: Imperial County;,WECC,Severe Weather,100,20000
+275,2020-09-06 00:00:00,16:00:00,09/06/2020,21:00:00,Nevada:,WECC,Severe Weather,8180,1400000
+276,2020-09-06 00:00:00,16:30:00,09/06/2020,21:05:00,California:,WECC,System Operations,1071,Unknown
+277,2020-09-06 00:00:00,17:36:00,09/06/2020,19:27:00,Washington: Oregon: California:,WECC,System Operations,0,0
+278,2020-09-06 00:00:00,17:00:00,09/07/2020,03:00:00,California: Los Angeles County;,WECC,Severe Weather,Unknown,72000
+279,2020-09-07 00:00:00,22:40:00,09/09/2020,17:24:00,California:,WECC,Transmission Interruption,610,172000
+280,2020-09-07 00:00:00,18:00:00,09/08/2020,18:00:00,"Washington: Kitsap County, King County, Pierce County;",WECC,Severe Weather,Unknown,71500
+281,2020-09-07 00:00:00,09:13:00,09/08/2020,06:00:00,Washington:,WECC,Natural Disaster,80,21000
+282,2020-09-07 00:00:00,19:05:00,09/08/2020,22:00:00,"Oregon: Multnomah County, Washington County, Clackamas County, Marion County, Yamhill County, Polk County;",WECC,Severe Weather,2859,103000
+283,2020-09-08 00:00:00,09:50:00,09/08/2020,10:56:00,Michigan: Ingham County;,RF,System Operations,265,0
+284,2020-09-09 00:00:00,22:16:00,09/11/2020,08:17:00,Minnesota: Sherburne County;,MRO,Suspicious Activity,0,0
+285,2020-09-09 00:00:00,11:22:00,09/09/2020,13:04:00,Idaho:,WECC,Natural Disaster,0,0
+286,2020-09-15 00:00:00,22:00:00,09/20/2020,15:00:00,Alabama: Florida: Georgia: Mississippi:,SERC,Severe Weather/Transmission Interruption,236,34096
+287,2020-09-15 00:00:00,15:04:00,09/15/2020,15:37:00,North Dakota: South Dakota: Montana:,MRO,System Operations,0,0
+288,2020-09-16 00:00:00,07:00:00,09/18/2020,06:00:00,Florida: Escambia County;,FRCC,System Operations,0,0
+289,2020-09-16 00:00:00,03:00:00,09/21/2020,08:00:00,Alabama: Baldwin County;,SERC,Severe Weather,0,77600
+290,2020-09-16 00:00:00,02:09:00,09/16/2020,02:20:00,Maine: Oxford County;,NPCC,Vandalism,0,0
+291,2020-09-20 00:00:00,20:01:00,09/21/2020,15:44:00,Oklahoma: Canadian County;,SPP RE,Actual Physical Attack,0,Unknown
+292,2020-09-22 00:00:00,10:02:00,09/22/2020,12:58:00,California:,WECC,System Operations,8,4350
+293,2020-09-23 00:00:00,12:00:00,09/23/2020,13:00:00,New Jersey:,RF,Vandalism,0,0
+294,2020-09-26 00:00:00,05:17:00,09/26/2020,05:41:00,Nevada: Clark County;,WECC,Actual Physical Attack,26,13000
+295,2020-09-27 00:00:00,18:27:00,09/28/2020,15:17:00,California:,WECC,Natural Disaster,337,102267
+296,2020-09-30 00:00:00,05:55:00,09/30/2020,23:30:00,Connecticut: Maine: Rhode Island: Massachusetts: New Hampshire: Vermont:,NPCC,Severe Weather,Unknown,155000
+297,2020-10-02 00:00:00,19:30:00,10/04/2020,06:30:00,Virginia: Hanover County;,SERC,Suspicious Activity,0,0
+298,2020-10-07 00:00:00,13:45:00,10/07/2020,13:59:00,Louisiana: Orleans Parish;,SERC,Transmission Interruption,183,39089
+299,2020-10-07 00:00:00,16:00:00,Unknown,Unknown,New York: Onondaga County;,NPCC,Severe Weather,Unknown,7500
+300,2020-10-07 00:00:00,18:50:00,10/09/2020,15:00:00,Connecticut: Massachusetts: Maine: New Hampshire: Rhode Island: Vermont:,NPCC,Severe Weather,Unknown,186600
+301,2020-10-09 00:00:00,10:44:00,10/09/2020,22:25:00,Colorado:,WECC,Transmission Interruption,0,0
+302,2020-10-09 00:00:00,20:00:00,10/15/2020,07:00:00,Louisiana:,SERC,Severe Weather,200,50000
+303,2020-10-09 00:00:00,19:50:00,10/11/2020,15:09:00,"Louisiana: Acadia Parish, Beauregard Parish, Calcasieu Parish, Evangeline Parish, Iberia Parish, Rapides Parish, Vernon Parish, Avoyelles Parish, Grant Parish, Natchitoches Parish, St. Landry Parish, St. Mary Parish, St. Tammany Parish;",SERC,Severe Weather,Unknown,132200
+304,2020-10-09 00:00:00,17:30:00,10/10/2020,18:00:00,Louisiana: Texas: Arkansas: Mississippi:,SERC,Severe Weather,Unknown,477966
+305,2020-10-09 00:00:00,20:00:00,10/10/2020,06:00:00,Louisiana: Lafayette Parish;,SERC,Severe Weather,Unknown,50000
+306,2020-10-10 00:00:00,23:10:00,10/10/2020,23:15:00,Washington: Oregon:,WECC,Transmission Interruption,0,0
+307,2020-10-10 00:00:00,08:05:00,10/10/2020,12:00:00,Oregon: Clackamas County;,WECC,System Operations,0,0
+308,2020-10-10 00:00:00,02:22:00,10/10/2020,05:00:00,Louisiana: Lafayette Parish;,SERC,Severe Weather,Unknown,Unknown
+309,2020-10-12 00:00:00,04:06:00,10/12/2020,04:07:00,Florida: Polk County;,FRCC,Transmission Interruption,0,0
+310,2020-10-13 00:00:00,13:14:00,10/14/2020,14:00:00,"Washington: Whatcom County, King County, Pierce County, Thurston County, Kittitas County, Kitsap County;",WECC,Severe Weather,Unknown,76000
+311,2020-10-14 00:00:00,18:26:00,10/15/2020,13:11:00,Texas: Pecos County;,TRE,Transmission Interruption,18,Unknown
+312,2020-10-15 00:00:00,23:43:00,Unknown,Unknown,Washington: Walla Walla County;,WECC,Vandalism,0,0
+313,2020-10-15 00:00:00,16:50:00,Unknown,Unknown,Michigan:,RF,System Operations,0,0
+314,2020-10-16 00:00:00,14:00:00,10/16/2020,16:00:00,Kentucky:,SERC,Vandalism,62,0
+315,2020-10-20 00:00:00,18:48:00,10/20/2020,18:49:00,Illinois: Massac County;,SERC,Transmission Interruption,0,0
+316,2020-10-22 00:00:00,08:00:00,10/22/2020,08:01:00,Idaho:,WECC,Suspicious Activity,0,0
+317,2020-10-22 00:00:00,22:48:00,10/22/2020,23:34:00,Florida: Pinellas County;,FRCC,System Operations,0,0
+318,2020-10-23 00:00:00,15:42:00,10/23/2020,23:11:00,Ohio:,RF,Transmission Interruption,Unknown,Unknown
+319,2020-10-23 00:00:00,15:46:00,10/23/2020,23:03:00,Texas: Harris County;,TRE,Severe Weather,Unknown,55506
+320,2020-10-24 00:00:00,20:13:00,10/24/2020,22:52:00,Minnesota: Hennepin County;,MRO,Transmission Interruption,1,4
+321,2020-10-25 00:00:00,14:32:00,10/27/2020,18:00:00,California:,WECC,Severe Weather,1218,370000
+322,2020-10-25 00:00:00,03:25:00,10/25/2020,03:45:00,Wisconsin: Milwaukee County; Michigan:,MRO,Suspicious Activity,0,0
+323,2020-10-26 00:00:00,13:00:00,11/07/2020,19:00:00,"Oklahoma: Oklahoma County, Canadian County, Logan County, Cleveland County, Pottawatomie County;",SPP RE,Severe Weather,Unknown,447000
+324,2020-10-26 00:00:00,11:24:00,10/27/2020,16:43:00,"California: Los Angeles County, Riverside County, San Bernardino County, Orange County, Kern County, Ventura County;",WECC,Severe Weather,Unknown,136833
+325,2020-10-26 00:00:00,09:28:00,10/26/2020,12:20:00,Colorado:,WECC,Transmission Interruption,75,13000
+326,2020-10-26 00:00:00,10:00:00,10/26/2020,10:15:00,Kentucky:,SERC,Vandalism,64,0
+327,2020-10-27 00:00:00,17:50:00,Unknown,Unknown,Oklahoma:,SPP RE,Severe Weather,Unknown,235000
+328,2020-10-28 00:00:00,21:37:00,11/02/2020,19:30:00,Alabama: Florida: Mississippi: Georgia:,SERC,Severe Weather,253,35478
+329,2020-10-28 00:00:00,18:00:00,10/29/2020,01:15:00,Louisiana:,SERC,Severe Weather,Unknown,481268
+330,2020-10-28 00:00:00,11:53:00,10/28/2020,15:26:00,Texas:,TRE,Transmission Interruption,Unknown,Unknown
+331,2020-10-28 00:00:00,10:28:00,10/28/2020,10:29:00,Texas:,TRE,Severe Weather,Unknown,Unknown
+332,2020-10-28 00:00:00,17:12:00,10/29/2020,16:30:00,"Louisiana: St. Tammany Parish, St. Mary Parish;",SERC,Severe Weather,Unknown,72707
+333,2020-10-29 00:00:00,08:15:00,10/31/2020,18:45:00,North Carolina: South Carolina:,SERC,Severe Weather,Unknown,461580
+334,2020-10-29 00:00:00,11:58:00,10/29/2020,13:10:00,Maine:,NPCC,System Operations,0,0
+335,2020-10-29 00:00:00,02:00:00,10/31/2020,09:00:00,"Alabama: Baldwin County, Butler County, Clarke County, Conecuh County, Escambia County, Lee County, Lowndes County, Macon County, Montgomery County, Pike County, Russell County, Tallapoosa County, Talladega County, Washington County, Monroe County; Florida: Escambia County, Okaloosa County, Walton County, Santa Rosa County;",SERC,Severe Weather,0,90000
+336,2020-11-01 00:00:00,18:00:00,11/01/2020,18:09:00,Ohio:,RF,Severe Weather,Unknown,85677
+337,2020-11-01 00:00:00,12:31:00,11/01/2020,12:35:00,California: Placer County;,WECC,Suspicious Activity,0,0
+338,2020-11-02 00:00:00,11:12:00,11/02/2020,11:21:00,Florida:,FRCC,Suspicious Activity,0,0
+339,2020-11-07 00:00:00,17:40:00,11/07/2020,22:10:00,Colorado:,WECC,Transmission Interruption,0,0
+340,2020-11-09 00:00:00,12:00:00,11/10/2020,09:45:00,New Hampshire: Coos County;,NPCC,Vandalism,0,0
+341,2020-11-10 00:00:00,10:42:00,11/10/2020,12:45:00,Arizona: Maricopa County;,WECC,System Operations,0,0
+342,2020-11-13 00:00:00,00:20:00,11/13/2020,08:00:00,Washington: Snohomish County;,WECC,System Operations,0,0
+343,2020-11-14 00:00:00,07:40:00,Unknown,Unknown,California: San Bernardino County;,WECC,Fuel Supply Deficiency,0,0
+344,2020-11-15 00:00:00,15:08:00,11/15/2020,22:30:00,Ohio:,RF,Severe Weather,Unknown,123361
+345,2020-11-15 00:00:00,14:52:00,11/16/2020,05:59:00,Ohio:,RF,Severe Weather,Unknown,96809
+346,2020-11-15 00:00:00,12:30:00,11/18/2020,09:44:00,"Michigan: Huron County, Livingston County, Macomb County, Monroe County, Wayne County, Washtenaw County, Tuscola County, St. Clair County, Lapeer County, Oakland County;",RF,Severe Weather,Unknown,150000
+347,2020-11-15 00:00:00,15:37:00,11/17/2020,12:15:00,"Michigan: Iosco County, Oscoda County, Ogemaw County, Livingston County, Ionia County, Barry County;",RF,Severe Weather,Unknown,57327
+348,2020-11-15 00:00:00,23:05:00,11/16/2020,05:00:00,Connecticut: Massachusetts: Maine: New Hampshire: Rhode Island: Vermont:,NPCC,Severe Weather,Unknown,62408
+349,2020-11-15 00:00:00,11:30:00,11/16/2020,03:25:00,Ohio: West Virginia: Virginia: Indiana:,RF,Severe Weather,Unknown,75000
+350,2020-11-18 00:00:00,08:30:00,11/18/2020,10:50:00,Missouri: Jackson County;,SERC,System Operations,0,0
+351,2020-11-18 00:00:00,10:20:00,11/18/2020,11:18:00,Maine:,NPCC,System Operations,0,0
+352,2020-11-20 00:00:00,09:10:00,11/20/2020,09:22:00,Texas: Kentucky: Arizona: New Mexico: Oregon: Washington:,TRE,System Operations,0,Unknown
+353,2020-11-21 00:00:00,11:59:00,11/21/2020,12:59:00,Nevada: Clark County;,WECC,Actual Physical Attack,21,577
+354,2020-11-23 00:00:00,05:50:00,11/23/2020,07:27:00,Wisconsin: Dane County;,MRO,System Operations,0,0
+355,2020-11-30 00:00:00,14:33:00,11/30/2020,17:20:00,Texas: El Paso County;,TRE,Transmission Interruption,0,0
+356,2020-11-30 00:00:00,16:24:00,12/01/2020,14:25:00,Massachusetts: Maine: Connecticut: Rhode Island: Vermont: New Hampshire:,NPCC,Severe Weather,Unknown,116000
+357,2020-12-01 00:00:00,12:32:00,12/01/2020,22:50:00,Ohio:,RF,Severe Weather,Unknown,170190
+358,2020-12-03 00:00:00,09:01:00,12/03/2020,09:03:00,Colorado:,WECC,Transmission Interruption,89,0
+359,2020-12-03 00:00:00,00:44:00,12/05/2020,11:03:00,California: San Diego County;,WECC,Severe Weather,93,73000
+360,2020-12-03 00:00:00,10:57:00,12/04/2020,15:02:00,"California: Kern County, Los Angeles County, Orange County, Riverside County, San Bernardino County, San Diego County, Tulare County, Ventura County;",WECC,Severe Weather,132,51686
+361,2020-12-05 00:00:00,16:40:00,Unknown,Unknown,Connecticut: Massachusetts: Maine: New Hampshire: Rhode Island: Vermont:,NPCC,Severe Weather,Unknown,271231
+362,2020-12-06 00:00:00,09:45:00,12/06/2020,17:00:00,Pennsylvania:,RF,System Operations,0,0
+363,2020-12-07 00:00:00,18:10:00,12/08/2020,21:09:00,"California: Kern County, Los Angeles County, Orange County, Riverside County, San Bernardino County, Ventura County, Tulare County;",WECC,Severe Weather,286,76234
+364,2020-12-08 00:00:00,09:43:00,12/08/2020,10:33:00,Michigan: Wayne County;,RF,System Operations,0,0
+365,2020-12-09 00:00:00,13:20:00,12/09/2020,14:30:00,Missouri: Kansas:,MRO,System Operations,0,0
+366,2020-12-10 00:00:00,16:30:00,12/12/2020,05:00:00,Washington: King County;,WECC,System Operations,0,0
+367,2020-12-11 00:00:00,22:51:00,12/11/2020,23:57:00,Texas: Harris County;,TRE,System Operations,0,0
+368,2020-12-13 00:00:00,06:47:00,12/13/2020,07:36:00,California:,WECC,System Operations,298,159239
+369,2020-12-14 00:00:00,11:00:00,Unknown,Unknown,Idaho: Oregon:,WECC,Cyber Event,0,0
+370,2020-12-14 00:00:00,17:01:00,12/14/2020,17:34:00,California:,WECC,System Operations,0,0
+371,2020-12-14 00:00:00,01:30:00,Unknown,Unknown,New Jersey: Pennsylvania: Maryland: Illinois: Delaware: District of Columbia:,RF,Cyber Event,0,0
+372,2020-12-16 00:00:00,23:20:00,12/17/2020,07:20:00,Oklahoma:,MRO,Transmission Interruption,Unknown,Unknown
+373,2020-12-17 00:00:00,08:07:00,12/17/2020,08:32:00,California:,WECC,Severe Weather,35,17000
+374,2020-12-17 00:00:00,16:19:00,12/17/2020,16:57:00,Michigan: Wayne County;,RF,System Operations,0,0
+375,2020-12-18 00:00:00,06:34:00,12/18/2020,09:51:00,Oregon: Clackamas County;,WECC,Suspicious Activity,0,0
+376,2020-12-20 00:00:00,05:06:00,12/20/2020,05:22:00,California: Los Angeles County;,WECC,Cyber Event,0,0
+377,2020-12-22 00:00:00,02:20:00,12/22/2020,02:21:00,Washington: Pierce County;,WECC,Vandalism,0,2000
+378,2020-12-24 00:00:00,23:40:00,Unknown,Unknown,"Pennsylvania: Bucks County, Chester County, Delaware County, Montgomery County, Philadelphia County, York County;",RF,Severe Weather/Distribution Interruption,Unknown,68114
+379,2020-12-25 00:00:00,03:51:00,12/25/2020,03:52:00,California:,WECC,Vandalism,0,0
+380,2020-12-25 00:00:00,18:51:00,12/25/2020,19:24:00,Ohio: Kentucky:,RF,Suspicious Activity,0,0
+381,2020-12-25 00:00:00,07:55:00,12/25/2020,16:45:00,Connecticut: Maine: New Hampshire: Massachusetts: Rhode Island: Vermont:,NPCC,Severe Weather,Unknown,19000
+382,2020-12-28 00:00:00,17:31:00,12/29/2020,13:31:00,Virginia:,SERC,Vandalism,0,0
